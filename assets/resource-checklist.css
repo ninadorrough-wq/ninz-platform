@@ -1,0 +1,27 @@
+.resource-meta-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.8rem;margin-top:1.5rem}
+.resource-meta{padding:1rem;background:var(--white);border:1px solid var(--line);border-radius:18px}
+.resource-meta strong{display:block;color:var(--charcoal);font-size:.78rem;letter-spacing:.08em;text-transform:uppercase}
+.resource-meta span{display:block;margin-top:.25rem;color:var(--soft-gray);font-weight:700}
+.resource-layout{width:min(1120px,calc(100% - 2rem));margin:0 auto;padding:clamp(2.5rem,6vw,4.8rem) 0 0}
+.resource-checklist{display:grid;gap:1.6rem}
+.checklist-section{background:var(--white);border:1px solid var(--line);border-radius:22px;box-shadow:0 14px 38px rgba(30,30,30,.045);overflow:hidden}
+.checklist-section h2{font-size:clamp(1.75rem,3vw,2.7rem);padding:1.2rem 1.25rem;border-bottom:1px solid var(--line)}
+.checklist-table{width:100%;border-collapse:collapse;table-layout:fixed}
+.checklist-table th,.checklist-table td{padding:.85rem .75rem;border-bottom:1px solid rgba(30,30,30,.08);vertical-align:top;text-align:left}
+.checklist-table th{color:var(--soft-gray);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase}
+.checklist-table tr:last-child td{border-bottom:0}
+.checklist-item{width:40%;font-weight:700;color:var(--charcoal)}
+.state-cell{width:15%;min-width:7.8rem}
+.state-option{display:inline-grid;grid-template-columns:auto 1fr;gap:.5rem;align-items:start;color:var(--soft-gray);font-size:.88rem;font-weight:700;line-height:1.35}
+.state-option input{margin-top:.25rem;accent-color:var(--gold)}
+.resource-checklist>label{display:block;margin-top:.55rem}
+.resource-checklist>label strong{display:block;margin-bottom:.65rem;color:var(--charcoal)}
+.notes-area{display:block;width:100%;min-height:4.3rem;margin-top:0;padding:.85rem;border:1px solid var(--line);border-radius:14px;background:var(--warm-white);font:inherit;resize:vertical}
+.resource-callout{margin-top:1.5rem;padding:1.2rem;background:rgba(200,162,74,.11);border:1px solid rgba(200,162,74,.32);border-radius:20px}
+.resource-callout p{margin:.45rem 0 0;color:var(--soft-gray)}
+.resource-links{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1rem}
+.resource-disclaimer{font-size:.95rem;color:var(--soft-gray)}
+.copy-template{white-space:pre-wrap;margin:1rem 0;padding:1rem;background:var(--white);border:1px solid var(--line);border-radius:14px;color:var(--charcoal);font:600 .95rem/1.65 Inter,system-ui,sans-serif}
+.copy-status{min-height:1.3rem;font-weight:700}
+.prompt-builder .section-heading{margin-top:clamp(2rem,4vw,3rem)}
+@media(max-width:780px){.checklist-table,.checklist-table thead,.checklist-table tbody,.checklist-table tr,.checklist-table th,.checklist-table td{display:block}.checklist-table thead{position:absolute;left:-9999px}.checklist-table tr{padding:1rem;border-bottom:1px solid var(--line)}.checklist-table tr:last-child{border-bottom:0}.checklist-table td{padding:.35rem 0;border:0}.checklist-item{width:auto}.state-cell{min-width:0}.state-cell::before{content:attr(data-label);display:block;margin-bottom:.2rem;color:var(--soft-gray);font-size:.7rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase}}
