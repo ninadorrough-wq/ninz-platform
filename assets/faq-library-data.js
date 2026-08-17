@@ -1,5 +1,5 @@
 window.NINZ_FAQ_LIBRARY = {
-  version: "online-presence-business-visibility-published",
+  version: "business-profiles-reviews-credibility-published",
   organization: {
     name: "NINZ",
     url: "https://ninz.me",
@@ -20,6 +20,7 @@ window.NINZ_FAQ_LIBRARY = {
     { name: "Business Credit & Funding", slug: "business-credit-funding", description: "Foundational education about business credit, funding readiness, lender evaluation, and borrowing concepts.", publicly_visible: true },
     { name: "Grants & Funding Opportunities", slug: "grants-funding-opportunities", description: "General education about grant and funding preparation.", publicly_visible: true },
     { name: "Online Presence & Business Visibility", slug: "online-presence-business-visibility", description: "Plain-language education about websites, business profiles, search tools, analytics, information consistency, and AI-assisted discovery.", publicly_visible: true },
+    { name: "Business Profiles, Reviews & Credibility", slug: "business-profiles-reviews-credibility", description: "Plain-language education about choosing business profiles, directories, review platforms, professional networks, mentorship, and credibility signals.", publicly_visible: true },
     { name: "Business Growth & Operations", slug: "business-growth-operations", description: "Education about practical systems, operations, and growth.", publicly_visible: false }
   
   
@@ -90,6 +91,12 @@ window.NINZ_FAQ_LIBRARY = {
           "title": "Beginner's Guide to AI Prompting",
           "url": "",
           "status": "planned"
+      },
+      {
+          "resource_id": "external-score-business-mentor",
+          "title": "Find a SCORE Business Mentor",
+          "url": "https://www.sba.gov/score",
+          "status": "published"
       }
   ],
   faqs: [
@@ -23260,6 +23267,2637 @@ window.NINZ_FAQ_LIBRARY = {
           "organization_reference": "https://ninz.me/#business",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
+        },
+        {
+          "faq_id": "PRC-001",
+          "question": "How Do I Choose Which Online Profiles and Platforms My Business Should Maintain?",
+          "slug": "choose-online-profiles-platforms-business-should-maintain",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Platform Selection",
+          "topic_tags": [
+            "platform selection",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "Small-business owners are often told to create an account everywhere. That advice ignores the time required to keep each profile accurate, active, secure, and useful.",
+          "short_answer": "Choose platforms by customer behavior, business type, location, content capacity, and measurable purpose. Start with your website and relevant search profiles, then add only the directories, review sites, professional networks, or social channels your customers use and your team can maintain accurately.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Give every platform a job"
+            },
+            {
+              "type": "paragraph",
+              "text": "A platform belongs in your plan when it serves a defined purpose: helping nearby customers verify hours, supporting reviews, displaying work, reaching a professional audience, publishing useful video, building local relationships, or documenting company information. “Other businesses use it” is not a complete reason."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Prioritize by fit"
+            },
+            {
+              "type": "list",
+              "style": "unordered",
+              "items": [
+                [
+                  {
+                    "text": "Local discovery:",
+                    "emphasis": true
+                  },
+                  " Google Business Profile, Bing Places, Yelp, Nextdoor, and selected local directories may matter when people search by location or service area."
+                ],
+                [
+                  {
+                    "text": "Professional identity:",
+                    "emphasis": true
+                  },
+                  " LinkedIn may be useful for business-to-business services, recruiting, partnerships, or founder expertise."
+                ],
+                [
+                  {
+                    "text": "Visual discovery:",
+                    "emphasis": true
+                  },
+                  " Instagram or Pinterest may fit businesses whose products, projects, or ideas are highly visual."
+                ],
+                [
+                  {
+                    "text": "Demonstration and education:",
+                    "emphasis": true
+                  },
+                  " YouTube may fit businesses that can answer questions, teach processes, or demonstrate products on video."
+                ],
+                [
+                  {
+                    "text": "Community and support:",
+                    "emphasis": true
+                  },
+                  " SCORE and a local chamber serve different purposes from social media. One offers mentoring; the other may offer paid membership, networking, advocacy, and directory exposure."
+                ],
+                [
+                  {
+                    "text": "Company-data ecosystems:",
+                    "emphasis": true
+                  },
+                  " Crunchbase may be relevant to startups, technology companies, investors, and organizations with funding or growth information, but not every neighborhood business."
+                ]
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Count the maintenance cost"
+            },
+            {
+              "type": "paragraph",
+              "text": "Before opening an account, decide who will update it, how often it needs attention, how messages and reviews will be handled, and which metric would justify continuing. An incomplete or abandoned profile can confuse customers. As practical NINZ guidance, prioritize a focused set of relevant profiles the business can maintain accurately rather than opening more accounts than the business can manage."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Build from a reliable source of truth"
+            },
+            {
+              "type": "paragraph",
+              "text": "Maintain a master record for the business name, address or service area, phone, website, hours, categories, description, and key links. Adapt the wording to each platform without changing the underlying facts. See VIS-006 and VIS-007 for consistency guidance."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A local home-services company may prioritize Google Business Profile, Bing Places, Yelp, Nextdoor, and Facebook because customers search locally and discuss providers. A business-to-business software consultant may prioritize a strong website, LinkedIn, YouTube, and perhaps Crunchbase. Neither needs every platform in the other plan."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Every business must be on every major platform.",
+              "explanation": "No. Relevance and maintainability matter more than account count."
+            },
+            {
+              "title": "Opening a profile guarantees visibility or leads.",
+              "explanation": "No. A profile only creates a possible presence; results depend on many factors outside the business’s control."
+            },
+            {
+              "title": "The same post should be copied everywhere forever.",
+              "explanation": "No. Reuse can help, but audience expectations and formats differ."
+            },
+            {
+              "title": "More profiles guarantee AI mentions.",
+              "explanation": "No. Accurate public information may help systems understand a business, but no listing guarantees citations, mentions, or recommendations."
+            }
+          ],
+          "related_faq_ids": [
+            "VIS-001",
+            "VIS-005",
+            "VIS-006",
+            "VIS-007",
+            "VIS-015",
+            "PRC-003",
+            "PRC-004"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Build a dependable information foundation before expanding to more profiles."
+              }
+            ],
+            "id": "VIS-006",
+            "button_text": "Keep Business Information Consistent"
+          },
+          "ninz_insight": "The best platform plan is not the longest list. It is the smallest set of useful, accurate presences that your business can maintain with a clear purpose.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-business-why-claim-your-business-page-on-yelp",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Why Claim Your Business Page on Yelp",
+              "source_publisher": "Yelp for Business",
+              "source_url": "https://business.yelp.com/products/business-page/",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-linkedin-linkedin-page-types-and-their-functions",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "LinkedIn Page Types and Their Functions",
+              "source_publisher": "LinkedIn Help",
+              "source_url": "https://www.linkedin.com/help/linkedin/answer/a727893?lang=en",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-business-create-your-business-page-on-nextdoor",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Create Your Business Page on Nextdoor",
+              "source_publisher": "Nextdoor",
+              "source_url": "https://business.nextdoor.com/en-us/getting-started/business-page",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-help-get-a-business-account",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Get a Business Account",
+              "source_publisher": "Pinterest Business Help",
+              "source_url": "https://help.pinterest.com/en/business/article/get-a-business-account",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "evergreen",
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2027-02-08",
+          "review_frequency": "semiannual",
+          "search_aliases": [],
+          "keywords": [
+            "choose",
+            "which",
+            "online",
+            "profiles",
+            "platforms",
+            "business",
+            "should",
+            "maintain"
+          ],
+          "meta_title": "How Do I Choose Which Online Profiles and Platforms My Business Should Maintain? | NINZ FAQ",
+          "meta_description": "Small-business owners are often told to create an account everywhere. That advice ignores the time required to keep each profile accurate, active, secure, and useful.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/choose-online-profiles-platforms-business-should-maintain/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "How Do I Choose Which Online Profiles and Platforms My Business Should Maintain?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-002",
+          "question": "What Is SCORE, and Is Small-Business Mentoring Really Free?",
+          "slug": "what-is-score-free-small-business-mentoring",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Business Mentorship",
+          "topic_tags": [
+            "business mentorship",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "Business owners may need experienced guidance before they need another paid service. SCORE is one established place to look for mentoring and education.",
+          "short_answer": "SCORE is an SBA resource partner and nonprofit network of volunteer business mentors. SCORE mentoring is available at no cost and may continue as business needs change. SCORE also offers workshops and resources; check the specific event or program details before registering.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "SCORE is a mentoring and education resource"
+            },
+            {
+              "type": "paragraph",
+              "text": "The U.S. Small Business Administration describes SCORE as a nonprofit network of volunteer, expert business mentors that helps small businesses plan, launch, manage, and grow. SCORE says mentoring is always free for the life of the business."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "A mentor is a guide, not a decision-maker"
+            },
+            {
+              "type": "paragraph",
+              "text": "A mentor may help an owner organize questions, evaluate options, prepare a business plan, think through financing, improve operations, or identify other resources. The owner remains responsible for decisions and should use licensed legal, accounting, tax, or financial professionals when the issue calls for regulated or individualized advice."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Ask for the expertise you need"
+            },
+            {
+              "type": "paragraph",
+              "text": "When requesting a mentor, describe the business stage, industry, location, challenge, and desired outcome. A good match may take more than one conversation. If the first mentor’s experience is not aligned with the issue, ask SCORE about another mentor or an additional specialist."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Separate mentoring from outcomes"
+            },
+            {
+              "type": "paragraph",
+              "text": "SCORE’s role does not guarantee approval for financing, a grant, business success, revenue, or customer growth. The value is access to experienced perspective and a structured place to work through decisions."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A first-time owner preparing to open a bookkeeping practice could ask a SCORE mentor to review the business model, target customer, startup assumptions, and outreach plan. The owner would still use an attorney or accountant for individualized legal or tax questions."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Free mentoring means low-quality or automated advice.",
+              "explanation": "No. SCORE uses volunteer mentors with business experience, although fit and expertise can vary."
+            },
+            {
+              "title": "SCORE will run my business or make the decision for me.",
+              "explanation": "No. Mentors advise; owners decide and remain responsible."
+            },
+            {
+              "title": "A SCORE mentor can guarantee a loan or grant.",
+              "explanation": "No. Mentoring does not control a lender, agency, competition, or funder."
+            },
+            {
+              "title": "SCORE replaces licensed professional advice.",
+              "explanation": "No. Mentoring and professional legal, tax, accounting, or financial services serve different purposes."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-008",
+            "GRANT-003",
+            "BUS-001"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Use the official SCORE and SBA channels to find a mentor whose background fits your current question."
+              }
+            ],
+            "id": "external-score-business-mentor",
+            "button_text": "Find a SCORE Business Mentor"
+          },
+          "ninz_insight": "Free help is most valuable when the question is specific. Bring your numbers, assumptions, constraints, and decision deadline—not only a general request to “help me grow.”",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-sba-score-business-mentoring",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "SCORE Business Mentoring",
+              "source_publisher": "U.S. Small Business Administration",
+              "source_url": "https://www.sba.gov/local-assistance/resource-partners/score-business-mentoring",
+              "publication_or_update_date": "last updated April 28, 2025; accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-score-score",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "SCORE",
+              "source_publisher": "Free Business Mentoring, Workshops & Resources",
+              "source_url": "https://www.score.org/",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-sba-sba-resource-partners",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "SBA Resource Partners",
+              "source_publisher": "www.sba.gov",
+              "source_url": "https://www.sba.gov/local-assistance/resource-partners",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "evergreen",
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2027-02-08",
+          "review_frequency": "semiannual",
+          "search_aliases": [],
+          "keywords": [
+            "what",
+            "score",
+            "small",
+            "business",
+            "mentoring",
+            "really",
+            "free"
+          ],
+          "meta_title": "What Is SCORE, and Is Small-Business Mentoring Really Free? | NINZ FAQ",
+          "meta_description": "Business owners may need experienced guidance before they need another paid service. SCORE is one established place to look for mentoring and education.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/what-is-score-free-small-business-mentoring/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "What Is SCORE, and Is Small-Business Mentoring Really Free?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-003",
+          "question": "Does My Small Business Need a Yelp Business Page?",
+          "slug": "does-small-business-need-yelp-business-page",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Business Directories & Reviews",
+          "topic_tags": [
+            "business directories & reviews",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "A Yelp page may already exist before a business owner creates an account. The practical question is whether claiming and maintaining it serves the business’s customers.",
+          "short_answer": "A Yelp Business Page is most relevant when customers use Yelp to compare businesses in your category or area. Creating or claiming the basic page is free; Yelp also sells optional upgrades and advertising. Claim the correct page, maintain accurate information, and follow Yelp’s review rules.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Start by searching for the business"
+            },
+            {
+              "type": "paragraph",
+              "text": "Yelp states that a Business Page may be created or claimed by an authorized business representative. Before adding a page, search carefully by business name and location to avoid duplicates. Claiming verifies management access; it does not mean the business advertises with Yelp."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Free listing and paid promotion are different"
+            },
+            {
+              "type": "paragraph",
+              "text": "The basic Yelp Business Page is free. Yelp separately offers paid page upgrades, ads, and other products. A small business can maintain its basic information and respond to reviews without buying advertising. Evaluate any paid option against a defined audience, budget, and measurable objective."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Maintain the information customers use"
+            },
+            {
+              "type": "paragraph",
+              "text": "Review the business name, category, location or service area, hours, phone, website, services, and photos. These facts should agree with the business’s website and other authoritative profiles. Cross-reference VIS-006 and VIS-007 rather than duplicating their consistency guidance."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Yelp’s review-request policy is unusually strict"
+            },
+            {
+              "type": "paragraph",
+              "text": "Yelp tells businesses not to ask customers, subscribers, friends, family, or others to review the business. It also prohibits incentives for reviews and warns that solicited reviews may not be recommended. This differs from Google, which allows non-incentivized requests based on genuine experiences. Use the rules of the destination platform, not one universal review script."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A restaurant finds an unclaimed Yelp page with old hours and a former phone number. The owner claims the existing page, corrects the facts, adds current photos, and monitors feedback. The owner does not create a second page or email customers asking specifically for Yelp reviews."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "A claimed Yelp page means the business pays Yelp.",
+              "explanation": "No. Claiming the basic page is free and separate from advertising."
+            },
+            {
+              "title": "Paying for Yelp ads guarantees better reviews.",
+              "explanation": "No. Yelp says its review recommendation software does not favor advertisers."
+            },
+            {
+              "title": "I should copy my Google review request to Yelp.",
+              "explanation": "No. Yelp tells businesses not to ask for reviews."
+            },
+            {
+              "title": "Yelp must remove any review I dispute.",
+              "explanation": "No. Reporting starts a policy review; disagreement alone does not guarantee removal."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-014",
+            "PRC-015",
+            "VIS-005",
+            "VIS-006",
+            "VIS-007"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Learn how review rules change across Google, Yelp, and Facebook before building a request process."
+              }
+            ],
+            "id": "PRC-015",
+            "button_text": "Compare Review Platforms"
+          },
+          "ninz_insight": "The useful first step on Yelp is ownership and accuracy—not advertising. Know what is free, confirm the page is correct, and learn the platform’s rules before spending money or requesting feedback.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-business-why-claim-your-business-page-on-yelp",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Why Claim Your Business Page on Yelp",
+              "source_publisher": "Yelp for Business",
+              "source_url": "https://business.yelp.com/products/business-page/",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-yelp-support-don-t-ask-for-reviews",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Don’t Ask for Reviews",
+              "source_publisher": "Yelp Support Center",
+              "source_url": "https://www.yelp-support.com/article/Don-t-Ask-for-Reviews?l=en_US",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-yelp-support-how-yelp-moderates-content",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "How Yelp Moderates Content",
+              "source_publisher": "Yelp Support Center",
+              "source_url": "https://www.yelp-support.com/article/How-we-moderate-content-at-Yelp?l=en_US",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "does",
+            "small",
+            "business",
+            "need",
+            "yelp",
+            "page"
+          ],
+          "meta_title": "Does My Small Business Need a Yelp Business Page? | NINZ FAQ",
+          "meta_description": "A Yelp page may already exist before a business owner creates an account. The practical question is whether claiming and maintaining it serves the business’s customers.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/does-small-business-need-yelp-business-page/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Does My Small Business Need a Yelp Business Page?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-004",
+          "question": "Does My Small Business Need a LinkedIn Page?",
+          "slug": "does-small-business-need-linkedin-page",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Professional Platforms",
+          "topic_tags": [
+            "professional platforms",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "LinkedIn can represent both people and organizations. A founder’s personal profile and a business’s LinkedIn Page are related tools, not substitutes for each other.",
+          "short_answer": "A LinkedIn Page may be worthwhile for business-to-business services, recruiting, partnerships, company updates, or employee affiliation. Creating a basic Page is free, while LinkedIn sells optional premium and advertising products. Maintain one only if your audience uses LinkedIn and you can keep it current.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Understand the roles"
+            },
+            {
+              "type": "paragraph",
+              "text": "A LinkedIn personal profile represents an individual. A LinkedIn Page represents an organization. LinkedIn requires a personal account to create and administer a Page, but business activity should not be disguised as a personal profile using a company name."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Use the Page when it supports a real business goal"
+            },
+            {
+              "type": "paragraph",
+              "text": "A Page can show the organization’s description, website, industry, size, specialties, updates, and job opportunities. It may be especially useful when prospects evaluate the company through its leaders and employees, or when recruiting and professional relationships matter."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Free Page and paid products are separate"
+            },
+            {
+              "type": "paragraph",
+              "text": "LinkedIn says a basic Page can be created for free. Premium Company Page subscriptions, Career Pages, advertising, and other products are separate paid options. Do not describe a free Page as requiring a premium subscription, and do not assume payment guarantees reach, leads, or credibility."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Keep administration secure"
+            },
+            {
+              "type": "paragraph",
+              "text": "Assign appropriate admins, remove access when roles change, and encourage administrators to use two-factor authentication. If a Page already exists, request admin access rather than creating a duplicate."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A two-person consulting firm uses the founders’ personal profiles to share individual expertise and a LinkedIn Page to maintain the company description, website, services, and hiring announcements. It posts only when it has a useful update rather than creating daily filler."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "My business Page can replace my personal profile.",
+              "explanation": "No. LinkedIn treats an organization Page and an individual profile as different account types."
+            },
+            {
+              "title": "A Page requires LinkedIn Premium.",
+              "explanation": "No. LinkedIn says the basic Page is free; premium products are optional."
+            },
+            {
+              "title": "Every local consumer business needs LinkedIn.",
+              "explanation": "No. The value depends on customers, hiring, partnerships, and content capacity."
+            },
+            {
+              "title": "A verified or active Page guarantees trust or leads.",
+              "explanation": "No. It may provide context, but outcomes are not guaranteed."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-006",
+            "PRC-009",
+            "VIS-001",
+            "VIS-007"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Decide whether your priority is professional networking, local discovery, recruiting, or customer reviews before adding another profile."
+              }
+            ],
+            "id": "PRC-001",
+            "button_text": "Choose the Right Platforms"
+          },
+          "ninz_insight": "For a small professional-services company, a clear founder profile and an accurate company Page often work together: one shows accountable people; the other establishes the organization.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-linkedin-create-a-linkedin-page",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Create a LinkedIn Page",
+              "source_publisher": "LinkedIn Help",
+              "source_url": "https://www.linkedin.com/help/linkedin/answer/a543852/create-a-linkedin-page?lang=en",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-linkedin-linkedin-page-types-and-their-functions",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "LinkedIn Page Types and Their Functions",
+              "source_publisher": "LinkedIn Help",
+              "source_url": "https://www.linkedin.com/help/linkedin/answer/a727893?lang=en",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-linkedin-ways-to-protect-your-linkedin-page",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Ways to Protect Your LinkedIn Page",
+              "source_publisher": "LinkedIn Help",
+              "source_url": "https://www.linkedin.com/help/linkedin/answer/a7171111",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "does",
+            "small",
+            "business",
+            "need",
+            "linkedin",
+            "page"
+          ],
+          "meta_title": "Does My Small Business Need a LinkedIn Page? | NINZ FAQ",
+          "meta_description": "LinkedIn can represent both people and organizations. A founder’s personal profile and a business’s LinkedIn Page are related tools, not substitutes for each other.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/does-small-business-need-linkedin-page/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Does My Small Business Need a LinkedIn Page?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-005",
+          "question": "What Is the Difference Between a Free BBB Business Listing and BBB Accreditation?",
+          "slug": "free-bbb-business-listing-vs-bbb-accreditation",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Credibility & Accreditation",
+          "topic_tags": [
+            "credibility & accreditation",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "A business can appear on BBB.org without being BBB Accredited. Confusing a profile, a rating, and accreditation can mislead both owners and customers.",
+          "short_answer": "BBB offers a free basic business listing, while BBB Accreditation is an optional, paid status for businesses that apply, qualify, meet BBB standards, and pay annual dues. A BBB profile or rating does not by itself mean accreditation, and accreditation does not guarantee customers, rankings, or sales.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "A listing is not accreditation"
+            },
+            {
+              "type": "paragraph",
+              "text": "BBB currently describes a free business listing as one entry path on BBB.org. A non-accredited business may still have a BBB Business Profile, customer reviews, a rating, or complaint information. The profile should state whether the business is accredited."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Accreditation requires a separate process"
+            },
+            {
+              "type": "paragraph",
+              "text": "BBB Accreditation involves an application and review against BBB’s Standards for Trust. BBB says not every business qualifies, annual dues apply, and fees can depend on factors such as business size and local BBB practices. Accredited businesses receive the right to use the BBB Accredited Business Seal under the applicable rules and may receive additional profile or service features."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "A BBB rating is another distinct concept"
+            },
+            {
+              "type": "paragraph",
+              "text": "A letter rating is not the same as accreditation. A non-accredited business may have a rating, and an accredited business must continue meeting applicable standards. Owners should verify the current profile rather than using “BBB approved,” which can inaccurately imply a government or product endorsement."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Decide based on value and obligations"
+            },
+            {
+              "type": "paragraph",
+              "text": "Before paying, ask the local BBB for exact dues, renewal terms, included benefits, complaint-response expectations, seal-use rules, and profile features. Compare those benefits with the audience the business actually serves and the time required to participate."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A contractor first corrects its free BBB listing and responds professionally to a legitimate complaint. Later, it requests accreditation details from the local BBB. The owner compares annual dues and benefits before applying and never displays the seal unless accreditation is active and its use is authorized."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Every business on BBB.org is accredited.",
+              "explanation": "No. BBB lists accredited and non-accredited businesses."
+            },
+            {
+              "title": "An A rating means the business is accredited.",
+              "explanation": "No. Rating and accreditation are separate."
+            },
+            {
+              "title": "BBB Accreditation is free.",
+              "explanation": "No. BBB says accredited businesses pay annual dues."
+            },
+            {
+              "title": "Accreditation guarantees customers or trust.",
+              "explanation": "No. It is a paid, standards-based status—not a guarantee of business outcomes or every consumer’s opinion."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-008",
+            "PRC-014",
+            "VIS-005",
+            "VIS-006"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Compare any credibility program’s cost, rules, audience, and maintenance requirements before treating it as essential."
+              }
+            ],
+            "id": "PRC-008",
+            "button_text": "Evaluate Chamber Membership"
+          },
+          "ninz_insight": "Credibility language must be precise. “Listed,” “rated,” and “accredited” describe different facts; using the terms correctly protects both the business and the customer.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-bbb-get-your-business-noticed-on-bbb-org",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Get Your Business Noticed on BBB.org",
+              "source_publisher": "Better Business Bureau",
+              "source_url": "https://www.bbb.org/all/business/get-noticed",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-bbb-bbb-accreditation-standards",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "BBB Accreditation Standards",
+              "source_publisher": "www.bbb.org",
+              "source_url": "https://www.bbb.org/business/accreditation/standards",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-bbb-how-bbb-complaints-are-handled",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "How BBB Complaints Are Handled",
+              "source_publisher": "www.bbb.org",
+              "source_url": "https://www.bbb.org/process-of-complaints-and-reviews/complaints",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "high-scrutiny",
+            "update-sensitive"
+          ],
+          "review_type": "source_review",
+          "update_sensitivity": "critical",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "what",
+            "difference",
+            "between",
+            "free",
+            "business",
+            "listing",
+            "accreditation"
+          ],
+          "meta_title": "What Is the Difference Between a Free BBB Business Listing and BBB Accreditation? | NINZ FAQ",
+          "meta_description": "A business can appear on BBB.org without being BBB Accredited. Confusing a profile, a rating, and accreditation can mislead both owners and customers.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/free-bbb-business-listing-vs-bbb-accreditation/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "What Is the Difference Between a Free BBB Business Listing and BBB Accreditation?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-006",
+          "question": "Is Alignable Worth Maintaining for My Small Business?",
+          "slug": "is-alignable-worth-maintaining-small-business",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Professional Networking",
+          "topic_tags": [
+            "professional networking",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "Alignable is designed around business-to-business networking and local business communities. Its usefulness depends less on having a profile than on whether relevant relationships are active there.",
+          "short_answer": "Alignable may be useful if you want relationships, referrals, or conversations with other local business owners and will participate consistently. It offers a free guest level and paid membership options with additional features. Test the free experience first and measure relevant connections before upgrading.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "It is a business network, not a universal directory requirement"
+            },
+            {
+              "type": "paragraph",
+              "text": "An Alignable profile can describe the business, its services, location, team, and recommendations. The platform emphasizes business-to-business relationships and local networking. A profile may be a better fit for a consultant, agency, event provider, commercial service, or referral-driven business than for a company whose customers never use the network."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Free and paid access must be distinguished"
+            },
+            {
+              "type": "paragraph",
+              "text": "Alignable’s current help material describes a free Guest Plan with limited networking capabilities and separately priced Basic, Premium, and Premium+ memberships. Features, prices, credits, and names can change. NINZ should describe the distinction without freezing a specific price into durable educational copy."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Evaluate relationship quality, not connection count"
+            },
+            {
+              "type": "paragraph",
+              "text": "Track conversations with relevant owners, introductions, event participation, referrals that can be attributed, and time spent. A large connection count does not prove that the network produces useful business relationships."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Protect the profile and relationships"
+            },
+            {
+              "type": "paragraph",
+              "text": "Use accurate business information, avoid mass invitations, review account access, and do not describe a recommendation or connection as an independent endorsement when a material relationship exists."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A commercial photographer joins the free plan, completes the profile, and participates in two relevant local groups for ninety days. If the owner develops useful referral relationships, a paid plan can be evaluated. If activity is generic and no target partners participate, the profile can remain basic."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Alignable is completely paid.",
+              "explanation": "No. It currently offers free guest access and optional paid plans."
+            },
+            {
+              "title": "A premium plan guarantees referrals.",
+              "explanation": "No. Paid features do not guarantee relationship quality, leads, or sales."
+            },
+            {
+              "title": "More connections always mean more credibility.",
+              "explanation": "No. Relevance, authenticity, and actual engagement matter."
+            },
+            {
+              "title": "Every local business needs Alignable.",
+              "explanation": "No. Audience and participation determine fit."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-004",
+            "PRC-008",
+            "VIS-007"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Compare a platform account with a relationship-based local membership before spending time or dues."
+              }
+            ],
+            "id": "PRC-008",
+            "button_text": "Evaluate Chamber Membership"
+          },
+          "ninz_insight": "Networking platforms create opportunity only when the right people are present and the owner participates thoughtfully. The profile is the doorway, not the relationship.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-support-does-alignable-cost-anything",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Does Alignable Cost Anything?",
+              "source_publisher": "Alignable Help Center",
+              "source_url": "https://support.alignable.com/hc/en-us/articles/360023661552-Does-Alignable-cost-anything",
+              "publication_or_update_date": "updated January 14, 2026; accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-support-business-profile",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Business Profile",
+              "source_publisher": "Alignable Help Center",
+              "source_url": "https://support.alignable.com/hc/en-us/categories/360004414452-Business-Profile",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "alignable",
+            "worth",
+            "maintaining",
+            "small",
+            "business"
+          ],
+          "meta_title": "Is Alignable Worth Maintaining for My Small Business? | NINZ FAQ",
+          "meta_description": "Alignable is designed around business-to-business networking and local business communities. Its usefulness depends less on having a profile than on whether relevant relationships are active there.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/is-alignable-worth-maintaining-small-business/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Is Alignable Worth Maintaining for My Small Business?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-007",
+          "question": "Does My Local Business Need a Nextdoor Business Page?",
+          "slug": "does-local-business-need-nextdoor-business-page",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Local Community Platforms",
+          "topic_tags": [
+            "local community platforms",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "Nextdoor centers on neighborhoods, so it can be relevant for local businesses even when it adds little value for companies serving national or highly specialized audiences.",
+          "short_answer": "A free Nextdoor Business Page may be useful for a local business whose customers ask neighbors for nearby recommendations. Claim the correct page, keep contact information current, and participate appropriately. It is less relevant when customers are not geographically concentrated or the business cannot maintain local engagement.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Local fit comes first"
+            },
+            {
+              "type": "paragraph",
+              "text": "Nextdoor currently supports Business Pages for eligible local businesses and service providers. Pages may already contain information from third-party public data or member activity, so search by business name and location before creating a new one."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "The basic Business Page is free"
+            },
+            {
+              "type": "paragraph",
+              "text": "Nextdoor describes its Business Page as free and separately offers advertising products. A free page can support business information, photos, messages, posts, Faves, and recommendations, subject to eligibility and feature availability. Advertising is optional and does not guarantee results."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Treat Faves and recommendations accurately"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                "Nextdoor uses the terms ",
+                {
+                  "text": "Faves",
+                  "emphasis": true
+                },
+                " and ",
+                {
+                  "text": "recommendations",
+                  "emphasis": true
+                },
+                " in its business materials. They are platform-specific signals, not universal certifications. Do not claim that a Fave proves service quality or that recommendations guarantee ranking, leads, or trust."
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Participate as a business, not as a disguised neighbor"
+            },
+            {
+              "type": "paragraph",
+              "text": "Use the authorized Business Page for commercial activity and follow current community and business rules. Avoid pretending that promotional content is an independent resident recommendation."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A mobile dog groomer serving four nearby neighborhoods claims the correct Nextdoor Business Page, verifies the service area and contact details, and posts occasional schedule updates. A software exporter with customers across several countries may decide the local network is not a priority."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Every business can benefit equally from Nextdoor.",
+              "explanation": "No. Geographic and community fit are central."
+            },
+            {
+              "title": "A Business Page requires paid ads.",
+              "explanation": "No. Nextdoor describes the basic page as free; ads are separate."
+            },
+            {
+              "title": "A Fave is a professional certification.",
+              "explanation": "No. It is a Nextdoor engagement signal."
+            },
+            {
+              "title": "Recommendations guarantee visibility or leads.",
+              "explanation": "No. Platform signals and outcomes can change."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-003",
+            "PRC-008",
+            "VIS-005",
+            "VIS-007"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Compare neighborhood discovery with the broader directory and review platforms your customers actually use."
+              }
+            ],
+            "id": "PRC-003",
+            "button_text": "Evaluate a Yelp Business Page"
+          },
+          "ninz_insight": "Nextdoor is strongest as a neighborhood-specific channel. A business that cannot explain which neighborhoods it serves probably has not yet defined why it needs the page.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-business-create-your-business-page-on-nextdoor",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Create Your Business Page on Nextdoor",
+              "source_publisher": "business.nextdoor.com",
+              "source_url": "https://business.nextdoor.com/en-us/getting-started/business-page",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-business-nextdoor-business-center",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Nextdoor Business Center",
+              "source_publisher": "business.nextdoor.com",
+              "source_url": "https://business.nextdoor.com/en-us/",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "does",
+            "local",
+            "business",
+            "need",
+            "nextdoor",
+            "page"
+          ],
+          "meta_title": "Does My Local Business Need a Nextdoor Business Page? | NINZ FAQ",
+          "meta_description": "Nextdoor centers on neighborhoods, so it can be relevant for local businesses even when it adds little value for companies serving national or highly specialized audiences.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/does-local-business-need-nextdoor-business-page/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Does My Local Business Need a Nextdoor Business Page?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-008",
+          "question": "Is Joining a Local Chamber of Commerce Worth It?",
+          "slug": "is-joining-local-chamber-of-commerce-worth-it",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Local Business Organizations",
+          "topic_tags": [
+            "local business organizations",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "A local chamber is not simply another free online profile. It is generally a membership organization whose value depends on the local chamber, the benefits offered, and the owner’s participation.",
+          "short_answer": "A chamber membership may be worthwhile for local networking, advocacy, events, referrals, discounts, or a member-directory listing. Membership usually involves dues, and benefits vary by chamber and level. Review the actual audience, costs, obligations, and opportunities you will use before joining.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Chambers are local and independent in practice"
+            },
+            {
+              "type": "paragraph",
+              "text": "A local chamber of commerce brings businesses together around community, networking, education, advocacy, and member services. Local and national chambers are not interchangeable, and each organization can set its own dues, tiers, events, directory rules, and benefits."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Membership and directory exposure are usually linked"
+            },
+            {
+              "type": "paragraph",
+              "text": "The U.S. Chamber’s small-business guidance says local membership can include an online directory listing, networking, publicity, advocacy, and discounts. Those are possible benefits, not promised returns. Confirm exactly what the local chamber provides and whether the directory is public, member-only, or tied to a particular tier."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Evaluate the membership as an operating choice"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ask for current dues, renewal rules, event calendar, member demographics, sponsorship costs, referral practices, committees, and onboarding. Then identify which benefits the business will actually use. A membership that includes excellent events still has little value if the owner cannot attend or follow up."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Do not overstate affiliation"
+            },
+            {
+              "type": "paragraph",
+              "text": "Use the chamber’s current name and approved member language. Membership does not mean government approval, certification, or a guarantee that other members or customers endorse the business."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A local catering company compares two chambers. One has a relevant hospitality network, monthly events the owner can attend, and a searchable member directory. The other has little activity in the company’s service area. The owner joins only the first and sets a six-month review point."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "A chamber listing is always free.",
+              "explanation": "No. It is commonly connected to paid membership; terms vary."
+            },
+            {
+              "title": "Joining guarantees referrals.",
+              "explanation": "No. Relationships and outcomes depend on participation, fit, and many outside factors."
+            },
+            {
+              "title": "A chamber is a government agency.",
+              "explanation": "No. It is a business membership organization, though it may advocate on public policy."
+            },
+            {
+              "title": "Every chamber offers the same benefits.",
+              "explanation": "No. Local rules, audiences, tiers, and services vary."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-002",
+            "PRC-005",
+            "PRC-006",
+            "PRC-007"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Compare a paid local membership with free mentorship before deciding which support resource fits the current need."
+              }
+            ],
+            "id": "PRC-002",
+            "button_text": "Explore Free SCORE Mentoring"
+          },
+          "ninz_insight": "Chamber value is usually created through participation, not the logo alone. Budget both the dues and the owner’s time, then evaluate the relationships and resources actually used.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-uschamber-what-is-a-chamber-of-commerce-and-why-should-",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "What Is a Chamber of Commerce, and Why Should You Join One?",
+              "source_publisher": "U.S. Chamber of Commerce",
+              "source_url": "https://www.uschamber.com/co/start/strategy/what-is-a-chamber-of-commerce",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-uschamber-chamber-of-commerce-directory",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Chamber of Commerce Directory",
+              "source_publisher": "U.S. Chamber of Commerce",
+              "source_url": "https://www.uschamber.com/co/chambers",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "evergreen",
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2027-02-08",
+          "review_frequency": "semiannual",
+          "search_aliases": [],
+          "keywords": [
+            "joining",
+            "local",
+            "chamber",
+            "commerce",
+            "worth"
+          ],
+          "meta_title": "Is Joining a Local Chamber of Commerce Worth It? | NINZ FAQ",
+          "meta_description": "A local chamber is not simply another free online profile. It is generally a membership organization whose value depends on the local chamber, the benefits offered, and the owner’s participation.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/is-joining-local-chamber-of-commerce-worth-it/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Is Joining a Local Chamber of Commerce Worth It?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-009",
+          "question": "Does My Business Need a Crunchbase Profile?",
+          "slug": "does-business-need-crunchbase-profile",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Company Data Profiles",
+          "topic_tags": [
+            "company data profiles",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "Crunchbase is a company-information platform associated with startups, investment, and growth data. That can make it useful for some businesses and irrelevant for many others.",
+          "short_answer": "A Crunchbase profile may be useful for a startup, technology company, investor-facing business, or organization with verifiable founders, funding, acquisitions, or growth information. It is not a universal local-business requirement. Search for an existing profile first and add only accurate, supportable facts.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Decide whether the platform matches the company story"
+            },
+            {
+              "type": "paragraph",
+              "text": "Crunchbase profiles can include company descriptions, industries, headquarters, founders, team members, funding rounds, acquisitions, and related data. A venture-backed startup may have a clear use for that record. A neighborhood salon with no investor or company-data audience may gain little from maintaining it."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Profiles are not controlled like ordinary social accounts"
+            },
+            {
+              "type": "paragraph",
+              "text": "Crunchbase says registered, socially authenticated users can add profiles and that profile pages are not exclusively linked to one user. Some fields may be locked or require verified employment, and some historical or platform-generated data can be changed only by Crunchbase staff."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Free contribution and paid research products are different"
+            },
+            {
+              "type": "paragraph",
+              "text": "Crunchbase currently allows free registered users to add or edit profile information under its rules. It also sells paid data and research products. A company does not need to subscribe to a paid plan merely to be represented accurately, but edit permissions and features can vary."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Use evidence, not promotional invention"
+            },
+            {
+              "type": "paragraph",
+              "text": "Confirm dates, founders, funding, acquisitions, employee information, and descriptions before submission. Do not invent funding rounds, inflate employee counts, or treat Crunchbase Rank or other platform metrics as proof of business quality."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A software startup discovers a partial Crunchbase profile created from public information. A verified employee corrects the website and headquarters, adds supportable founder information, and asks Crunchbase support about a locked field. A local cleaning company decides its time is better spent on local profiles and reviews."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Every business needs Crunchbase.",
+              "explanation": "No. It is most relevant to particular company-data and investment audiences."
+            },
+            {
+              "title": "Creating the profile makes the company investor-ready.",
+              "explanation": "No. A database record does not replace financial, legal, operational, or fundraising readiness."
+            },
+            {
+              "title": "The company fully controls every field.",
+              "explanation": "No. Some data may be community-contributed, locked, historical, or platform-generated."
+            },
+            {
+              "title": "A Crunchbase profile guarantees search or AI citations.",
+              "explanation": "No. No profile guarantees rankings, citations, mentions, or recommendations."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-004",
+            "VIS-006",
+            "VIS-014",
+            "VIS-015"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Understand how public business information can support discovery without promising a particular search or AI outcome."
+              }
+            ],
+            "id": "VIS-014",
+            "button_text": "Learn How Search Systems Understand a Business"
+          },
+          "ninz_insight": "A Crunchbase profile should document a real company story, not manufacture one. If the important fields do not apply to the business, the platform may not deserve maintenance time.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-support-how-do-i-create-a-crunchbase-profile",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "How Do I Create a Crunchbase Profile?",
+              "source_publisher": "Crunchbase Knowledge Center",
+              "source_url": "https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile",
+              "publication_or_update_date": "updated August 28, 2025; accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-support-requirements-to-edit-a-profile",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Requirements to Edit a Profile",
+              "source_publisher": "Crunchbase Knowledge Center",
+              "source_url": "https://support.crunchbase.com/hc/en-us/articles/115010623748-Requirements-to-Edit-a-Profile",
+              "publication_or_update_date": "updated November 8, 2024; accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-support-what-information-can-i-remove-from-a-profile",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "What Information Can I Remove From a Profile?",
+              "source_publisher": "Crunchbase Knowledge Center",
+              "source_url": "https://support.crunchbase.com/hc/en-us/articles/360008319833-What-information-can-I-remove-from-a-profile",
+              "publication_or_update_date": "updated February 19, 2025; accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "does",
+            "business",
+            "need",
+            "crunchbase",
+            "profile"
+          ],
+          "meta_title": "Does My Business Need a Crunchbase Profile? | NINZ FAQ",
+          "meta_description": "Crunchbase is a company-information platform associated with startups, investment, and growth data. That can make it useful for some businesses and irrelevant for many others.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/does-business-need-crunchbase-profile/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Does My Business Need a Crunchbase Profile?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-010",
+          "question": "Should My Business Use a Facebook Page, an Instagram Professional Account, or Both?",
+          "slug": "facebook-page-vs-instagram-professional-account",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Social Platforms",
+          "topic_tags": [
+            "social platforms",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "Facebook and Instagram are both Meta platforms, but their business presences and audience habits are not identical. A business can use one, both, or neither.",
+          "short_answer": "Use a Facebook Page when customers expect business details, community updates, messages, or Recommendations. Use an Instagram professional account when visual content and Instagram engagement fit the audience. Connecting them can simplify selected tools, but it is not required for every use or every business.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Choose based on audience and content"
+            },
+            {
+              "type": "paragraph",
+              "text": "A Facebook Page can represent a business separately from the owner’s personal profile and support business information, posts, messages, and Recommendations. An Instagram professional account can be a Business or Creator account and adds professional tools, insights, contact options, and a public category label."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "“Professional account” is the current Instagram umbrella term"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                "Instagram says professional accounts can be set to ",
+                {
+                  "text": "Business",
+                  "emphasis": true
+                },
+                " or ",
+                {
+                  "text": "Creator",
+                  "emphasis": true
+                },
+                ". A business should choose the type that accurately matches how it operates. Professional accounts are public and cannot be set to private."
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Connecting the accounts is optional but can add cross-app tools"
+            },
+            {
+              "type": "paragraph",
+              "text": "Meta says an Instagram professional account can be connected to a Facebook Page. Depending on eligibility, region, and current features, connection can support cross-posting, shared message management, advertising, promotions, and other tools. Connection does not mean every post should be identical on both platforms."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Organic accounts and paid promotion are separate"
+            },
+            {
+              "type": "paragraph",
+              "text": "Creating and using the basic presences does not require the business to advertise. Ads, promoted posts, and certain commerce or subscription features are separate and subject to current availability and policies."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A bakery uses Instagram to show daily products and a Facebook Page for local event updates, hours, messages, and Recommendations. The accounts are connected for administrative convenience, but captions and posting frequency are adapted to each audience."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "A Facebook personal profile is the same as a business Page.",
+              "explanation": "No. A Page represents the business and is managed through authorized account access."
+            },
+            {
+              "title": "An Instagram professional account must be a Creator account.",
+              "explanation": "No. Professional accounts can be Business or Creator."
+            },
+            {
+              "title": "Connecting Facebook and Instagram guarantees more reach.",
+              "explanation": "No. Connection enables tools; it does not guarantee distribution or results."
+            },
+            {
+              "title": "Every business needs both platforms.",
+              "explanation": "No. Audience, content, capacity, and purpose determine fit."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-013",
+            "PRC-015",
+            "VIS-001",
+            "VIS-007"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Compare Facebook’s Recommendation system with Yelp’s review rules before inviting customer feedback."
+              }
+            ],
+            "id": "PRC-015",
+            "button_text": "Compare Yelp and Facebook Feedback"
+          },
+          "ninz_insight": "Account connection is an administrative choice, not a strategy. First decide what each audience needs; then use Meta’s shared tools only where they reduce work without reducing relevance.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-facebook-create-a-facebook-page",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Create a Facebook Page",
+              "source_publisher": "Facebook Help Center",
+              "source_url": "https://www.facebook.com/help/104002523024878",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-facebook-about-professional-accounts-on-instagram",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "About Professional Accounts on Instagram",
+              "source_publisher": "Instagram Help Center",
+              "source_url": "https://www.facebook.com/help/instagram/138925576505882",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-facebook-connect-a-facebook-page-to-an-instagram-profe",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Connect a Facebook Page to an Instagram Professional Account",
+              "source_publisher": "Instagram Help Center",
+              "source_url": "https://www.facebook.com/help/instagram/790156881117411",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "should",
+            "business",
+            "facebook",
+            "page",
+            "instagram",
+            "professional",
+            "account",
+            "both"
+          ],
+          "meta_title": "Should My Business Use a Facebook Page, an Instagram Professional Account, or Both? | NINZ FAQ",
+          "meta_description": "Facebook and Instagram are both Meta platforms, but their business presences and audience habits are not identical. A business can use one, both, or neither.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/facebook-page-vs-instagram-professional-account/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Should My Business Use a Facebook Page, an Instagram Professional Account, or Both?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-011",
+          "question": "Does My Small Business Need a YouTube Channel?",
+          "slug": "does-small-business-need-youtube-channel",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Video Platforms",
+          "topic_tags": [
+            "video platforms",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "YouTube can support discovery, education, and demonstration, but a channel requires more than uploading one promotional video and leaving it unattended.",
+          "short_answer": "A YouTube channel may be worthwhile when your business can consistently answer questions, demonstrate products, explain processes, or publish useful video for a real audience. It is optional. Start only with a clear content purpose, realistic production capacity, and a plan to maintain accurate channel information.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "A channel creates the public presence"
+            },
+            {
+              "type": "paragraph",
+              "text": "Google says a YouTube channel is required to upload videos, comment, or create playlists. A business can create a channel using a business or other name through a Brand Account, which can support more than one manager or owner."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Video should solve a communication problem"
+            },
+            {
+              "type": "paragraph",
+              "text": "Good business uses include product demonstrations, answers to common questions, process explanations, tutorials, recorded educational sessions, customer onboarding, and evidence of workmanship. A channel is less useful when the business has no repeatable video topics or cannot maintain accurate links and descriptions."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Plan for ownership and continuity"
+            },
+            {
+              "type": "paragraph",
+              "text": "Use organization-controlled access, assign appropriate owners or managers, protect administrator accounts, document the channel handle and recovery details, and remove access when responsibilities change. Avoid building a company channel that only one former employee can control."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Do not promise discovery outcomes"
+            },
+            {
+              "type": "paragraph",
+              "text": "Useful, clear videos can create more ways for people to understand the business, but publishing does not guarantee search rankings, subscribers, leads, sales, citations, or AI recommendations."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "An HVAC company publishes a short monthly video answering seasonal maintenance questions and links viewers to detailed service information on its website. A retailer with no time or useful video format decides to invest in accurate local profiles instead."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Every company needs a YouTube channel.",
+              "explanation": "No. It needs a useful video purpose and capacity."
+            },
+            {
+              "title": "A Google Account automatically gives the business a public channel.",
+              "explanation": "No. A channel must be created for a public YouTube presence."
+            },
+            {
+              "title": "A Brand Account guarantees verification or visibility.",
+              "explanation": "No. It is an account-management structure, not an outcome guarantee."
+            },
+            {
+              "title": "One viral video is a dependable strategy.",
+              "explanation": "No. Virality is unpredictable and should not be promised."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-012",
+            "PRC-013",
+            "VIS-014"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Choose the channel whose format best matches how your customers learn and evaluate options."
+              }
+            ],
+            "id": "PRC-001",
+            "button_text": "Choose the Right Platforms"
+          },
+          "ninz_insight": "Video earns its maintenance cost when showing is more useful than telling. If the same information is clearer as a short page or image, YouTube may not be the first priority.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-support-create-a-youtube-channel",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Create a YouTube Channel",
+              "source_publisher": "YouTube Help",
+              "source_url": "https://support.google.com/youtube/answer/1646861?hl=en",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-support-move-your-youtube-channel-between-brand-accou",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Move Your YouTube Channel Between Brand Accounts",
+              "source_publisher": "YouTube Help",
+              "source_url": "https://support.google.com/youtube/answer/3056283?hl=en",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "does",
+            "small",
+            "business",
+            "need",
+            "youtube",
+            "channel"
+          ],
+          "meta_title": "Does My Small Business Need a YouTube Channel? | NINZ FAQ",
+          "meta_description": "YouTube can support discovery, education, and demonstration, but a channel requires more than uploading one promotional video and leaving it unattended.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/does-small-business-need-youtube-channel/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Does My Small Business Need a YouTube Channel?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-012",
+          "question": "Is Pinterest Worth Maintaining for My Business?",
+          "slug": "is-pinterest-worth-maintaining-business",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Visual Discovery",
+          "topic_tags": [
+            "visual discovery",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "Pinterest is built around visual ideas and discovery. It can fit planning-oriented customer journeys, but it is not a universal social-media requirement.",
+          "short_answer": "Pinterest may be worthwhile when customers plan, compare, save, or shop through visual ideas related to your products or expertise. A Pinterest business account is free and includes analytics; advertising is optional. Use it only if you can publish useful visuals and connect them to relevant, accurate destinations.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Look for planning and visual intent"
+            },
+            {
+              "type": "paragraph",
+              "text": "Pinterest can fit fields such as design, food, weddings, travel, home projects, fashion, crafts, education, and visually explained services. The key question is whether customers save ideas and revisit them while planning—not whether Pinterest appears on a generic marketing checklist."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "A business account adds business tools"
+            },
+            {
+              "type": "paragraph",
+              "text": "Pinterest says a business account is free and provides access to the Business Hub and Pinterest Analytics. A business can create a new account or convert an eligible personal account. Business accounts are public. Advertising and merchant tools are separate and may have additional requirements."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Link content to a useful next step"
+            },
+            {
+              "type": "paragraph",
+              "text": "Pins should accurately represent the destination page, product, article, guide, or resource. Use clear titles and descriptions, accessible images, and working links. Avoid misleading images or pages that do not deliver what the Pin promises."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Measure more than impressions"
+            },
+            {
+              "type": "paragraph",
+              "text": "Pinterest Analytics includes metrics such as impressions, saves, Pin clicks, and outbound clicks. Choose metrics that match the business goal. High impressions without meaningful engagement or qualified website activity may not justify continued effort."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "An interior designer publishes original project images and planning guides that link to relevant service pages. The owner measures saves and qualified outbound visits. A bookkeeping firm without a useful visual-content plan chooses LinkedIn and educational articles instead."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Pinterest is only for product sellers.",
+              "explanation": "No. It can support useful visual education and planning, though fit varies."
+            },
+            {
+              "title": "A business account requires advertising.",
+              "explanation": "No. The account is free; ads are optional."
+            },
+            {
+              "title": "Impressions equal customers.",
+              "explanation": "No. They are one platform metric, not proof of leads or sales."
+            },
+            {
+              "title": "Every image can be reused without permission.",
+              "explanation": "No. Businesses need rights to the content they publish."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-010",
+            "PRC-011",
+            "VIS-011"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Choose platform metrics that connect to a real business goal instead of treating views as business results."
+              }
+            ],
+            "id": "VIS-011",
+            "button_text": "Understand Website Measurement"
+          },
+          "ninz_insight": "Pinterest is valuable when a business can turn expertise or products into ideas people genuinely want to save. A board without a customer purpose is only another account to maintain.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-help-get-a-business-account",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Get a Business Account",
+              "source_publisher": "Pinterest Business Help",
+              "source_url": "https://help.pinterest.com/en/business/article/get-a-business-account",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-help-review-pinterest-analytics",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Review Pinterest Analytics",
+              "source_publisher": "Pinterest Business Help",
+              "source_url": "https://help.pinterest.com/en/business/article/pinterest-analytics",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "pinterest",
+            "worth",
+            "maintaining",
+            "business"
+          ],
+          "meta_title": "Is Pinterest Worth Maintaining for My Business? | NINZ FAQ",
+          "meta_description": "Pinterest is built around visual ideas and discovery. It can fit planning-oriented customer journeys, but it is not a universal social-media requirement.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/is-pinterest-worth-maintaining-business/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Is Pinterest Worth Maintaining for My Business?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-013",
+          "question": "Should My Business Maintain a Professional Account on X?",
+          "slug": "should-business-maintain-professional-account-x",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Professional Social Platforms",
+          "topic_tags": [
+            "professional social platforms",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "X can support public conversation, news, expertise, and customer communication, but fast-moving feeds demand consistent attention and may not match every business audience.",
+          "short_answer": "An X Professional Account may fit a business whose customers, partners, media, or industry communities actively use X and whose team can participate responsibly. Professional features distinguish the account as a business or creator, but they do not guarantee reach, credibility, leads, or sales.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Start with audience presence"
+            },
+            {
+              "type": "paragraph",
+              "text": "X may suit companies that participate in timely industry discussions, publish short updates, respond to public questions, communicate during events, or maintain relationships with media and professional communities. A local business whose customers rarely use X may place it below local search and review profiles."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Use current account terminology"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                "X currently calls its business-oriented option a ",
+                {
+                  "text": "Professional Account",
+                  "emphasis": true
+                },
+                ", which can enable a Professional Profile, a category label, Professional Home, and eligible Profile Spotlights. Feature availability and eligibility can change."
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Organic participation and advertising are separate"
+            },
+            {
+              "type": "paragraph",
+              "text": "A business can maintain an account without buying ads. X Ads and Quick Promote are separate products with additional eligibility and policy requirements. Paid promotion does not guarantee engagement, reputation, customers, or recommendations."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Plan for public-response risk"
+            },
+            {
+              "type": "paragraph",
+              "text": "Document who can post, how sensitive customer issues move to private channels, how corrections are handled, and how access is secured. Fast replies should not come at the expense of accuracy, privacy, or professionalism."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A cybersecurity consultancy uses X to follow official advisories, share brief educational commentary, and direct readers to deeper articles. A neighborhood daycare decides that local search profiles and parent communication channels are more relevant and does not open an X account."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Every brand needs an X account.",
+              "explanation": "No. Audience and communication fit determine value."
+            },
+            {
+              "title": "A Professional Account means X verified the business’s quality.",
+              "explanation": "No. It is an account type subject to eligibility rules, not a quality certification."
+            },
+            {
+              "title": "Paid promotion guarantees followers or customers.",
+              "explanation": "No. Results are not guaranteed."
+            },
+            {
+              "title": "Fast posting matters more than accuracy.",
+              "explanation": "No. Public mistakes can create confusion and credibility risk."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-001",
+            "PRC-004",
+            "PRC-010",
+            "VIS-007"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Compare X with LinkedIn when the goal is professional conversation rather than local discovery."
+              }
+            ],
+            "id": "PRC-004",
+            "button_text": "Evaluate a LinkedIn Page"
+          },
+          "ninz_insight": "X is a conversation commitment, not a box to check. If the business cannot listen, verify, respond, and secure the account, a dormant handle adds little value.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-business-professional-accounts",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Professional Accounts",
+              "source_publisher": "X Business",
+              "source_url": "https://business.x.com/en/help/account-setup/professional-accounts",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-help-professional-account-policy",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Professional Account Policy",
+              "source_publisher": "X Help",
+              "source_url": "https://help.x.com/en/rules-and-policies/professional-account-policy",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-business-get-your-business-started-with-x",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Get Your Business Started With X",
+              "source_publisher": "X Business",
+              "source_url": "https://business.x.com/en/basics/get-your-business-started-with-x",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "update-sensitive"
+          ],
+          "review_type": "standard",
+          "update_sensitivity": "high",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "should",
+            "business",
+            "maintain",
+            "professional",
+            "account"
+          ],
+          "meta_title": "Should My Business Maintain a Professional Account on X? | NINZ FAQ",
+          "meta_description": "X can support public conversation, news, expertise, and customer communication, but fast-moving feeds demand consistent attention and may not match every business audience.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/should-business-maintain-professional-account-x/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "Should My Business Maintain a Professional Account on X?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-014",
+          "question": "How Should a Small Business Request and Respond to Google Reviews?",
+          "slug": "request-respond-google-reviews-small-business",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Review Management",
+          "topic_tags": [
+            "review management",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "Google allows businesses to request reviews, but the request and response process must preserve genuine customer choice and comply with Google’s rules.",
+          "short_answer": "Ask real customers for honest Google reviews without incentives or pressure, using Google’s review link or QR code. Do not request only positive reviews. Respond professionally, protect customer privacy, and report reviews only when they appear to violate policy—not merely because they are critical.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Request genuine, unbiased feedback"
+            },
+            {
+              "type": "paragraph",
+              "text": "Google allows businesses to remind customers to leave reviews and provides a review link or QR code. Its policies prohibit incentives for posting, changing, or removing reviews. They also prohibit selectively soliciting positive feedback or discouraging negative reviews. A consistent, neutral request process is safer than “review gating.”"
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Keep the request simple"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ask after a real transaction or service experience, identify Google as the destination, make the action optional, and request an honest review rather than a five-star rating. Do not ask employees, fake accounts, or people without a genuine experience to create reviews."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Respond for both the reviewer and future reader"
+            },
+            {
+              "type": "paragraph",
+              "text": "Thank the reviewer, address specific feedback, keep the reply concise, and move account details or sensitive disputes to a private channel. Do not disclose private information, attack the reviewer, or write a promotional essay. A calm response can show how the business handles feedback even when the reviewer does not return."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Report by policy, not sentiment"
+            },
+            {
+              "type": "paragraph",
+              "text": "Google may remove content that violates its prohibited and restricted content rules. Flag a review when there is a genuine policy reason and preserve any supporting information. A critical opinion or low rating is not automatically a violation, and reporting does not guarantee removal."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Review practices also face legal scrutiny"
+            },
+            {
+              "type": "paragraph",
+              "text": "The FTC’s Consumer Reviews and Testimonials Rule addresses fake or false reviews, sentiment-conditioned incentives, review suppression, and other deceptive practices. Platform compliance does not eliminate the need to follow applicable law."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A repair company sends the same post-service message to customers: “If you would like to share an honest review of your experience on Google, you can use this link.” It offers no discount, does not screen for happy customers, and responds to a critical review without discussing the customer’s private account details."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "Google prohibits all review requests.",
+              "explanation": "No. It allows requests for genuine reviews without incentives or selective positive solicitation."
+            },
+            {
+              "title": "I can offer a coupon for a five-star review.",
+              "explanation": "No. Google prohibits incentives, and sentiment-conditioned incentives can create legal risk."
+            },
+            {
+              "title": "A negative review must be fake.",
+              "explanation": "No. Critical feedback may reflect a genuine experience."
+            },
+            {
+              "title": "Responding guarantees the reviewer will change the rating.",
+              "explanation": "No. A response can demonstrate professionalism but cannot guarantee an update."
+            }
+          ],
+          "related_faq_ids": [
+            "VIS-002",
+            "VIS-003",
+            "PRC-003",
+            "PRC-015",
+            "VIS-006"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Compare Google’s permitted review requests with Yelp’s no-solicitation policy and Facebook’s Recommendation settings."
+              }
+            ],
+            "id": "PRC-015",
+            "button_text": "Compare Review Platform Rules"
+          },
+          "ninz_insight": "A durable review process asks for honest feedback consistently and protects the customer’s freedom to be critical. Reputation is strengthened by credible practices, not by manufacturing perfect scores.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-support-tips-to-get-more-reviews",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Tips to Get More Reviews",
+              "source_publisher": "Google Business Profile Help",
+              "source_url": "https://support.google.com/business/answer/3474122?hl=en",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-support-prohibited-restricted-content",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Prohibited & Restricted Content",
+              "source_publisher": "Google Business Profile Help",
+              "source_url": "https://support.google.com/business/answer/7400114",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-ftc-consumer-reviews-and-testimonials-rule-questi",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Consumer Reviews and Testimonials Rule: Questions and Answers",
+              "source_publisher": "Federal Trade Commission",
+              "source_url": "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "high-scrutiny",
+            "update-sensitive"
+          ],
+          "review_type": "source_review",
+          "update_sensitivity": "critical",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "should",
+            "small",
+            "business",
+            "request",
+            "respond",
+            "google",
+            "reviews"
+          ],
+          "meta_title": "How Should a Small Business Request and Respond to Google Reviews? | NINZ FAQ",
+          "meta_description": "Google allows businesses to request reviews, but the request and response process must preserve genuine customer choice and comply with Google’s rules.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/request-respond-google-reviews-small-business/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "How Should a Small Business Request and Respond to Google Reviews?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
+        },
+        {
+          "faq_id": "PRC-015",
+          "question": "How Do Yelp Reviews and Facebook Recommendations Differ?",
+          "slug": "yelp-reviews-vs-facebook-recommendations",
+          "category": "Business Profiles, Reviews & Credibility",
+          "category_slug": "business-profiles-reviews-credibility",
+          "subcategory": "Review Platforms",
+          "topic_tags": [
+            "review platforms",
+            "small business",
+            "business credibility"
+          ],
+          "content_status": "published",
+          "opening_context": "“Ask customers for reviews” is not a safe one-size-fits-all instruction. Yelp and Facebook use different terminology, settings, and solicitation expectations.",
+          "short_answer": "Yelp tells businesses not to ask customers for Yelp reviews, while Facebook Pages can enable public Recommendations and reviews. On either platform, never buy, fabricate, pressure, or condition feedback. Learn the current rules for each destination and respond professionally without disclosing private customer information.",
+          "detailed_explanation": [
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Yelp tells businesses not to solicit reviews"
+            },
+            {
+              "type": "paragraph",
+              "text": "Yelp’s official guidance says businesses should not ask customers, mailing-list subscribers, friends, family, or others to review the business. Yelp also prohibits incentives and says solicited reviews may not be recommended by its software. A business can claim its free page, monitor reviews, respond publicly or privately, and report content that appears to violate Yelp’s guidelines."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Facebook uses Recommendations and reviews"
+            },
+            {
+              "type": "paragraph",
+              "parts": [
+                "Meta’s current help material refers to ",
+                {
+                  "text": "Recommendations and reviews",
+                  "emphasis": true
+                },
+                " for business Pages. When the setting is enabled, people logged in to Facebook can publish a Recommendation, and visitors can see the Page’s rating and public feedback. Turning the feature off removes Recommendations and the rating from the Page."
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Do not confuse two meanings of “recommendation”"
+            },
+            {
+              "type": "paragraph",
+              "text": "A customer Recommendation on a Facebook Page is different from Facebook’s broader personalized content-recommendation systems. Neither term means that Facebook, Meta, NINZ, or another independent authority certifies the business."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Use platform-specific operations"
+            },
+            {
+              "type": "paragraph",
+              "text": "For Yelp, do not send review requests. Make the page accurate and let customers choose whether to review. For Facebook, confirm current Page settings and policies before inviting feedback. On both platforms, prohibit fake reviews, staff impersonation, undisclosed conflicts, harassment, incentives tied to sentiment, and attempts to suppress honest criticism."
+            },
+            {
+              "type": "heading",
+              "level": 3,
+              "text": "Compare signals carefully"
+            },
+            {
+              "type": "paragraph",
+              "text": "Star ratings, recommendation scores, review counts, and platform filtering systems are calculated differently and can change. Do not merge them into a homemade “trust score” or promise that one platform’s feedback will improve rankings or AI recommendations elsewhere."
+            },
+            {
+              "type": "example",
+              "label": "Example",
+              "text": "A salon includes a neutral link to its Facebook Page in follow-up communication after genuine appointments, without asking for a positive statement or offering a reward. It does not ask those customers to review the salon on Yelp. On both pages, the manager replies politely and moves private details offline."
+            }
+          ],
+          "common_misconceptions": [
+            {
+              "title": "The same review-request message is safe on every platform.",
+              "explanation": "No. Yelp tells businesses not to solicit reviews; other platforms may allow neutral requests under their rules."
+            },
+            {
+              "title": "Facebook no longer has business feedback because it uses Recommendations.",
+              "explanation": "No. Meta refers to Recommendations and reviews and can display a rating when enabled."
+            },
+            {
+              "title": "Paying for a profile lets me control reviews.",
+              "explanation": "No. Paid products do not create a right to rewrite or remove legitimate customer feedback."
+            },
+            {
+              "title": "More reviews guarantee rankings, leads, or AI mentions.",
+              "explanation": "No. Reviews can inform customers, but no outcome is guaranteed."
+            }
+          ],
+          "related_faq_ids": [
+            "PRC-003",
+            "PRC-010",
+            "PRC-014",
+            "VIS-002",
+            "VIS-015"
+          ],
+          "related_guide_ids": [
+            "learning-center"
+          ],
+          "related_resource_ids": [],
+          "continue_your_journey": {
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Create a compliant Google review process only after understanding how its rules differ from Yelp and Facebook."
+              }
+            ],
+            "id": "PRC-014",
+            "button_text": "Build a Google Review Process"
+          },
+          "ninz_insight": "Review governance begins with the destination. A practice that one platform permits may violate another platform’s rules, so the link, wording, incentive policy, and response process must be platform-specific.",
+          "source_required": true,
+          "sources": [
+            {
+              "source_id": "prc-yelp-support-don-t-ask-for-reviews",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Don’t Ask for Reviews",
+              "source_publisher": "Yelp Support Center",
+              "source_url": "https://www.yelp-support.com/article/Don-t-Ask-for-Reviews?l=en_US",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-yelp-support-how-yelp-moderates-content",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "How Yelp Moderates Content",
+              "source_publisher": "Yelp Support Center",
+              "source_url": "https://www.yelp-support.com/article/How-we-moderate-content-at-Yelp?l=en_US",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-facebook-turn-recommendations-on-or-off-for-your-busin",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Turn Recommendations On or Off for Your Business Page",
+              "source_publisher": "Facebook Help Center",
+              "source_url": "https://www.facebook.com/help/548274415377576",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            },
+            {
+              "source_id": "prc-ftc-soliciting-and-paying-for-online-reviews-a-gu",
+              "source_type": "official platform or institutional guidance",
+              "source_title": "Soliciting and Paying for Online Reviews: A Guide for Marketers",
+              "source_publisher": "Federal Trade Commission",
+              "source_url": "https://www.ftc.gov/business-guidance/resources/soliciting-paying-online-reviews-guide-marketers",
+              "publication_or_update_date": "accessed August 8, 2026",
+              "date_accessed": "2026-08-08",
+              "supported_claims": [],
+              "verification_status": "verified",
+              "verification_notes": "Approved authoritative source rechecked during PRC final QC on 2026-08-08."
+            }
+          ],
+          "content_risk": [
+            "high-scrutiny",
+            "update-sensitive"
+          ],
+          "review_type": "source_review",
+          "update_sensitivity": "critical",
+          "last_reviewed": "2026-08-08",
+          "next_review_due": "2026-11-08",
+          "review_frequency": "quarterly",
+          "search_aliases": [],
+          "keywords": [
+            "yelp",
+            "reviews",
+            "facebook",
+            "recommendations",
+            "differ"
+          ],
+          "meta_title": "How Do Yelp Reviews and Facebook Recommendations Differ? | NINZ FAQ",
+          "meta_description": "“Ask customers for reviews” is not a safe one-size-fits-all instruction. Yelp and Facebook use different terminology, settings, and solicitation expectations.",
+          "canonical_url": "https://ninz.me/faq/business-profiles-reviews-credibility/yelp-reviews-vs-facebook-recommendations/",
+          "schema_type": [
+            "WebPage",
+            "FAQPage",
+            "BreadcrumbList"
+          ],
+          "breadcrumb_data": [
+            "Learning Center",
+            "Business Profiles, Reviews & Credibility",
+            "How Do Yelp Reviews and Facebook Recommendations Differ?"
+          ],
+          "organization_reference": "https://ninz.me/#business",
+          "verification_status": "source_review_complete_editorially_approved_published",
+          "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         }
   ]
 };
