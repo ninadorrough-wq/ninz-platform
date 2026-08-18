@@ -320,9 +320,9 @@
   };
 
   const categoryCard = (category) => {
-    const count = library.faqs.filter((faq) => faq.category_slug === category.slug).length;
+    const count = library.faqs.filter((faq) => faq.category_slug === category.slug && faq.content_status === "published").length;
     const href = category.publicly_visible ? `${category.slug}/` : "";
-    const body = `<span class="line-icon" aria-hidden="true"></span><h3>${escapeHtml(category.name)}</h3><p>${escapeHtml(category.description)}</p><p>${count} seeded question${count === 1 ? "" : "s"}</p>`;
+    const body = `<span class="line-icon" aria-hidden="true"></span><h3>${escapeHtml(category.name)}</h3><p>${escapeHtml(category.description)}</p><p>${count} published FAQ${count === 1 ? "" : "s"}</p>`;
     if (href) return `<a class="card link-card" href="${href}">${body}<span class="learn-more">Browse Topic</span></a>`;
     return `<div class="card">${body}</div>`;
   };

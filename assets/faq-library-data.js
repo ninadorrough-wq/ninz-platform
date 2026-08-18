@@ -29,8 +29,8 @@ window.NINZ_FAQ_LIBRARY = {
       {
           "resource_id": "guide-ai-visibility",
           "title": "The Small Business Guide to AI Visibility",
-          "url": "ai-visibility.html",
-          "status": "published"
+          "url": "",
+          "status": "planned"
       },
       {
           "resource_id": "assessment-ai-visibility",
