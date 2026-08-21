@@ -230,7 +230,7 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "AI - Glossary",
                           "source_publisher": "National Institute of Standards and Technology Computer Security Resource Center",
                           "source_url": "https://csrc.nist.gov/glossary/term/ai",
-                          "publication_or_update_date": "NIST CSRC glossary page accessed August 8, 2026; glossary homepage states terms and definitions last updated May 29, 2026.",
+                          "publication_or_update_date": "Last updated May 29, 2026",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Artificial intelligence is a machine-based system associated with predictions, recommendations, or decisions for human-defined objectives."
@@ -425,7 +425,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Updated 9 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Clear, specific prompts with context and iterative refinement can improve ChatGPT results."
@@ -641,7 +640,7 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "AI - Glossary",
                           "source_publisher": "National Institute of Standards and Technology Computer Security Resource Center",
                           "source_url": "https://csrc.nist.gov/glossary/term/ai",
-                          "publication_or_update_date": "NIST CSRC glossary page accessed August 8, 2026; glossary homepage states terms and definitions last updated May 29, 2026.",
+                          "publication_or_update_date": "Last updated May 29, 2026",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Artificial intelligence is a machine-based system associated with predictions, recommendations, or decisions for human-defined objectives."
@@ -669,7 +668,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Updated 9 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Clear, specific prompts with context and iterative refinement can improve ChatGPT results."
@@ -1182,7 +1180,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Updated 9 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Clear, specific prompts with context and iterative refinement can improve ChatGPT results."
@@ -1476,7 +1473,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Data Controls FAQ",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/7730893-datacontrols-faq",
-                          "publication_or_update_date": "Updated 10 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "ChatGPT data controls vary by account state and settings; users can manage whether conversations help improve models."
@@ -1490,7 +1486,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "How your data is used to improve model performance",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/5722486-api-data-usage-policies",
-                          "publication_or_update_date": "Updated 10 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "OpenAI describes different data-use practices for individual services and business services, including default business data handling."
@@ -1504,7 +1499,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Managing data, sharing, and privacy in ChatGPT Business",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/8798634",
-                          "publication_or_update_date": "Updated 8 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "ChatGPT Business workspace data is excluded from training by default and encrypted in transit and at rest."
@@ -1850,7 +1844,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Updated 9 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Clear, specific prompts with context and iterative refinement can improve ChatGPT results."
@@ -2221,7 +2214,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Updated 9 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Clear, specific prompts with context and iterative refinement can improve ChatGPT results."
@@ -2577,7 +2569,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Updated 9 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Clear, specific prompts with context and iterative refinement can improve ChatGPT results."
@@ -3023,7 +3014,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Updated 9 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Clear, specific prompts with context and iterative refinement can improve ChatGPT results."
@@ -3037,7 +3027,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Data Controls FAQ",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/7730893-datacontrols-faq",
-                          "publication_or_update_date": "Updated 10 days before August 8, 2026 according to the page viewed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "ChatGPT data controls vary by account state and settings; users can manage whether conversations help improve models."
@@ -3227,7 +3216,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Learn about responses from Gemini Apps",
                           "source_publisher": "Google Gemini Apps Help",
                           "source_url": "https://support.google.com/gemini/answer/16279220?hl=en",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Gemini Apps may produce inaccurate information and users should double-check responses."
@@ -3402,7 +3390,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Learn about responses from Gemini Apps",
                           "source_publisher": "Google Gemini Apps Help",
                           "source_url": "https://support.google.com/gemini/answer/16279220?hl=en",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Gemini Apps may produce inaccurate information and users should double-check responses."
@@ -3416,7 +3403,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "View related sources from Gemini Apps",
                           "source_publisher": "Google Gemini Apps Help",
                           "source_url": "https://support.google.com/gemini/answer/14143489?hl=en-RS",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that source and related-link features vary by response."
@@ -3430,7 +3416,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about clear, specific prompts, useful context, and iterative refinement."
@@ -3590,7 +3575,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Learn about responses from Gemini Apps",
                           "source_publisher": "Google Gemini Apps Help",
                           "source_url": "https://support.google.com/gemini/answer/16279220?hl=en",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Gemini Apps may produce inaccurate information and users should double-check responses."
@@ -3604,7 +3588,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "View related sources from Gemini Apps",
                           "source_publisher": "Google Gemini Apps Help",
                           "source_url": "https://support.google.com/gemini/answer/14143489?hl=en-RS",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that source and related-link features vary by response."
@@ -3618,7 +3601,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about clear, specific prompts, useful context, and iterative refinement."
@@ -3786,7 +3768,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Data Controls FAQ",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/7730893-datacontrols-faq",
-                          "publication_or_update_date": "Page displayed updated 10 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about ChatGPT data controls and user settings."
@@ -3800,7 +3781,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "How your data is used to improve model performance",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/5722486-api-data-usage-policies",
-                          "publication_or_update_date": "Page displayed updated 10 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that data-use practices differ for individual and business services."
@@ -3842,7 +3822,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Microsoft 365 Copilot Chat privacy and protections",
                           "source_publisher": "Microsoft Learn",
                           "source_url": "https://learn.microsoft.com/en-ca/copilot/privacy-and-protections",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Copilot web grounding and privacy protections depend on service boundaries, subscription, and settings."
@@ -4005,7 +3984,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about clear, specific prompts, useful context, and iterative refinement."
@@ -4166,7 +4144,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about clear, specific prompts, useful context, and iterative refinement."
@@ -4334,7 +4311,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "How does Reference saved memories work?",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/11146739-how-does-reference-saved-memories-work",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about saved memories, chat history reference, and user controls."
@@ -4348,7 +4324,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Data Controls FAQ",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/7730893-datacontrols-faq",
-                          "publication_or_update_date": "Page displayed updated 10 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about ChatGPT data controls and user settings."
@@ -4390,7 +4365,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Microsoft 365 Copilot Chat privacy and protections",
                           "source_publisher": "Microsoft Learn",
                           "source_url": "https://learn.microsoft.com/en-ca/copilot/privacy-and-protections",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Copilot web grounding and privacy protections depend on service boundaries, subscription, and settings."
@@ -4533,7 +4507,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "How does Reference saved memories work?",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/11146739-how-does-reference-saved-memories-work",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about saved memories, chat history reference, and user controls."
@@ -4547,7 +4520,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Data Controls FAQ",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/7730893-datacontrols-faq",
-                          "publication_or_update_date": "Page displayed updated 10 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about ChatGPT data controls and user settings."
@@ -4575,7 +4547,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Microsoft 365 Copilot Chat privacy and protections",
                           "source_publisher": "Microsoft Learn",
                           "source_url": "https://learn.microsoft.com/en-ca/copilot/privacy-and-protections",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Copilot web grounding and privacy protections depend on service boundaries, subscription, and settings."
@@ -4718,7 +4689,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Data Controls FAQ",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/7730893-datacontrols-faq",
-                          "publication_or_update_date": "Page displayed updated 10 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about ChatGPT data controls and user settings."
@@ -4732,7 +4702,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "How your data is used to improve model performance",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/5722486-api-data-usage-policies",
-                          "publication_or_update_date": "Page displayed updated 10 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that data-use practices differ for individual and business services."
@@ -4746,7 +4715,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "How does Reference saved memories work?",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/11146739-how-does-reference-saved-memories-work",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about saved memories, chat history reference, and user controls."
@@ -4788,7 +4756,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Microsoft 365 Copilot Chat privacy and protections",
                           "source_publisher": "Microsoft Learn",
                           "source_url": "https://learn.microsoft.com/en-ca/copilot/privacy-and-protections",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Copilot web grounding and privacy protections depend on service boundaries, subscription, and settings."
@@ -4953,7 +4920,7 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Web search",
                           "source_publisher": "OpenAI Academy",
                           "source_url": "https://academy.openai.com/public/clubs/work-users-ynjqu/resources/web-search",
-                          "publication_or_update_date": "Published September 23, 2025; last updated May 29, 2026 according to page snippet.",
+                          "publication_or_update_date": "Published September 23, 2025; last updated May 29, 2026",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that ChatGPT search can pull current information when available."
@@ -4967,7 +4934,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Data Controls FAQ",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/7730893-datacontrols-faq",
-                          "publication_or_update_date": "Page displayed updated 10 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about ChatGPT data controls and user settings."
@@ -4995,7 +4961,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "View related sources from Gemini Apps",
                           "source_publisher": "Google Gemini Apps Help",
                           "source_url": "https://support.google.com/gemini/answer/14143489?hl=en-RS",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that source and related-link features vary by response."
@@ -5009,7 +4974,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "What information does Copilot use to answer my prompt?",
                           "source_publisher": "Microsoft Support",
                           "source_url": "https://support.microsoft.com/en-us/Microsoft-365-Copilot/what-information-does-copilot-use-to-answer-my-prompt",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Copilot may use work, web, and local grounding depending on context and license."
@@ -5023,7 +4987,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Microsoft 365 Copilot Chat privacy and protections",
                           "source_publisher": "Microsoft Learn",
                           "source_url": "https://learn.microsoft.com/en-ca/copilot/privacy-and-protections",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Copilot web grounding and privacy protections depend on service boundaries, subscription, and settings."
@@ -5196,7 +5159,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about clear, specific prompts, useful context, and iterative refinement."
@@ -5210,7 +5172,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "View related sources from Gemini Apps",
                           "source_publisher": "Google Gemini Apps Help",
                           "source_url": "https://support.google.com/gemini/answer/14143489?hl=en-RS",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that source and related-link features vary by response."
@@ -5224,7 +5185,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "What information does Copilot use to answer my prompt?",
                           "source_publisher": "Microsoft Support",
                           "source_url": "https://support.microsoft.com/en-us/Microsoft-365-Copilot/what-information-does-copilot-use-to-answer-my-prompt",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Copilot may use work, web, and local grounding depending on context and license."
@@ -5398,7 +5358,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "LLM - Glossary",
                           "source_publisher": "National Institute of Standards and Technology Computer Security Resource Center",
                           "source_url": "https://csrc.nist.gov/glossary/term/llm",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports the abbreviation LLM for large language model."
@@ -5543,7 +5502,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "LLM - Glossary",
                           "source_publisher": "National Institute of Standards and Technology Computer Security Resource Center",
                           "source_url": "https://csrc.nist.gov/glossary/term/llm",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports the abbreviation LLM for large language model."
@@ -5571,7 +5529,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about clear, specific prompts, useful context, and iterative refinement."
@@ -5756,7 +5713,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "LLM - Glossary",
                           "source_publisher": "National Institute of Standards and Technology Computer Security Resource Center",
                           "source_url": "https://csrc.nist.gov/glossary/term/llm",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports the abbreviation LLM for large language model."
@@ -5770,7 +5726,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about clear, specific prompts, useful context, and iterative refinement."
@@ -5915,7 +5870,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Prompt engineering best practices for ChatGPT",
                           "source_publisher": "OpenAI Help Center",
                           "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                          "publication_or_update_date": "Page displayed updated 9 days before August 8, 2026 when accessed.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims about clear, specific prompts, useful context, and iterative refinement."
@@ -5943,7 +5897,6 @@ window.NINZ_FAQ_LIBRARY = {
                           "source_title": "Learn about responses from Gemini Apps",
                           "source_publisher": "Google Gemini Apps Help",
                           "source_url": "https://support.google.com/gemini/answer/16279220?hl=en",
-                          "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                           "date_accessed": "2026-08-08",
                           "supported_claims": [
                                 "Supports claims that Gemini Apps may produce inaccurate information and users should double-check responses."
@@ -6105,7 +6058,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "LLM - Glossary",
                                       "source_publisher": "National Institute of Standards and Technology Computer Security Resource Center",
                                       "source_url": "https://csrc.nist.gov/glossary/term/llm",
-                                      "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "LLM is an abbreviation for large language model."
@@ -6119,7 +6071,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "ChatGPT",
                                       "source_publisher": "OpenAI",
                                       "source_url": "https://openai.com/chatgpt/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT is OpenAI’s conversational AI product and supports chat, voice, images, file uploads, and plan-dependent features."
@@ -6300,7 +6251,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "ChatGPT",
                                       "source_publisher": "OpenAI",
                                       "source_url": "https://openai.com/chatgpt/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT is OpenAI’s conversational AI product and supports chat, voice, images, file uploads, and plan-dependent features."
@@ -6314,7 +6264,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterprise",
                                       "source_publisher": "OpenAI",
                                       "source_url": "https://openai.com/chatgpt/pricing/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT plans and feature access vary by plan; free and paid access include different limits and capabilities."
@@ -6328,7 +6277,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Data Controls FAQ",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/7730893-datacontrols-faq",
-                                      "publication_or_update_date": "Page displayed updated 10 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT data controls and model-improvement settings vary by account state and settings."
@@ -6342,7 +6290,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Managing data, sharing, and privacy in ChatGPT Business",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/8798634",
-                                      "publication_or_update_date": "Page displayed updated 2 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT Business workspace data is excluded from training by default and collaboration boundaries differ from personal accounts."
@@ -6522,7 +6469,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Learn about responses from Gemini Apps",
                                       "source_publisher": "Google Gemini Apps Help",
                                       "source_url": "https://support.google.com/gemini/answer/16279220?hl=en",
-                                      "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Gemini Apps may produce inaccurate information and users should double-check responses, especially for professional topics."
@@ -6703,7 +6649,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Plans & Pricing",
                                       "source_publisher": "Claude by Anthropic",
                                       "source_url": "https://claude.com/pricing",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Claude has free and paid plans with plan-dependent usage, memory, web search, research, connectors, and business features."
@@ -6897,7 +6842,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "How does Perplexity work?",
                                       "source_publisher": "Perplexity Help Center",
                                       "source_url": "https://www.perplexity.ai/help-center/en/articles/10352895-how-does-perplexity-work",
-                                      "publication_or_update_date": "Updated over a month before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Perplexity searches the internet in real time, summarizes information, and includes citations; advanced search features and model selection vary by plan."
@@ -7077,7 +7021,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Microsoft 365 Copilot overview",
                                       "source_publisher": "Microsoft Learn",
                                       "source_url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview",
-                                      "publication_or_update_date": "Published last month according to search result accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Microsoft 365 Copilot is an AI-powered tool for work tasks that can use internet-based content and work content users have permission to access."
@@ -7091,7 +7034,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What is the Microsoft 365 Copilot app?",
                                       "source_publisher": "Microsoft Support",
                                       "source_url": "https://support.microsoft.com/en-us/microsoft-365-copilot/what-is-the-microsoft-365-copilot-app",
-                                      "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "The Microsoft 365 Copilot app helps users create or upload files, ask questions, collaborate on AI-generated content, and access agents/apps."
@@ -7105,7 +7047,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Microsoft 365 Copilot Chat privacy and protections",
                                       "source_publisher": "Microsoft Learn",
                                       "source_url": "https://learn.microsoft.com/en-ca/copilot/privacy-and-protections",
-                                      "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Microsoft 365 Copilot Chat privacy and web-grounding behavior depends on service boundaries, subscription, and whether web grounding is enabled."
@@ -7270,7 +7211,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "About Grok",
                                       "source_publisher": "X Help Center",
                                       "source_url": "https://help.x.com/en/using-x/about-grok",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Grok is available on X where X is available; X/xAI data use, personalization, training opt-out, deletion, and accuracy cautions are described in X Help."
@@ -7450,7 +7390,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "DeepSeek Terms of Use",
                                       "source_publisher": "DeepSeek",
                                       "source_url": "https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "DeepSeek terms require users publishing outputs to verify authenticity and accuracy and identify AI-generated output as applicable."
@@ -7630,7 +7569,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Generative AI at Meta",
                                       "source_publisher": "Meta Privacy Center",
                                       "source_url": "https://www.facebook.com/privacy/guide/genai/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Meta describes generative AI features across Meta products, including chatting with AI and creating new content."
@@ -7796,7 +7734,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterprise",
                                       "source_publisher": "OpenAI",
                                       "source_url": "https://openai.com/chatgpt/pricing/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT plans and feature access vary by plan; free and paid access include different limits and capabilities."
@@ -7824,7 +7761,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Plans & Pricing",
                                       "source_publisher": "Claude by Anthropic",
                                       "source_url": "https://claude.com/pricing",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Claude has free and paid plans with plan-dependent usage, memory, web search, research, connectors, and business features."
@@ -7852,7 +7788,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What is the Microsoft 365 Copilot app?",
                                       "source_publisher": "Microsoft Support",
                                       "source_url": "https://support.microsoft.com/en-us/microsoft-365-copilot/what-is-the-microsoft-365-copilot-app",
-                                      "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "The Microsoft 365 Copilot app helps users create or upload files, ask questions, collaborate on AI-generated content, and access agents/apps."
@@ -8001,7 +7936,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Managing data, sharing, and privacy in ChatGPT Business",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/8798634",
-                                      "publication_or_update_date": "Page displayed updated 2 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT Business workspace data is excluded from training by default and collaboration boundaries differ from personal accounts."
@@ -8029,7 +7963,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Plans & Pricing",
                                       "source_publisher": "Claude by Anthropic",
                                       "source_url": "https://claude.com/pricing",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Claude has free and paid plans with plan-dependent usage, memory, web search, research, connectors, and business features."
@@ -8057,7 +7990,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Microsoft 365 Copilot overview",
                                       "source_publisher": "Microsoft Learn",
                                       "source_url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview",
-                                      "publication_or_update_date": "Published last month according to search result accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Microsoft 365 Copilot is an AI-powered tool for work tasks that can use internet-based content and work content users have permission to access."
@@ -8223,7 +8155,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "ChatGPT",
                                       "source_publisher": "OpenAI",
                                       "source_url": "https://openai.com/chatgpt/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT is OpenAI’s conversational AI product and supports chat, voice, images, file uploads, and plan-dependent features."
@@ -8279,7 +8210,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "How does Perplexity work?",
                                       "source_publisher": "Perplexity Help Center",
                                       "source_url": "https://www.perplexity.ai/help-center/en/articles/10352895-how-does-perplexity-work",
-                                      "publication_or_update_date": "Updated over a month before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Perplexity searches the internet in real time, summarizes information, and includes citations; advanced search features and model selection vary by plan."
@@ -8429,7 +8359,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterprise",
                                       "source_publisher": "OpenAI",
                                       "source_url": "https://openai.com/chatgpt/pricing/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT plans and feature access vary by plan; free and paid access include different limits and capabilities."
@@ -8443,7 +8372,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Plans & Pricing",
                                       "source_publisher": "Claude by Anthropic",
                                       "source_url": "https://claude.com/pricing",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Claude has free and paid plans with plan-dependent usage, memory, web search, research, connectors, and business features."
@@ -8457,7 +8385,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "How does Perplexity work?",
                                       "source_publisher": "Perplexity Help Center",
                                       "source_url": "https://www.perplexity.ai/help-center/en/articles/10352895-how-does-perplexity-work",
-                                      "publication_or_update_date": "Updated over a month before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Perplexity searches the internet in real time, summarizes information, and includes citations; advanced search features and model selection vary by plan."
@@ -8471,7 +8398,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What is the Microsoft 365 Copilot app?",
                                       "source_publisher": "Microsoft Support",
                                       "source_url": "https://support.microsoft.com/en-us/microsoft-365-copilot/what-is-the-microsoft-365-copilot-app",
-                                      "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "The Microsoft 365 Copilot app helps users create or upload files, ask questions, collaborate on AI-generated content, and access agents/apps."
@@ -8632,7 +8558,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterprise",
                                       "source_publisher": "OpenAI",
                                       "source_url": "https://openai.com/chatgpt/pricing/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT plans and feature access vary by plan; free and paid access include different limits and capabilities."
@@ -8660,7 +8585,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Plans & Pricing",
                                       "source_publisher": "Claude by Anthropic",
                                       "source_url": "https://claude.com/pricing",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Claude has free and paid plans with plan-dependent usage, memory, web search, research, connectors, and business features."
@@ -8688,7 +8612,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What is the Microsoft 365 Copilot app?",
                                       "source_publisher": "Microsoft Support",
                                       "source_url": "https://support.microsoft.com/en-us/microsoft-365-copilot/what-is-the-microsoft-365-copilot-app",
-                                      "publication_or_update_date": "No specific page publication date displayed; accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "The Microsoft 365 Copilot app helps users create or upload files, ask questions, collaborate on AI-generated content, and access agents/apps."
@@ -8852,7 +8775,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterprise",
                                       "source_publisher": "OpenAI",
                                       "source_url": "https://openai.com/chatgpt/pricing/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT plans and feature access vary by plan; free and paid access include different limits and capabilities."
@@ -8880,7 +8802,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Plans & Pricing",
                                       "source_publisher": "Claude by Anthropic",
                                       "source_url": "https://claude.com/pricing",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Claude has free and paid plans with plan-dependent usage, memory, web search, research, connectors, and business features."
@@ -8894,7 +8815,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "How does Perplexity work?",
                                       "source_publisher": "Perplexity Help Center",
                                       "source_url": "https://www.perplexity.ai/help-center/en/articles/10352895-how-does-perplexity-work",
-                                      "publication_or_update_date": "Updated over a month before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Perplexity searches the internet in real time, summarizes information, and includes citations; advanced search features and model selection vary by plan."
@@ -8908,7 +8828,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Microsoft 365 Copilot overview",
                                       "source_publisher": "Microsoft Learn",
                                       "source_url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview",
-                                      "publication_or_update_date": "Published last month according to search result accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Microsoft 365 Copilot is an AI-powered tool for work tasks that can use internet-based content and work content users have permission to access."
@@ -9084,7 +9003,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Artificial Intelligence",
                                       "source_publisher": "National Institute of Standards and Technology Computer Security Resource Center",
                                       "source_url": "https://csrc.nist.gov/glossary/term/artificial_intelligence",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "NIST defines AI as a machine-based system that can make predictions, recommendations, or decisions for human-defined objectives."
@@ -9112,7 +9030,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -9276,7 +9193,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Artificial Intelligence",
                                       "source_publisher": "National Institute of Standards and Technology Computer Security Resource Center",
                                       "source_url": "https://csrc.nist.gov/glossary/term/artificial_intelligence",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "NIST defines AI as a machine-based system that can make predictions, recommendations, or decisions for human-defined objectives."
@@ -9304,7 +9220,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -9479,7 +9394,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -9646,7 +9560,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -9660,7 +9573,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What are the Data Controls settings?",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/8983077-what-are-the-data-controls-settings",
-                                      "publication_or_update_date": "Page displayed updated 29 minutes before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT data controls can affect whether conversations are used to train models and can support data export and account deletion options."
@@ -9674,7 +9586,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Privacy and Security",
                                       "source_publisher": "Federal Trade Commission",
                                       "source_url": "https://consumer.ftc.gov/business-guidance/privacy-security",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Businesses should honor privacy promises and be careful with consumer personal information and data security responsibilities."
@@ -9836,7 +9747,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -10034,7 +9944,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Trustworthy and Responsible AI",
                                       "source_publisher": "National Institute of Standards and Technology",
                                       "source_url": "https://www.nist.gov/trustworthy-and-responsible-ai",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Trustworthy AI considerations include validity and reliability, safety, security, accountability, transparency, explainability, privacy, and fairness."
@@ -10048,7 +9957,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -10239,7 +10147,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Trustworthy and Responsible AI",
                                       "source_publisher": "National Institute of Standards and Technology",
                                       "source_url": "https://www.nist.gov/trustworthy-and-responsible-ai",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Trustworthy AI considerations include validity and reliability, safety, security, accountability, transparency, explainability, privacy, and fairness."
@@ -10253,7 +10160,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Privacy and Security",
                                       "source_publisher": "Federal Trade Commission",
                                       "source_url": "https://consumer.ftc.gov/business-guidance/privacy-security",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Businesses should honor privacy promises and be careful with consumer personal information and data security responsibilities."
@@ -10429,7 +10335,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Advertising and Marketing",
                                       "source_publisher": "Federal Trade Commission",
                                       "source_url": "https://www.ftc.gov/business-guidance/advertising-marketing",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Advertising claims should be truthful, not deceptive or unfair, and evidence-based; specialized products or services may have additional requirements."
@@ -10457,7 +10362,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -10620,7 +10524,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -10816,8 +10719,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Write your business plan",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan?showAll=true",
-                                      "publication_or_update_date": "Page displayed published 8 months before August 8, 2026 when accessed.",
+                                      "source_url": "https://www.sba.gov/counseling/plan-your-business/#business-plan",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business plans help owners think through structure, operations, growth, market analysis, sales strategy, funding needs, and financial projections."
@@ -10859,7 +10761,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -11035,7 +10936,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Trustworthy and Responsible AI",
                                       "source_publisher": "National Institute of Standards and Technology",
                                       "source_url": "https://www.nist.gov/trustworthy-and-responsible-ai",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Trustworthy AI considerations include validity and reliability, safety, security, accountability, transparency, explainability, privacy, and fairness."
@@ -11049,7 +10949,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What are the Data Controls settings?",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/8983077-what-are-the-data-controls-settings",
-                                      "publication_or_update_date": "Page displayed updated 29 minutes before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "ChatGPT data controls can affect whether conversations are used to train models and can support data export and account deletion options."
@@ -11063,7 +10962,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Privacy and Security",
                                       "source_publisher": "Federal Trade Commission",
                                       "source_url": "https://consumer.ftc.gov/business-guidance/privacy-security",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Businesses should honor privacy promises and be careful with consumer personal information and data security responsibilities."
@@ -11222,7 +11120,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Artificial Intelligence",
                                       "source_publisher": "National Institute of Standards and Technology Computer Security Resource Center",
                                       "source_url": "https://csrc.nist.gov/glossary/term/artificial_intelligence",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "NIST defines AI as a machine-based system that can make predictions, recommendations, or decisions for human-defined objectives."
@@ -11410,7 +11307,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -11587,7 +11483,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Trustworthy and Responsible AI",
                                       "source_publisher": "National Institute of Standards and Technology",
                                       "source_url": "https://www.nist.gov/trustworthy-and-responsible-ai",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Trustworthy AI considerations include validity and reliability, safety, security, accountability, transparency, explainability, privacy, and fairness."
@@ -11601,7 +11496,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Privacy and Security",
                                       "source_publisher": "Federal Trade Commission",
                                       "source_url": "https://consumer.ftc.gov/business-guidance/privacy-security",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Businesses should honor privacy promises and be careful with consumer personal information and data security responsibilities."
@@ -11783,7 +11677,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Prompt engineering best practices for ChatGPT",
                                       "source_publisher": "OpenAI Help Center",
                                       "source_url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
-                                      "publication_or_update_date": "Page displayed updated 6 days before August 8, 2026 when accessed.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "OpenAI recommends clear, specific prompts, enough context, desired output guidance, tone instructions, and iterative refinement."
@@ -11958,7 +11851,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Launch your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA identifies common launch steps including location, structure, name, registration, tax IDs, licenses and permits, bank account, and insurance."
@@ -11972,7 +11864,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Register your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business registration depends on business structure and location; registration can involve state agencies, local agencies, DBAs, registered agents, and reporting requirements."
@@ -11986,7 +11878,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Apply for licenses and permits",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits",
-                                      "publication_or_update_date": "Last updated March 24, 2026 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 24, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Licenses and permit requirements and fees vary by business activities, location, and government rules; some activities are regulated by federal agencies."
@@ -12145,7 +12037,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Choose a business structure",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/choose-business-structure",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business structure affects taxes, registration, paperwork, personal liability, ownership, and filing requirements; ownership rules, liability, taxes, and filing requirements vary by state."
@@ -12173,7 +12065,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Publication 3402, Taxation of Limited Liability Companies",
                                       "source_publisher": "Internal Revenue Service",
                                       "source_url": "https://www.irs.gov/publications/p3402",
-                                      "publication_or_update_date": "Publication 3402 revised March 2020; accessed August 8, 2026",
+                                      "publication_or_update_date": "Publication 3402 revised March 2020",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "LLC federal tax classification can differ from state-law formation; LLCs may be classified under default rules or elect corporate tax treatment when eligible."
@@ -12187,7 +12079,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Register your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business registration depends on business structure and location; registration can involve state agencies, local agencies, DBAs, registered agents, and reporting requirements."
@@ -12352,7 +12244,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Publication 3402, Taxation of Limited Liability Companies",
                                       "source_publisher": "Internal Revenue Service",
                                       "source_url": "https://www.irs.gov/publications/p3402",
-                                      "publication_or_update_date": "Publication 3402 revised March 2020; accessed August 8, 2026",
+                                      "publication_or_update_date": "Publication 3402 revised March 2020",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "LLC federal tax classification can differ from state-law formation; LLCs may be classified under default rules or elect corporate tax treatment when eligible."
@@ -12366,7 +12258,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Choose a business structure",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/choose-business-structure",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business structure affects taxes, registration, paperwork, personal liability, ownership, and filing requirements; ownership rules, liability, taxes, and filing requirements vary by state."
@@ -12380,7 +12272,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Register your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business registration depends on business structure and location; registration can involve state agencies, local agencies, DBAs, registered agents, and reporting requirements."
@@ -12538,7 +12430,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Register your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business registration depends on business structure and location; registration can involve state agencies, local agencies, DBAs, registered agents, and reporting requirements."
@@ -12552,7 +12444,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Choose your business name",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/choose-your-business-name",
-                                      "publication_or_update_date": "Last updated July 19, 2024 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated July 19, 2024",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Entity names, trademarks, DBAs, and domain names serve different purposes; DBA registration does not provide legal protection by itself and requirements vary."
@@ -12566,7 +12458,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Apply for licenses and permits",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits",
-                                      "publication_or_update_date": "Last updated March 24, 2026 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 24, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Licenses and permit requirements and fees vary by business activities, location, and government rules; some activities are regulated by federal agencies."
@@ -12722,7 +12614,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Choose your business name",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/choose-your-business-name",
-                                      "publication_or_update_date": "Last updated July 19, 2024 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated July 19, 2024",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Entity names, trademarks, DBAs, and domain names serve different purposes; DBA registration does not provide legal protection by itself and requirements vary."
@@ -12736,7 +12628,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Register your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business registration depends on business structure and location; registration can involve state agencies, local agencies, DBAs, registered agents, and reporting requirements."
@@ -12750,7 +12642,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Search our trademark database",
                                       "source_publisher": "United States Patent and Trademark Office",
                                       "source_url": "https://www.uspto.gov/trademarks/search",
-                                      "publication_or_update_date": "Last updated April 8, 2026 according to USPTO page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated April 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "USPTO provides federal trademark search tools and guidance for checking potentially conflicting marks."
@@ -12925,7 +12817,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Employer identification number",
                                       "source_publisher": "Internal Revenue Service",
                                       "source_url": "https://www.irs.gov/businesses/employer-identification-number",
-                                      "publication_or_update_date": "Published three weeks before August 8, 2026 according to IRS page result accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "An EIN is a federal tax ID number; businesses can get an EIN free directly from the IRS; legal entities should generally form through the state before applying."
@@ -12939,7 +12830,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Get federal and state tax ID numbers",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/get-federal-state-tax-id-numbers",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Federal and state tax IDs help a business pay taxes; EINs are used for federal tax purposes, hiring employees, opening bank accounts, and business licenses and permits."
@@ -12952,8 +12842,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Open a business bank account",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account",
-                                      "publication_or_update_date": "Last updated May 19, 2023 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/launch-your-business/#bank-account",
+                                      "publication_or_update_date": "Last updated May 19, 2023",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business bank accounts can help separate business funds from personal funds, support professionalism, and may require documents such as EIN, formation documents, ownership agreements, and business licenses."
@@ -13113,7 +13003,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Register your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business registration depends on business structure and location; registration can involve state agencies, local agencies, DBAs, registered agents, and reporting requirements."
@@ -13127,7 +13017,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Registered Agents",
                                       "source_publisher": "Texas Secretary of State",
                                       "source_url": "https://www.sos.texas.gov/corp/registeredagents.shtml",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Texas describes registered agents as agents who receive process, notice, or demand and requires registered offices to be physical addresses in Texas."
@@ -13141,7 +13030,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Registered Agent, Registered Office, & Principal Office",
                                       "source_publisher": "Virginia State Corporation Commission",
                                       "source_url": "https://www.scc.virginia.gov/businesses/business-faqs/registered-agents/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Virginia describes registered agents, registered offices, principal offices, physical address expectations, public records, and qualification requirements."
@@ -13315,7 +13203,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Pick your business location",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/pick-your-business-location",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business location can affect zoning, taxes, regulations, costs, and business operations."
@@ -13343,7 +13230,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Registered Agent, Registered Office, & Principal Office",
                                       "source_publisher": "Virginia State Corporation Commission",
                                       "source_url": "https://www.scc.virginia.gov/businesses/business-faqs/registered-agents/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Virginia describes registered agents, registered offices, principal offices, physical address expectations, public records, and qualification requirements."
@@ -13501,7 +13387,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Pick your business location",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/pick-your-business-location",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business location can affect zoning, taxes, regulations, costs, and business operations."
@@ -13529,7 +13414,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Registered Agent, Registered Office, & Principal Office",
                                       "source_publisher": "Virginia State Corporation Commission",
                                       "source_url": "https://www.scc.virginia.gov/businesses/business-faqs/registered-agents/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Virginia describes registered agents, registered offices, principal offices, physical address expectations, public records, and qualification requirements."
@@ -13543,7 +13427,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Apply for licenses and permits",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits",
-                                      "publication_or_update_date": "Last updated March 24, 2026 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 24, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Licenses and permit requirements and fees vary by business activities, location, and government rules; some activities are regulated by federal agencies."
@@ -13692,7 +13576,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Launch your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA identifies common launch steps including location, structure, name, registration, tax IDs, licenses and permits, bank account, and insurance."
@@ -13705,8 +13588,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Open a business bank account",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account",
-                                      "publication_or_update_date": "Last updated May 19, 2023 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/launch-your-business/#bank-account",
+                                      "publication_or_update_date": "Last updated May 19, 2023",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business bank accounts can help separate business funds from personal funds, support professionalism, and may require documents such as EIN, formation documents, ownership agreements, and business licenses."
@@ -13854,7 +13737,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Launch your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA identifies common launch steps including location, structure, name, registration, tax IDs, licenses and permits, bank account, and insurance."
@@ -13868,7 +13750,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What kind of records should I keep",
                                       "source_publisher": "Internal Revenue Service",
                                       "source_url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
-                                      "publication_or_update_date": "Published two weeks before August 8, 2026 according to IRS page result accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "IRS says business recordkeeping systems should clearly show income and expenses and keep supporting documents such as receipts, invoices, deposit information, and account statements."
@@ -14034,8 +13915,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Open a business bank account",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account",
-                                      "publication_or_update_date": "Last updated May 19, 2023 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/launch-your-business/#bank-account",
+                                      "publication_or_update_date": "Last updated May 19, 2023",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business bank accounts can help separate business funds from personal funds, support professionalism, and may require documents such as EIN, formation documents, ownership agreements, and business licenses."
@@ -14049,7 +13930,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What kind of records should I keep",
                                       "source_publisher": "Internal Revenue Service",
                                       "source_url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
-                                      "publication_or_update_date": "Published two weeks before August 8, 2026 according to IRS page result accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "IRS says business recordkeeping systems should clearly show income and expenses and keep supporting documents such as receipts, invoices, deposit information, and account statements."
@@ -14063,7 +13943,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Stay legally compliant",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/manage-your-business/stay-legally-compliant",
-                                      "publication_or_update_date": "Last updated March 24, 2026 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 24, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Legal responsibilities depend on business and location; ongoing compliance may include internal records, state filings, taxes, licenses, permits, and renewals."
@@ -14220,7 +14100,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Apply for licenses and permits",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits",
-                                      "publication_or_update_date": "Last updated March 24, 2026 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 24, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Licenses and permit requirements and fees vary by business activities, location, and government rules; some activities are regulated by federal agencies."
@@ -14234,7 +14114,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Register your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business registration depends on business structure and location; registration can involve state agencies, local agencies, DBAs, registered agents, and reporting requirements."
@@ -14248,7 +14128,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Stay legally compliant",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/manage-your-business/stay-legally-compliant",
-                                      "publication_or_update_date": "Last updated March 24, 2026 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 24, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Legal responsibilities depend on business and location; ongoing compliance may include internal records, state filings, taxes, licenses, permits, and renewals."
@@ -14399,7 +14279,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Stay legally compliant",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/manage-your-business/stay-legally-compliant",
-                                      "publication_or_update_date": "Last updated March 24, 2026 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 24, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Legal responsibilities depend on business and location; ongoing compliance may include internal records, state filings, taxes, licenses, permits, and renewals."
@@ -14413,7 +14293,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Register your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business registration depends on business structure and location; registration can involve state agencies, local agencies, DBAs, registered agents, and reporting requirements."
@@ -14427,7 +14307,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What kind of records should I keep",
                                       "source_publisher": "Internal Revenue Service",
                                       "source_url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
-                                      "publication_or_update_date": "Published two weeks before August 8, 2026 according to IRS page result accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "IRS says business recordkeeping systems should clearly show income and expenses and keep supporting documents such as receipts, invoices, deposit information, and account statements."
@@ -14589,7 +14468,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Launch your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA identifies common launch steps including location, structure, name, registration, tax IDs, licenses and permits, bank account, and insurance."
@@ -14603,7 +14481,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Register your business",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
-                                      "publication_or_update_date": "Last updated March 7, 2025 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 7, 2025",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business registration depends on business structure and location; registration can involve state agencies, local agencies, DBAs, registered agents, and reporting requirements."
@@ -14616,8 +14494,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Open a business bank account",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account",
-                                      "publication_or_update_date": "Last updated May 19, 2023 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/launch-your-business/#bank-account",
+                                      "publication_or_update_date": "Last updated May 19, 2023",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Business bank accounts can help separate business funds from personal funds, support professionalism, and may require documents such as EIN, formation documents, ownership agreements, and business licenses."
@@ -14631,7 +14509,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Stay legally compliant",
                                       "source_publisher": "U.S. Small Business Administration",
                                       "source_url": "https://www.sba.gov/business-guide/manage-your-business/stay-legally-compliant",
-                                      "publication_or_update_date": "Last updated March 24, 2026 according to SBA page accessed August 8, 2026.",
+                                      "publication_or_update_date": "Last updated March 24, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Legal responsibilities depend on business and location; ongoing compliance may include internal records, state filings, taxes, licenses, permits, and renewals."
@@ -14645,7 +14523,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What kind of records should I keep",
                                       "source_publisher": "Internal Revenue Service",
                                       "source_url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-kind-of-records-should-i-keep",
-                                      "publication_or_update_date": "Published two weeks before August 8, 2026 according to IRS page result accessed August 8, 2026.",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "IRS says business recordkeeping systems should clearly show income and expenses and keep supporting documents such as receipts, invoices, deposit information, and account statements."
@@ -14800,8 +14677,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Establish business credit",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/plan-your-business/establish-business-credit",
-                                      "publication_or_update_date": "Last updated March 31, 2026 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/plan-your-business/#business-credit",
+                                      "publication_or_update_date": "Last updated March 31, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes the importance of maintaining personal and business credit history and notes new-business loan eligibility is typically based on the owner’s personal credit score."
@@ -14815,7 +14692,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Business Credit Scores and Ratings",
                                       "source_publisher": "Dun & Bradstreet",
                                       "source_url": "https://www.dnb.com/en-us/smb/resources/credit-scores/db-credit-scores-ratings.html",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Dun & Bradstreet describes business credit scores and ratings, PAYDEX, payment history, and business identity information in its business credit file."
@@ -14829,7 +14705,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Experian Business Credit Reports and Scores",
                                       "source_publisher": "Experian Business",
                                       "source_url": "https://smallbusiness.experian.com/main.aspx",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Experian describes business credit reports as including business credit scores, trade payment information, corporate registration, public records, and other business information."
@@ -14843,7 +14718,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Commercial Credit Risk",
                                       "source_publisher": "Equifax",
                                       "source_url": "https://developer.equifax.com/products/apiproducts/commercial-credit-risk",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Equifax describes commercial credit risk scores and reports used to evaluate new and existing business accounts, including trade history and business-owner/guarantor information in some products."
@@ -14858,8 +14732,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "what is business credit",
@@ -14886,8 +14760,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "What Is Business Credit?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-002",
@@ -14992,8 +14866,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Establish business credit",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/plan-your-business/establish-business-credit",
-                                      "publication_or_update_date": "Last updated March 31, 2026 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/plan-your-business/#business-credit",
+                                      "publication_or_update_date": "Last updated March 31, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes the importance of maintaining personal and business credit history and notes new-business loan eligibility is typically based on the owner’s personal credit score."
@@ -15035,7 +14909,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Business Credit Scores and Ratings",
                                       "source_publisher": "Dun & Bradstreet",
                                       "source_url": "https://www.dnb.com/en-us/smb/resources/credit-scores/db-credit-scores-ratings.html",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Dun & Bradstreet describes business credit scores and ratings, PAYDEX, payment history, and business identity information in its business credit file."
@@ -15049,7 +14922,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Experian Business Credit Reports and Scores",
                                       "source_publisher": "Experian Business",
                                       "source_url": "https://smallbusiness.experian.com/main.aspx",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Experian describes business credit reports as including business credit scores, trade payment information, corporate registration, public records, and other business information."
@@ -15063,7 +14935,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Commercial Credit Risk",
                                       "source_publisher": "Equifax",
                                       "source_url": "https://developer.equifax.com/products/apiproducts/commercial-credit-risk",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Equifax describes commercial credit risk scores and reports used to evaluate new and existing business accounts, including trade history and business-owner/guarantor information in some products."
@@ -15078,8 +14949,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "business credit vs personal credit",
@@ -15105,8 +14976,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "What’s the Difference Between Personal Credit and Business Credit?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-003",
@@ -15209,8 +15080,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Establish business credit",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/plan-your-business/establish-business-credit",
-                                      "publication_or_update_date": "Last updated March 31, 2026 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/plan-your-business/#business-credit",
+                                      "publication_or_update_date": "Last updated March 31, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes the importance of maintaining personal and business credit history and notes new-business loan eligibility is typically based on the owner’s personal credit score."
@@ -15223,8 +15094,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -15252,7 +15122,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Small Business Credit Survey",
                                       "source_publisher": "Federal Reserve Banks",
                                       "source_url": "https://www.fedsmallbusiness.org/about/small-business-credit-survey",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "The Federal Reserve Small Business Credit Survey studies small-business credit demand, experiences, and outcomes across the United States."
@@ -15267,8 +15136,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "does personal credit affect business loan",
@@ -15294,8 +15163,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "Does Personal Credit Affect Business Funding?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-004",
@@ -15401,7 +15270,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Business Credit Scores and Ratings",
                                       "source_publisher": "Dun & Bradstreet",
                                       "source_url": "https://www.dnb.com/en-us/smb/resources/credit-scores/db-credit-scores-ratings.html",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Dun & Bradstreet describes business credit scores and ratings, PAYDEX, payment history, and business identity information in its business credit file."
@@ -15415,7 +15283,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What is a PAYDEX Score?",
                                       "source_publisher": "Dun & Bradstreet",
                                       "source_url": "https://www.dnb.com/en-us/smb/resources/credit-scores/what-is-paydex-score.html",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "D&B says PAYDEX reflects past payment performance based on trade experiences submitted to D&B and subject to D&B review, verification, and acceptance."
@@ -15429,7 +15296,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Experian Business Credit Reports and Scores",
                                       "source_publisher": "Experian Business",
                                       "source_url": "https://smallbusiness.experian.com/main.aspx",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Experian describes business credit reports as including business credit scores, trade payment information, corporate registration, public records, and other business information."
@@ -15443,7 +15309,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Commercial Credit Risk",
                                       "source_publisher": "Equifax",
                                       "source_url": "https://developer.equifax.com/products/apiproducts/commercial-credit-risk",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Equifax describes commercial credit risk scores and reports used to evaluate new and existing business accounts, including trade history and business-owner/guarantor information in some products."
@@ -15457,7 +15322,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "12 CFR 1002.7 Rules concerning extensions of credit",
                                       "source_publisher": "Consumer Financial Protection Bureau",
                                       "source_url": "https://www.consumerfinance.gov/rules-policy/regulations/1002/7/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "CFPB Regulation B commentary recognizes guarantees as part of credit transactions and describes when creditors may request guarantees from business owners or related parties."
@@ -15472,8 +15336,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "separate business credit",
@@ -15499,8 +15363,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "Can a Business Have Credit Separate From the Owner?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-005",
@@ -15616,8 +15480,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Establish business credit",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/plan-your-business/establish-business-credit",
-                                      "publication_or_update_date": "Last updated March 31, 2026 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/plan-your-business/#business-credit",
+                                      "publication_or_update_date": "Last updated March 31, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes the importance of maintaining personal and business credit history and notes new-business loan eligibility is typically based on the owner’s personal credit score."
@@ -15631,7 +15495,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Business Credit Scores and Ratings",
                                       "source_publisher": "Dun & Bradstreet",
                                       "source_url": "https://www.dnb.com/en-us/smb/resources/credit-scores/db-credit-scores-ratings.html",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Dun & Bradstreet describes business credit scores and ratings, PAYDEX, payment history, and business identity information in its business credit file."
@@ -15645,7 +15508,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "What is a PAYDEX Score?",
                                       "source_publisher": "Dun & Bradstreet",
                                       "source_url": "https://www.dnb.com/en-us/smb/resources/credit-scores/what-is-paydex-score.html",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "D&B says PAYDEX reflects past payment performance based on trade experiences submitted to D&B and subject to D&B review, verification, and acceptance."
@@ -15659,7 +15521,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Experian Business Credit Reports and Scores",
                                       "source_publisher": "Experian Business",
                                       "source_url": "https://smallbusiness.experian.com/main.aspx",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Experian describes business credit reports as including business credit scores, trade payment information, corporate registration, public records, and other business information."
@@ -15673,7 +15534,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Commercial Credit Risk",
                                       "source_publisher": "Equifax",
                                       "source_url": "https://developer.equifax.com/products/apiproducts/commercial-credit-risk",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "Equifax describes commercial credit risk scores and reports used to evaluate new and existing business accounts, including trade history and business-owner/guarantor information in some products."
@@ -15688,8 +15548,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "how to establish business credit",
@@ -15716,8 +15576,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "How Does a Business Begin Establishing Business Credit?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-006",
@@ -15837,8 +15697,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Loans",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes SBA-guaranteed loans and current loan program structures, including 7(a) loans delivered by SBA 7(a) lenders, 504 loans through Certified Development Companies, and microloans provided by intermediary lenders."
@@ -15851,8 +15710,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -15865,8 +15723,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Establish business credit",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/plan-your-business/establish-business-credit",
-                                      "publication_or_update_date": "Last updated March 31, 2026 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/plan-your-business/#business-credit",
+                                      "publication_or_update_date": "Last updated March 31, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes the importance of maintaining personal and business credit history and notes new-business loan eligibility is typically based on the owner’s personal credit score."
@@ -15880,7 +15738,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Small Business Credit Survey",
                                       "source_publisher": "Federal Reserve Banks",
                                       "source_url": "https://www.fedsmallbusiness.org/about/small-business-credit-survey",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "The Federal Reserve Small Business Credit Survey studies small-business credit demand, experiences, and outcomes across the United States."
@@ -15895,8 +15752,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "what do lenders look for business loans",
@@ -15922,8 +15779,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "What Do Lenders Look at When Evaluating a Business?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-007",
@@ -16030,8 +15887,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -16044,8 +15900,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Open a business bank account",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account",
-                                      "publication_or_update_date": "Last updated May 19, 2023 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/launch-your-business/#bank-account",
+                                      "publication_or_update_date": "Last updated May 19, 2023",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA says business bank accounts can help separate business and personal funds and that banks may request documents such as EIN, formation documents, ownership agreements, and business licenses."
@@ -16058,8 +15914,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Loans",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes SBA-guaranteed loans and current loan program structures, including 7(a) loans delivered by SBA 7(a) lenders, 504 loans through Certified Development Companies, and microloans provided by intermediary lenders."
@@ -16074,8 +15929,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "what is funding ready",
@@ -16101,8 +15956,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "What Does It Mean for a Business to Be Funding Ready?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-008",
@@ -16215,8 +16070,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Establish business credit",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/plan-your-business/establish-business-credit",
-                                      "publication_or_update_date": "Last updated March 31, 2026 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/plan-your-business/#business-credit",
+                                      "publication_or_update_date": "Last updated March 31, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes the importance of maintaining personal and business credit history and notes new-business loan eligibility is typically based on the owner’s personal credit score."
@@ -16243,8 +16098,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -16258,7 +16112,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Small Business Credit Survey",
                                       "source_publisher": "Federal Reserve Banks",
                                       "source_url": "https://www.fedsmallbusiness.org/about/small-business-credit-survey",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "The Federal Reserve Small Business Credit Survey studies small-business credit demand, experiences, and outcomes across the United States."
@@ -16273,8 +16126,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "do I need good personal credit for business funding",
@@ -16300,8 +16153,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "Do I Need Good Personal Credit to Get Business Funding?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-009",
@@ -16408,7 +16261,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "12 CFR 1002.7 Rules concerning extensions of credit",
                                       "source_publisher": "Consumer Financial Protection Bureau",
                                       "source_url": "https://www.consumerfinance.gov/rules-policy/regulations/1002/7/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "CFPB Regulation B commentary recognizes guarantees as part of credit transactions and describes when creditors may request guarantees from business owners or related parties."
@@ -16421,8 +16273,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -16435,8 +16286,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Loans",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes SBA-guaranteed loans and current loan program structures, including 7(a) loans delivered by SBA 7(a) lenders, 504 loans through Certified Development Companies, and microloans provided by intermediary lenders."
@@ -16451,8 +16301,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "what is a personal guarantee",
@@ -16478,8 +16328,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "What Is a Personal Guarantee?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-010",
@@ -16595,8 +16445,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Loans",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes SBA-guaranteed loans and current loan program structures, including 7(a) loans delivered by SBA 7(a) lenders, 504 loans through Certified Development Companies, and microloans provided by intermediary lenders."
@@ -16609,8 +16458,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -16625,8 +16473,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "business loan vs line of credit",
@@ -16652,8 +16500,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "What’s the Difference Between a Business Loan and a Business Line of Credit?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-011",
@@ -16780,7 +16628,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Your Insured Deposits",
                                       "source_publisher": "Federal Deposit Insurance Corporation",
                                       "source_url": "https://www.fdic.gov/resources/deposit-insurance/brochures/insured-deposits/",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "FDIC describes insured bank deposit categories, including corporation, partnership, unincorporated association accounts, and sole proprietorship treatment."
@@ -16794,7 +16641,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "How is a credit union different than a bank?",
                                       "source_publisher": "MyCreditUnion.gov / NCUA",
                                       "source_url": "https://mycreditunion.gov/about/what-credit-union/how-credit-union-different-bank",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "NCUA describes credit unions as not-for-profit, member-owned institutions, with deposits insured by the National Credit Union Share Insurance Fund and membership based on common bond."
@@ -16821,8 +16667,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Open a business bank account",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account",
-                                      "publication_or_update_date": "Last updated May 19, 2023 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/launch-your-business/#bank-account",
+                                      "publication_or_update_date": "Last updated May 19, 2023",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA says business bank accounts can help separate business and personal funds and that banks may request documents such as EIN, formation documents, ownership agreements, and business licenses."
@@ -16837,8 +16683,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "bank vs credit union business",
@@ -16864,8 +16710,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "What’s the Difference Between a Bank and a Credit Union for Business Banking and Funding?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-012",
@@ -16978,8 +16824,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Open a business bank account",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account",
-                                      "publication_or_update_date": "Last updated May 19, 2023 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/launch-your-business/#bank-account",
+                                      "publication_or_update_date": "Last updated May 19, 2023",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA says business bank accounts can help separate business and personal funds and that banks may request documents such as EIN, formation documents, ownership agreements, and business licenses."
@@ -16992,8 +16838,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -17022,8 +16867,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "business bank account funding readiness",
@@ -17049,8 +16894,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "Does Having a Business Bank Account Help With Funding Readiness?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-013",
@@ -17171,8 +17016,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -17185,8 +17029,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Open a business bank account",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account",
-                                      "publication_or_update_date": "Last updated May 19, 2023 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/launch-your-business/#bank-account",
+                                      "publication_or_update_date": "Last updated May 19, 2023",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA says business bank accounts can help separate business and personal funds and that banks may request documents such as EIN, formation documents, ownership agreements, and business licenses."
@@ -17199,8 +17043,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Loans",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes SBA-guaranteed loans and current loan program structures, including 7(a) loans delivered by SBA 7(a) lenders, 504 loans through Certified Development Companies, and microloans provided by intermediary lenders."
@@ -17215,8 +17058,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "business loan documents",
@@ -17242,8 +17085,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "What Business Documents Might a Lender Ask For?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-014",
@@ -17358,8 +17201,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Loans",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes SBA-guaranteed loans and current loan program structures, including 7(a) loans delivered by SBA 7(a) lenders, 504 loans through Certified Development Companies, and microloans provided by intermediary lenders."
@@ -17372,8 +17214,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -17386,8 +17227,8 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government small business guidance",
                                       "source_title": "Establish business credit",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/business-guide/plan-your-business/establish-business-credit",
-                                      "publication_or_update_date": "Last updated March 31, 2026 according to SBA page accessed August 8, 2026.",
+                                      "source_url": "https://www.sba.gov/counseling/plan-your-business/#business-credit",
+                                      "publication_or_update_date": "Last updated March 31, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes the importance of maintaining personal and business credit history and notes new-business loan eligibility is typically based on the owner’s personal credit score."
@@ -17401,7 +17242,6 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_title": "Small Business Credit Survey",
                                       "source_publisher": "Federal Reserve Banks",
                                       "source_url": "https://www.fedsmallbusiness.org/about/small-business-credit-survey",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "The Federal Reserve Small Business Credit Survey studies small-business credit demand, experiences, and outcomes across the United States."
@@ -17416,8 +17256,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "new business funding",
@@ -17443,8 +17283,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "Can a New Business Get Funding?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
                   "faq_id": "CREDIT-015",
@@ -17590,8 +17430,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Lender Match connects you to lenders",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/lender-match/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA Lender Match encourages borrowers to prepare business plans, amount and use of funds, credit history, financial projections, and collateral information before talking to lenders."
@@ -17604,8 +17443,7 @@ window.NINZ_FAQ_LIBRARY = {
                                       "source_type": "government lending guidance",
                                       "source_title": "Loans",
                                       "source_publisher": "U.S. Small Business Administration",
-                                      "source_url": "https://www.sba.gov/funding-programs/loans",
-                                      "publication_or_update_date": "Accessed August 8, 2026",
+                                      "source_url": "https://www.sba.gov/loans/",
                                       "date_accessed": "2026-08-08",
                                       "supported_claims": [
                                                 "SBA describes SBA-guaranteed loans and current loan program structures, including 7(a) loans delivered by SBA 7(a) lenders, 504 loans through Certified Development Companies, and microloans provided by intermediary lenders."
@@ -17634,8 +17472,8 @@ window.NINZ_FAQ_LIBRARY = {
                   ],
                   "review_type": "source_review",
                   "update_sensitivity": "high",
-                  "last_reviewed": "2026-08-08",
-                  "next_review_due": "2026-11-08",
+                  "last_reviewed": "2026-08-20",
+                  "next_review_due": "2026-11-20",
                   "review_frequency": "quarterly",
                   "search_aliases": [
                             "what to do before applying for business loan",
@@ -17661,8 +17499,8 @@ window.NINZ_FAQ_LIBRARY = {
                             "What Should I Work on Before Applying for Business Funding?"
                   ],
                   "organization_reference": "https://ninz.me/#business",
-                  "verification_status": "source_review_complete_pending_editorial_review",
-                  "verification_notes": "Business Education Batch 2 draft researched and source-mapped on 2026-08-08. Pending representative editorial review before publication."
+                  "verification_status": "editorial_review_complete_launch_approved",
+                  "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
         {
           "faq_id": "GRANT-001",
@@ -17713,7 +17551,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "type": "paragraph",
-              "text": "A recipient may need to spend only on approved costs, keep records, meet milestones, submit reports, and return disallowed or unused funds. The controlling source is the written award and its terms—not a summary, advertisement, or social-media post."
+              "text": "A recipient may need to spend only on approved costs, keep records, meet milestones, submit reports, and return disallowed or unused funds. The controlling source is the written award and its terms, not a summary, advertisement, or social-media post."
             },
             {
               "type": "example",
@@ -17764,7 +17602,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants 101",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/learn-grants/grants-101",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "A federal grant funds ideas and projects that serve a public purpose and is one form of federal financial assistance.",
@@ -17779,7 +17616,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Fund Your Business",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/business-guide/plan-your-business/fund-your-business",
-              "publication_or_update_date": "Last updated November 13, 2024; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated November 13, 2024",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Small-business funding can include self-funding, investors, crowdfunding, and loans.",
@@ -17795,7 +17632,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Federal Contracting",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/federal-contracting",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Federal contracting is a purchasing relationship in which the government buys products or services.",
@@ -17872,7 +17708,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "type": "paragraph",
-              "text": "State, county, city, tribal, or regional programs sometimes support objectives such as downtown redevelopment, job creation, exporting, agriculture, energy, or recovery. Private companies and foundations may also run competitions or grant programs. Availability, eligibility, deadlines, and funding levels change, so these belong in a current search—not in a permanent promise that a grant exists."
+              "text": "State, county, city, tribal, or regional programs sometimes support objectives such as downtown redevelopment, job creation, exporting, agriculture, energy, or recovery. Private companies and foundations may also run competitions or grant programs. Availability, eligibility, deadlines, and funding levels change, so these belong in a current search, not in a permanent promise that a grant exists."
             },
             {
               "type": "heading",
@@ -17954,7 +17790,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/loans/additional-funding-opportunities/grants/",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA does not provide general grants for starting or expanding a business.",
@@ -17970,7 +17805,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Eligibility",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-eligibility",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Eligibility is determined by the legal requirements in each funding opportunity's application instructions.",
@@ -17985,7 +17819,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Get a Government Loan or Grant",
               "source_publisher": "USAGov",
               "source_url": "https://www.usa.gov/government-loan",
-              "publication_or_update_date": "Last updated November 13, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated November 13, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Government loans are borrowed funds that are repaid with interest.",
@@ -18001,7 +17835,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Fund Your Business",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/business-guide/plan-your-business/fund-your-business",
-              "publication_or_update_date": "Last updated November 13, 2024; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated November 13, 2024",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Small-business funding can include self-funding, investors, crowdfunding, and loans.",
@@ -18134,7 +17968,7 @@ window.NINZ_FAQ_LIBRARY = {
             "blocks": [
               {
                 "type": "paragraph",
-                "text": "Understand what Grants.gov does—and what it does not do—before building a federal grant search."
+                "text": "Understand what Grants.gov does, and what it does not do, before building a federal grant search."
               }
             ],
             "id": "GRANT-004",
@@ -18149,7 +17983,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grant Programs",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/learn-grants/grant-programs",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SAM.gov Assistance Listings is the authoritative source for federal assistance program information.",
@@ -18165,7 +17998,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/loans/additional-funding-opportunities/grants/",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA does not provide general grants for starting or expanding a business.",
@@ -18181,7 +18013,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Small Business Development Centers (SBDC)",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/local-assistance/resource-partners/small-business-development-centers-sbdc",
-              "publication_or_update_date": "Last updated April 28, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated April 28, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBDCs provide individualized advising and technical assistance to small businesses and pre-venture entrepreneurs.",
@@ -18196,7 +18028,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Avoid Government Grant Scams That Offer Free Money for Personal Expenses",
               "source_publisher": "Federal Trade Commission",
               "source_url": "https://consumer.ftc.gov/consumer-alerts/2026/03/how-avoid-government-grant-scams-offer-free-money-personal-expenses",
-              "publication_or_update_date": "Published March 2026; accessed August 8, 2026",
+              "publication_or_update_date": "Published March 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Government agencies do not contact people out of the blue to offer grants they did not apply for.",
@@ -18351,7 +18183,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants 101",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/learn-grants/grants-101",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "A federal grant funds ideas and projects that serve a public purpose and is one form of federal financial assistance.",
@@ -18366,7 +18197,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Eligibility",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-eligibility",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Eligibility is determined by the legal requirements in each funding opportunity's application instructions.",
@@ -18381,7 +18211,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Registration",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-registration",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Organizations applying for federal grants through Grants.gov generally register their entity with SAM.gov first and receive a Unique Entity ID.",
@@ -18396,7 +18225,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Apply for Grants",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/grant-applications/how-to-apply-for-grants",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Applicants should confirm eligibility, find a matching federal opportunity, register, and submit through Grants.gov Workspace.",
@@ -18474,7 +18302,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "type": "paragraph",
-              "text": "SBA guidance points to limited areas such as SBIR and STTR research-and-development funding, certain manufacturing initiatives, grants or cooperative agreements for organizations that provide entrepreneurship support, and STEP awards made to states and territories for export assistance. The eligible applicant may be a research-focused small business, a state entity, a nonprofit, an educational organization, or another specifically defined organization—not every small business."
+              "text": "SBA guidance points to limited areas such as SBIR and STTR research-and-development funding, certain manufacturing initiatives, grants or cooperative agreements for organizations that provide entrepreneurship support, and STEP awards made to states and territories for export assistance. The eligible applicant may be a research-focused small business, a state entity, a nonprofit, an educational organization, or another specifically defined organization, not every small business."
             },
             {
               "type": "heading",
@@ -18547,7 +18375,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/loans/additional-funding-opportunities/grants/",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA does not provide general grants for starting or expanding a business.",
@@ -18562,8 +18389,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_type": "government lending guidance",
               "source_title": "Loans",
               "source_publisher": "U.S. Small Business Administration",
-              "source_url": "https://www.sba.gov/funding-programs/loans",
-              "publication_or_update_date": "Accessed August 8, 2026",
+              "source_url": "https://www.sba.gov/loans/",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA-backed loans are delivered by participating lenders and must be repaid according to their terms.",
@@ -18578,7 +18404,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About America's Seed Fund",
               "source_publisher": "SBIR.gov / U.S. Small Business Administration",
               "source_url": "https://www.sbir.gov/about",
-              "publication_or_update_date": "Current program page accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBIR and STTR support technology-focused small businesses performing federal research and development with commercialization potential.",
@@ -18725,7 +18550,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Get a Government Loan or Grant",
               "source_publisher": "USAGov",
               "source_url": "https://www.usa.gov/government-loan",
-              "publication_or_update_date": "Last updated November 13, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated November 13, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Government loans are borrowed funds that are repaid with interest.",
@@ -18740,8 +18565,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_type": "government lending guidance",
               "source_title": "Loans",
               "source_publisher": "U.S. Small Business Administration",
-              "source_url": "https://www.sba.gov/funding-programs/loans",
-              "publication_or_update_date": "Accessed August 8, 2026",
+              "source_url": "https://www.sba.gov/loans/",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA-backed loans are delivered by participating lenders and must be repaid according to their terms.",
@@ -18756,7 +18580,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/loans/additional-funding-opportunities/grants/",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA does not provide general grants for starting or expanding a business.",
@@ -18772,7 +18595,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Investment Capital",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/funding-programs/investment-capital",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Debt is repaid with interest, while equity represents an ownership share given in exchange for funding.",
@@ -18928,7 +18750,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants 101",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/learn-grants/grants-101",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "A federal grant funds ideas and projects that serve a public purpose and is one form of federal financial assistance.",
@@ -18943,7 +18764,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/loans/additional-funding-opportunities/grants/",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA does not provide general grants for starting or expanding a business.",
@@ -18959,7 +18779,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Get a Government Loan or Grant",
               "source_publisher": "USAGov",
               "source_url": "https://www.usa.gov/government-loan",
-              "publication_or_update_date": "Last updated November 13, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated November 13, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Government loans are borrowed funds that are repaid with interest.",
@@ -19123,7 +18943,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Eligibility",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-eligibility",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Eligibility is determined by the legal requirements in each funding opportunity's application instructions.",
@@ -19138,7 +18957,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grant Programs",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/learn-grants/grant-programs",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SAM.gov Assistance Listings is the authoritative source for federal assistance program information.",
@@ -19154,7 +18972,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/loans/additional-funding-opportunities/grants/",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA does not provide general grants for starting or expanding a business.",
@@ -19170,7 +18987,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "SBIR/STTR Eligibility Requirements",
               "source_publisher": "SBIR.gov / U.S. Small Business Administration",
               "source_url": "https://www.sbir.gov/faq/eligibility-requirements",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBIR and STTR awards have program-specific small-business eligibility rules.",
@@ -19334,7 +19150,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Registration",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-registration",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Organizations applying for federal grants through Grants.gov generally register their entity with SAM.gov first and receive a Unique Entity ID.",
@@ -19349,7 +19164,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Apply for Grants",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/grant-applications/how-to-apply-for-grants",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Applicants should confirm eligibility, find a matching federal opportunity, register, and submit through Grants.gov Workspace.",
@@ -19364,7 +19178,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Eligibility",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-eligibility",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Eligibility is determined by the legal requirements in each funding opportunity's application instructions.",
@@ -19379,7 +19192,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Small Business Development Centers (SBDC)",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/local-assistance/resource-partners/small-business-development-centers-sbdc",
-              "publication_or_update_date": "Last updated April 28, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated April 28, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBDCs provide individualized advising and technical assistance to small businesses and pre-venture entrepreneurs.",
@@ -19453,7 +19266,7 @@ window.NINZ_FAQ_LIBRARY = {
                 "Navigate to the agency or sponsor's official website yourself instead of relying on the message link.",
                 "Find the same opportunity, deadline, and contact information on the official site.",
                 "For federal opportunities, confirm the notice on Grants.gov and identify the awarding agency.",
-                "Call or email through contact information published by the agency or sponsor—not information supplied only by the sender.",
+                "Call or email through contact information published by the agency or sponsor, not information supplied only by the sender.",
                 "Review the legal applicant, purpose, application steps, selection process, and award terms."
               ]
             },
@@ -19536,7 +19349,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Avoid Government Grant Scams That Offer Free Money for Personal Expenses",
               "source_publisher": "Federal Trade Commission",
               "source_url": "https://consumer.ftc.gov/consumer-alerts/2026/03/how-avoid-government-grant-scams-offer-free-money-personal-expenses",
-              "publication_or_update_date": "Published March 2026; accessed August 8, 2026",
+              "publication_or_update_date": "Published March 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Government agencies do not contact people out of the blue to offer grants they did not apply for.",
@@ -19552,7 +19365,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grant-Related Scams",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/learn-grants/grant-fraud/grant-related-scams",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "The federal government does not charge applicants a fee to apply for a federal grant.",
@@ -19567,7 +19379,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Registration",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-registration",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Organizations applying for federal grants through Grants.gov generally register their entity with SAM.gov first and receive a Unique Entity ID.",
@@ -19582,7 +19393,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/loans/additional-funding-opportunities/grants/",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA does not provide general grants for starting or expanding a business.",
@@ -19693,7 +19503,7 @@ window.NINZ_FAQ_LIBRARY = {
             {
               "type": "example",
               "label": "Example",
-              "text": "A consultant offers a fixed-fee eligibility screen and returns a sourced report showing why two programs do not fit and one may fit. That is a defined research service—not a promise that the business will receive money."
+              "text": "A consultant offers a fixed-fee eligibility screen and returns a sourced report showing why two programs do not fit and one may fit. That is a defined research service, not a promise that the business will receive money."
             }
           ],
           "common_misconceptions": [
@@ -19733,7 +19543,7 @@ window.NINZ_FAQ_LIBRARY = {
             "id": "GRANT-015",
             "button_text": "Review Before Applying"
           },
-          "ninz_insight": "Pay for a defined professional service only when its value is clear—not for access to public information or a promised outcome nobody can control.",
+          "ninz_insight": "Pay for a defined professional service only when its value is clear, not for access to public information or a promised outcome nobody can control.",
           "source_required": true,
           "sources": [
             {
@@ -19742,7 +19552,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grant-Related Scams",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/learn-grants/grant-fraud/grant-related-scams",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "The federal government does not charge applicants a fee to apply for a federal grant.",
@@ -19757,7 +19566,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Registration",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-registration",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Organizations applying for federal grants through Grants.gov generally register their entity with SAM.gov first and receive a Unique Entity ID.",
@@ -19772,7 +19580,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Small Business Development Centers (SBDC)",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/local-assistance/resource-partners/small-business-development-centers-sbdc",
-              "publication_or_update_date": "Last updated April 28, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated April 28, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBDCs provide individualized advising and technical assistance to small businesses and pre-venture entrepreneurs.",
@@ -19787,7 +19595,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Avoid Government Grant Scams That Offer Free Money for Personal Expenses",
               "source_publisher": "Federal Trade Commission",
               "source_url": "https://consumer.ftc.gov/consumer-alerts/2026/03/how-avoid-government-grant-scams-offer-free-money-personal-expenses",
-              "publication_or_update_date": "Published March 2026; accessed August 8, 2026",
+              "publication_or_update_date": "Published March 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Government agencies do not contact people out of the blue to offer grants they did not apply for.",
@@ -19948,7 +19756,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grant Programs",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/learn-grants/grant-programs",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SAM.gov Assistance Listings is the authoritative source for federal assistance program information.",
@@ -19964,7 +19771,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Avoid Government Grant Scams That Offer Free Money for Personal Expenses",
               "source_publisher": "Federal Trade Commission",
               "source_url": "https://consumer.ftc.gov/consumer-alerts/2026/03/how-avoid-government-grant-scams-offer-free-money-personal-expenses",
-              "publication_or_update_date": "Published March 2026; accessed August 8, 2026",
+              "publication_or_update_date": "Published March 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Government agencies do not contact people out of the blue to offer grants they did not apply for.",
@@ -19980,7 +19787,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Fund Your Business",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/business-guide/plan-your-business/fund-your-business",
-              "publication_or_update_date": "Last updated November 13, 2024; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated November 13, 2024",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Small-business funding can include self-funding, investors, crowdfunding, and loans.",
@@ -20041,7 +19848,7 @@ window.NINZ_FAQ_LIBRARY = {
             "America's Seed Fund"
           ],
           "content_status": "published",
-          "opening_context": "SBIR and STTR are among the most important federal funding paths for certain innovative small businesses, but they are research programs—not general grants for opening any type of company.",
+          "opening_context": "SBIR and STTR are among the most important federal funding paths for certain innovative small businesses, but they are research programs, not general grants for opening any type of company.",
           "short_answer": "SBIR and STTR competitively fund eligible U.S. small businesses conducting research and development aligned with agency needs and commercialization potential. STTR requires the small business to collaborate with an eligible U.S. nonprofit research institution under program rules. Agency solicitations set topics, application rules, award terms, and deadlines.",
           "detailed_explanation": [
             {
@@ -20051,7 +19858,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "type": "paragraph",
-              "text": "The Small Business Innovation Research and Small Business Technology Transfer programs—often presented together as America's Seed Fund—connect federal research-and-development needs with eligible technology-focused small businesses. Participating agencies publish solicitations or topics and administer their own awards within program-wide rules."
+              "text": "The Small Business Innovation Research and Small Business Technology Transfer programs, often presented together as America's Seed Fund, connect federal research-and-development needs with eligible technology-focused small businesses. Participating agencies publish solicitations or topics and administer their own awards within program-wide rules."
             },
             {
               "type": "heading",
@@ -20069,7 +19876,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "type": "paragraph",
-              "text": "Programs commonly move from feasibility or proof-of-concept work toward further development and commercialization. Agency topics, phase rules, award instruments, budgets, proposal formats, registrations, and deadlines vary. The current agency solicitation—not a general summary—controls the application."
+              "text": "Programs commonly move from feasibility or proof-of-concept work toward further development and commercialization. Agency topics, phase rules, award instruments, budgets, proposal formats, registrations, and deadlines vary. The current agency solicitation, not a general summary, controls the application."
             },
             {
               "type": "heading",
@@ -20124,7 +19931,7 @@ window.NINZ_FAQ_LIBRARY = {
             "id": "GRANT-008",
             "button_text": "Review Grant Eligibility"
           },
-          "ninz_insight": "SBIR and STTR fit a research plan that serves an agency mission and has commercialization potential—not a generic need for startup cash.",
+          "ninz_insight": "SBIR and STTR fit a research plan that serves an agency mission and has commercialization potential, not a generic need for startup cash.",
           "source_required": true,
           "sources": [
             {
@@ -20133,7 +19940,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About America's Seed Fund",
               "source_publisher": "SBIR.gov / U.S. Small Business Administration",
               "source_url": "https://www.sbir.gov/about",
-              "publication_or_update_date": "Current program page accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBIR and STTR support technology-focused small businesses performing federal research and development with commercialization potential.",
@@ -20148,7 +19954,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "SBIR/STTR Eligibility Requirements",
               "source_publisher": "SBIR.gov / U.S. Small Business Administration",
               "source_url": "https://www.sbir.gov/faq/eligibility-requirements",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBIR and STTR awards have program-specific small-business eligibility rules.",
@@ -20164,7 +19969,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/loans/additional-funding-opportunities/grants/",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA does not provide general grants for starting or expanding a business.",
@@ -20308,7 +20112,7 @@ window.NINZ_FAQ_LIBRARY = {
             "id": "GRANT-015",
             "button_text": "Review Before Applying"
           },
-          "ninz_insight": "Newness is a fact to test against the rules—not a reason to assume the business will qualify or fail.",
+          "ninz_insight": "Newness is a fact to test against the rules, not a reason to assume the business will qualify or fail.",
           "source_required": true,
           "sources": [
             {
@@ -20317,7 +20121,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Eligibility",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-eligibility",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Eligibility is determined by the legal requirements in each funding opportunity's application instructions.",
@@ -20332,7 +20135,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Grants",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/loans/additional-funding-opportunities/grants/",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBA does not provide general grants for starting or expanding a business.",
@@ -20348,7 +20150,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "SBIR/STTR Eligibility Requirements",
               "source_publisher": "SBIR.gov / U.S. Small Business Administration",
               "source_url": "https://www.sbir.gov/faq/eligibility-requirements",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBIR and STTR awards have program-specific small-business eligibility rules.",
@@ -20364,7 +20165,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Fund Your Business",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/business-guide/plan-your-business/fund-your-business",
-              "publication_or_update_date": "Last updated November 13, 2024; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated November 13, 2024",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Small-business funding can include self-funding, investors, crowdfunding, and loans.",
@@ -20543,7 +20344,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Eligibility",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-eligibility",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Eligibility is determined by the legal requirements in each funding opportunity's application instructions.",
@@ -20558,7 +20358,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Applicant Registration",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/applicant-registration",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Organizations applying for federal grants through Grants.gov generally register their entity with SAM.gov first and receive a Unique Entity ID.",
@@ -20573,7 +20372,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How to Apply for Grants",
               "source_publisher": "Grants.gov",
               "source_url": "https://www.grants.gov/applicants/grant-applications/how-to-apply-for-grants",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Applicants should confirm eligibility, find a matching federal opportunity, register, and submit through Grants.gov Workspace.",
@@ -20588,7 +20386,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Small Business Development Centers (SBDC)",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/local-assistance/resource-partners/small-business-development-centers-sbdc",
-              "publication_or_update_date": "Last updated April 28, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated April 28, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "SBDCs provide individualized advising and technical assistance to small businesses and pre-venture entrepreneurs.",
@@ -20603,7 +20401,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Fund Your Business",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/business-guide/plan-your-business/fund-your-business",
-              "publication_or_update_date": "Last updated November 13, 2024; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated November 13, 2024",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Small-business funding can include self-funding, investors, crowdfunding, and loans.",
@@ -20663,7 +20461,7 @@ window.NINZ_FAQ_LIBRARY = {
             "customer discovery"
           ],
           "content_status": "published",
-          "opening_context": "An online presence is the collection of places where customers can find reliable information about a business. It may include a website, search listings, business profiles, or selected directories—but the right mix depends on the business.",
+          "opening_context": "An online presence is the collection of places where customers can find reliable information about a business. It may include a website, search listings, business profiles, or selected directories, but the right mix depends on the business.",
           "short_answer": "An online presence helps customers verify what a business does, where it operates, when it is available, and how to contact it. A website offers more direct control; third-party profiles can support discovery on their platforms. Not every business needs every channel, and none guarantees results.",
           "detailed_explanation": [
             {
@@ -20733,7 +20531,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Get started with Google Business Profile",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/7039811?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Business Profile lets eligible businesses manage how business information appears on Google Search and Maps.",
@@ -20748,7 +20545,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Business eligibility and ownership guidelines",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/13763036?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Not every business is eligible for a Google Business Profile.",
@@ -20764,7 +20560,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "In-Depth Guide to How Google Search Works",
               "source_publisher": "Google Search Central",
               "source_url": "https://developers.google.com/search/docs/fundamentals/how-search-works",
-              "publication_or_update_date": "Last updated December 18, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated December 18, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search uses crawling, indexing, and serving stages.",
@@ -20901,7 +20697,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Get started with Google Business Profile",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/7039811?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Business Profile lets eligible businesses manage how business information appears on Google Search and Maps.",
@@ -20916,7 +20711,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Business eligibility and ownership guidelines",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/13763036?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Not every business is eligible for a Google Business Profile.",
@@ -20932,7 +20726,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Guidelines for representing your business on Google",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/3038177?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Business Profiles should reflect the business accurately and consistently with real-world branding.",
@@ -21002,7 +20795,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "type": "paragraph",
-              "text": "Google generally requires in-person customer contact during stated hours. Storefront and qualifying service-area businesses may be eligible; online-only businesses and certain other models are not. The current Google rules—not a consultant's checklist—control eligibility."
+              "text": "Google generally requires in-person customer contact during stated hours. Storefront and qualifying service-area businesses may be eligible; online-only businesses and certain other models are not. The current Google rules, not a consultant's checklist, control eligibility."
             },
             {
               "type": "heading",
@@ -21062,7 +20855,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Business eligibility and ownership guidelines",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/13763036?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Not every business is eligible for a Google Business Profile.",
@@ -21078,7 +20870,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Guidelines for representing your business on Google",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/3038177?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Business Profiles should reflect the business accurately and consistently with real-world branding.",
@@ -21094,7 +20885,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About Search Console",
               "source_publisher": "Google Search Console Help",
               "source_url": "https://support.google.com/webmasters/answer/9128668?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search Console is a service for monitoring, maintaining, and troubleshooting a site's presence in Google Search.",
@@ -21223,7 +21013,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Introducing the New Bing Places for Business: Built for Business Owners, Powered by Research",
               "source_publisher": "Microsoft Bing Blog",
               "source_url": "https://blogs.bing.com/search/October-2025/Introducing-the-New-Bing-Places-for-Business-Built-for-Business-Owners%2C-Powered-by-Research",
-              "publication_or_update_date": "Published October 3, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Published October 3, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Bing Places for Business allows businesses to create and manage listings used in Bing search results and Bing Maps.",
@@ -21238,7 +21028,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Bing Webmaster Tools Help Center",
               "source_publisher": "Microsoft Bing",
               "source_url": "https://www.bing.com/webmasters/help",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Bing Webmaster Tools provides tools and reports related to a site's presence in Bing.",
@@ -21295,7 +21084,7 @@ window.NINZ_FAQ_LIBRARY = {
             "listing strategy"
           ],
           "content_status": "published",
-          "opening_context": "More listings can create more places to maintain—not automatically more value. The right number depends on where customers look and whether the business can keep each record accurate.",
+          "opening_context": "More listings can create more places to maintain, not automatically more value. The right number depends on where customers look and whether the business can keep each record accurate.",
           "short_answer": "Possibly. Maintain listings on search engines or directories that your customers actually use, that accept your business type, and that you can keep accurate. More profiles do not automatically improve rankings or results. Prioritize authoritative, relevant platforms and keep ownership, login access, and core information organized.",
           "detailed_explanation": [
             {
@@ -21365,7 +21154,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Business eligibility and ownership guidelines",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/13763036?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Not every business is eligible for a Google Business Profile.",
@@ -21381,7 +21169,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Guidelines for representing your business on Google",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/3038177?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Business Profiles should reflect the business accurately and consistently with real-world branding.",
@@ -21397,7 +21184,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Introducing the New Bing Places for Business: Built for Business Owners, Powered by Research",
               "source_publisher": "Microsoft Bing Blog",
               "source_url": "https://blogs.bing.com/search/October-2025/Introducing-the-New-Bing-Places-for-Business-Built-for-Business-Owners%2C-Powered-by-Research",
-              "publication_or_update_date": "Published October 3, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Published October 3, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Bing Places for Business allows businesses to create and manage listings used in Bing search results and Bing Maps.",
@@ -21535,7 +21322,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Guidelines for representing your business on Google",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/3038177?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Business Profiles should reflect the business accurately and consistently with real-world branding.",
@@ -21551,7 +21337,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Business eligibility and ownership guidelines",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/13763036?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Not every business is eligible for a Google Business Profile.",
@@ -21567,7 +21352,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Introducing the New Bing Places for Business: Built for Business Owners, Powered by Research",
               "source_publisher": "Microsoft Bing Blog",
               "source_url": "https://blogs.bing.com/search/October-2025/Introducing-the-New-Bing-Places-for-Business-Built-for-Business-Owners%2C-Powered-by-Research",
-              "publication_or_update_date": "Published October 3, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Published October 3, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Bing Places for Business allows businesses to create and manage listings used in Bing search results and Bing Maps.",
@@ -21582,7 +21367,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "LocalBusiness",
               "source_publisher": "Schema.org",
               "source_url": "https://schema.org/LocalBusiness",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Schema.org provides a shared vocabulary for describing a local business and properties such as name, address, telephone, URL, opening hours, and area served.",
@@ -21720,7 +21504,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Guidelines for representing your business on Google",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/3038177?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Business Profiles should reflect the business accurately and consistently with real-world branding.",
@@ -21736,7 +21519,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Business eligibility and ownership guidelines",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/13763036?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Not every business is eligible for a Google Business Profile.",
@@ -21752,7 +21534,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Introducing the New Bing Places for Business: Built for Business Owners, Powered by Research",
               "source_publisher": "Microsoft Bing Blog",
               "source_url": "https://blogs.bing.com/search/October-2025/Introducing-the-New-Bing-Places-for-Business-Built-for-Business-Owners%2C-Powered-by-Research",
-              "publication_or_update_date": "Published October 3, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Published October 3, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Bing Places for Business allows businesses to create and manage listings used in Bing search results and Bing Maps.",
@@ -21767,7 +21549,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "LocalBusiness",
               "source_publisher": "Schema.org",
               "source_url": "https://schema.org/LocalBusiness",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Schema.org provides a shared vocabulary for describing a local business and properties such as name, address, telephone, URL, opening hours, and area served.",
@@ -21897,7 +21678,7 @@ window.NINZ_FAQ_LIBRARY = {
             "id": "VIS-009",
             "button_text": "Decide Whether You Need It"
           },
-          "ninz_insight": "Use Search Console as a diagnostic record of what Google reports—not as a scoreboard that can explain every business result by itself.",
+          "ninz_insight": "Use Search Console as a diagnostic record of what Google reports, not as a scoreboard that can explain every business result by itself.",
           "source_required": true,
           "sources": [
             {
@@ -21906,7 +21687,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About Search Console",
               "source_publisher": "Google Search Console Help",
               "source_url": "https://support.google.com/webmasters/answer/9128668?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search Console is a service for monitoring, maintaining, and troubleshooting a site's presence in Google Search.",
@@ -21922,7 +21702,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Get started with Search Console",
               "source_publisher": "Google Search Central",
               "source_url": "https://developers.google.com/search/docs/monitor-debug/search-console-start",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "A site owner verifies ownership to access Search Console data.",
@@ -21938,7 +21717,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "In-Depth Guide to How Google Search Works",
               "source_publisher": "Google Search Central",
               "source_url": "https://developers.google.com/search/docs/fundamentals/how-search-works",
-              "publication_or_update_date": "Last updated December 18, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated December 18, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search uses crawling, indexing, and serving stages.",
@@ -22057,7 +21836,7 @@ window.NINZ_FAQ_LIBRARY = {
             "id": "VIS-010",
             "button_text": "Learn About Bing Webmaster Tools"
           },
-          "ninz_insight": "The value comes from having a responsible owner who can interpret and act on relevant information—not from opening an account and ignoring it.",
+          "ninz_insight": "The value comes from having a responsible owner who can interpret and act on relevant information, not from opening an account and ignoring it.",
           "source_required": true,
           "sources": [
             {
@@ -22066,7 +21845,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About Search Console",
               "source_publisher": "Google Search Console Help",
               "source_url": "https://support.google.com/webmasters/answer/9128668?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search Console is a service for monitoring, maintaining, and troubleshooting a site's presence in Google Search.",
@@ -22082,7 +21860,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Get started with Search Console",
               "source_publisher": "Google Search Central",
               "source_url": "https://developers.google.com/search/docs/monitor-debug/search-console-start",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "A site owner verifies ownership to access Search Console data.",
@@ -22098,7 +21875,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "In-Depth Guide to How Google Search Works",
               "source_publisher": "Google Search Central",
               "source_url": "https://developers.google.com/search/docs/fundamentals/how-search-works",
-              "publication_or_update_date": "Last updated December 18, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated December 18, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search uses crawling, indexing, and serving stages.",
@@ -22227,7 +22004,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Bing Webmaster Tools Help Center",
               "source_publisher": "Microsoft Bing",
               "source_url": "https://www.bing.com/webmasters/help",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Bing Webmaster Tools provides tools and reports related to a site's presence in Bing.",
@@ -22242,7 +22018,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Search Performance",
               "source_publisher": "Microsoft Bing Webmaster Tools",
               "source_url": "https://www.bing.com/webmasters/help/search-performance-c680da36",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Search Performance reports provide information about impressions, clicks, queries, pages, and crawling or indexing diagnostics for Bing search experiences."
@@ -22256,7 +22031,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Introducing the New Bing Places for Business: Built for Business Owners, Powered by Research",
               "source_publisher": "Microsoft Bing Blog",
               "source_url": "https://blogs.bing.com/search/October-2025/Introducing-the-New-Bing-Places-for-Business-Built-for-Business-Owners%2C-Powered-by-Research",
-              "publication_or_update_date": "Published October 3, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Published October 3, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Bing Places for Business allows businesses to create and manage listings used in Bing search results and Bing Maps.",
@@ -22324,7 +22099,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "type": "paragraph",
-              "text": "A website or app sends supported data through an implemented tag, SDK, or connected system. Reports can organize events and dimensions such as acquisition source, page or screen, device information, and configured key events. The data reflects what the implementation collected—not a perfect record of every person."
+              "text": "A website or app sends supported data through an implemented tag, SDK, or connected system. Reports can organize events and dimensions such as acquisition source, page or screen, device information, and configured key events. The data reflects what the implementation collected, not a perfect record of every person."
             },
             {
               "type": "heading",
@@ -22393,7 +22168,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How Google Analytics works",
               "source_publisher": "Google Analytics Help",
               "source_url": "https://support.google.com/analytics/answer/12159447?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Analytics collects data from websites and apps to create reports.",
@@ -22409,7 +22183,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Safeguarding your data",
               "source_publisher": "Google Analytics Help",
               "source_url": "https://support.google.com/analytics/answer/6004245?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Analytics implementations require attention to data collection, access, retention, and applicable privacy obligations.",
@@ -22424,7 +22197,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About Search Console",
               "source_publisher": "Google Search Console Help",
               "source_url": "https://support.google.com/webmasters/answer/9128668?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search Console is a service for monitoring, maintaining, and troubleshooting a site's presence in Google Search.",
@@ -22563,7 +22335,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Clarity Overview",
               "source_publisher": "Microsoft Learn",
               "source_url": "https://learn.microsoft.com/en-us/clarity/setup-and-installation/about-clarity",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Microsoft Clarity is a behavioral analytics product for understanding how people interact with a website or app.",
@@ -22578,7 +22349,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Heatmaps overview",
               "source_publisher": "Microsoft Learn",
               "source_url": "https://learn.microsoft.com/en-us/clarity/heatmaps/heatmaps-overview",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Clarity heatmaps aggregate interactions such as clicks and scrolling.",
@@ -22593,7 +22363,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How Google Analytics works",
               "source_publisher": "Google Analytics Help",
               "source_url": "https://support.google.com/analytics/answer/12159447?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Analytics collects data from websites and apps to create reports.",
@@ -22609,7 +22378,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About Search Console",
               "source_publisher": "Google Search Console Help",
               "source_url": "https://support.google.com/webmasters/answer/9128668?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search Console is a service for monitoring, maintaining, and troubleshooting a site's presence in Google Search.",
@@ -22641,7 +22409,7 @@ window.NINZ_FAQ_LIBRARY = {
             "session recordings"
           ],
           "meta_title": "What Is Microsoft Clarity? | NINZ FAQ",
-          "meta_description": "Learn what Microsoft Clarity's recordings, heatmaps, events, and funnels can show—and what they cannot prove.",
+          "meta_description": "Learn what Microsoft Clarity's recordings, heatmaps, events, and funnels can show, and what they cannot prove.",
           "canonical_url": "https://ninz.me/faq/online-presence-business-visibility/what-is-microsoft-clarity/",
           "schema_type": [
             "WebPage",
@@ -22708,7 +22476,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "type": "paragraph",
-              "text": "A business may use all three, a smaller combination, or none. Each requires access controls, maintenance, interpretation, and—in the case of user measurement—appropriate privacy governance."
+              "text": "A business may use all three, a smaller combination, or none. Each requires access controls, maintenance, interpretation, and, in the case of user measurement, appropriate privacy governance."
             },
             {
               "type": "example",
@@ -22759,7 +22527,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About Search Console",
               "source_publisher": "Google Search Console Help",
               "source_url": "https://support.google.com/webmasters/answer/9128668?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search Console is a service for monitoring, maintaining, and troubleshooting a site's presence in Google Search.",
@@ -22775,7 +22542,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Get started with Search Console",
               "source_publisher": "Google Search Central",
               "source_url": "https://developers.google.com/search/docs/monitor-debug/search-console-start",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "A site owner verifies ownership to access Search Console data.",
@@ -22791,7 +22557,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How Google Analytics works",
               "source_publisher": "Google Analytics Help",
               "source_url": "https://support.google.com/analytics/answer/12159447?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Analytics collects data from websites and apps to create reports.",
@@ -22807,7 +22572,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Clarity Overview",
               "source_publisher": "Microsoft Learn",
               "source_url": "https://learn.microsoft.com/en-us/clarity/setup-and-installation/about-clarity",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Microsoft Clarity is a behavioral analytics product for understanding how people interact with a website or app.",
@@ -22822,7 +22586,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Heatmaps overview",
               "source_publisher": "Microsoft Learn",
               "source_url": "https://learn.microsoft.com/en-us/clarity/heatmaps/heatmaps-overview",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Clarity heatmaps aggregate interactions such as clicks and scrolling.",
@@ -22961,7 +22724,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "In-Depth Guide to How Google Search Works",
               "source_publisher": "Google Search Central",
               "source_url": "https://developers.google.com/search/docs/fundamentals/how-search-works",
-              "publication_or_update_date": "Last updated December 18, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated December 18, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search uses crawling, indexing, and serving stages.",
@@ -22976,7 +22739,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About Search Console",
               "source_publisher": "Google Search Console Help",
               "source_url": "https://support.google.com/webmasters/answer/9128668?hl=en",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search Console is a service for monitoring, maintaining, and troubleshooting a site's presence in Google Search.",
@@ -22992,7 +22754,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Bing Webmaster Tools Help Center",
               "source_publisher": "Microsoft Bing",
               "source_url": "https://www.bing.com/webmasters/help",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Bing Webmaster Tools provides tools and reports related to a site's presence in Bing.",
@@ -23007,7 +22768,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "LocalBusiness",
               "source_publisher": "Schema.org",
               "source_url": "https://schema.org/LocalBusiness",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Schema.org provides a shared vocabulary for describing a local business and properties such as name, address, telephone, URL, opening hours, and area served.",
@@ -23037,7 +22797,7 @@ window.NINZ_FAQ_LIBRARY = {
             "structured business data"
           ],
           "meta_title": "How Do Search Engines Find and Understand My Business? | NINZ FAQ",
-          "meta_description": "Learn how search engines discover, crawl, index, understand, and serve business information—and why each stage is different.",
+          "meta_description": "Learn how search engines discover, crawl, index, understand, and serve business information, and why each stage is different.",
           "canonical_url": "https://ninz.me/faq/online-presence-business-visibility/how-search-engines-find-understand-business/",
           "schema_type": [
             "WebPage",
@@ -23159,7 +22919,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Publishers and Developers FAQ",
               "source_publisher": "OpenAI Help Center",
               "source_url": "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Public websites can appear in ChatGPT search results when OAI-SearchBot is allowed to access them.",
@@ -23175,7 +22934,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "ChatGPT search",
               "source_publisher": "OpenAI Help Center",
               "source_url": "https://help.openai.com/en/articles/9237897-chatgpt-search",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "ChatGPT search can use web sources and provides citations in supported search experiences.",
@@ -23190,7 +22948,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "AI features and your website",
               "source_publisher": "Google Search Central",
               "source_url": "https://developers.google.com/search/docs/appearance/ai-features",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "A page must be indexed and eligible for a snippet to be considered as a supporting link in Google AI search features.",
@@ -23206,7 +22963,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "In-Depth Guide to How Google Search Works",
               "source_publisher": "Google Search Central",
               "source_url": "https://developers.google.com/search/docs/fundamentals/how-search-works",
-              "publication_or_update_date": "Last updated December 18, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "Last updated December 18, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Google Search uses crawling, indexing, and serving stages.",
@@ -23221,7 +22978,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "LocalBusiness",
               "source_publisher": "Schema.org",
               "source_url": "https://schema.org/LocalBusiness",
-              "publication_or_update_date": "Accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [
                 "Schema.org provides a shared vocabulary for describing a local business and properties such as name, address, telephone, URL, opening hours, and area served.",
@@ -23252,7 +23008,7 @@ window.NINZ_FAQ_LIBRARY = {
             "online presence"
           ],
           "meta_title": "Can My Online Presence Affect Whether AI Systems Find or Mention My Business? | NINZ FAQ",
-          "meta_description": "Learn how public access, indexing, retrieval, citation, mention, and recommendation differ—and why no online tactic guarantees AI visibility.",
+          "meta_description": "Learn how public access, indexing, retrieval, citation, mention, and recommendation differ, and why no online tactic guarantees AI visibility.",
           "canonical_url": "https://ninz.me/faq/online-presence-business-visibility/can-online-presence-affect-ai-systems-find-mention-business/",
           "schema_type": [
             "WebPage",
@@ -23420,7 +23176,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Why Claim Your Business Page on Yelp",
               "source_publisher": "Yelp for Business",
               "source_url": "https://business.yelp.com/products/business-page/",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23432,7 +23187,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "LinkedIn Page Types and Their Functions",
               "source_publisher": "LinkedIn Help",
               "source_url": "https://www.linkedin.com/help/linkedin/answer/a727893?lang=en",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23444,7 +23198,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Create Your Business Page on Nextdoor",
               "source_publisher": "Nextdoor",
               "source_url": "https://business.nextdoor.com/en-us/getting-started/business-page",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23456,7 +23209,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Get a Business Account",
               "source_publisher": "Pinterest Business Help",
               "source_url": "https://help.pinterest.com/en/business/article/get-a-business-account",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23595,7 +23347,7 @@ window.NINZ_FAQ_LIBRARY = {
             "id": "external-score-business-mentor",
             "button_text": "Find a SCORE Business Mentor"
           },
-          "ninz_insight": "Free help is most valuable when the question is specific. Bring your numbers, assumptions, constraints, and decision deadline—not only a general request to “help me grow.”",
+          "ninz_insight": "Free help is most valuable when the question is specific. Bring your numbers, assumptions, constraints, and decision deadline, not only a general request to “help me grow.”",
           "source_required": true,
           "sources": [
             {
@@ -23604,7 +23356,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "SCORE Business Mentoring",
               "source_publisher": "U.S. Small Business Administration",
               "source_url": "https://www.sba.gov/local-assistance/resource-partners/score-business-mentoring",
-              "publication_or_update_date": "last updated April 28, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "last updated April 28, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23616,7 +23368,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "SCORE",
               "source_publisher": "Free Business Mentoring, Workshops & Resources",
               "source_url": "https://www.score.org/",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23628,7 +23379,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "SBA Resource Partners",
               "source_publisher": "www.sba.gov",
               "source_url": "https://www.sba.gov/local-assistance/resource-partners",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23769,7 +23519,7 @@ window.NINZ_FAQ_LIBRARY = {
             "id": "PRC-015",
             "button_text": "Compare Review Platforms"
           },
-          "ninz_insight": "The useful first step on Yelp is ownership and accuracy—not advertising. Know what is free, confirm the page is correct, and learn the platform’s rules before spending money or requesting feedback.",
+          "ninz_insight": "The useful first step on Yelp is ownership and accuracy, not advertising. Know what is free, confirm the page is correct, and learn the platform’s rules before spending money or requesting feedback.",
           "source_required": true,
           "sources": [
             {
@@ -23778,7 +23528,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Why Claim Your Business Page on Yelp",
               "source_publisher": "Yelp for Business",
               "source_url": "https://business.yelp.com/products/business-page/",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23790,7 +23539,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Don’t Ask for Reviews",
               "source_publisher": "Yelp Support Center",
               "source_url": "https://www.yelp-support.com/article/Don-t-Ask-for-Reviews?l=en_US",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23802,7 +23550,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How Yelp Moderates Content",
               "source_publisher": "Yelp Support Center",
               "source_url": "https://www.yelp-support.com/article/How-we-moderate-content-at-Yelp?l=en_US",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23949,7 +23696,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Create a LinkedIn Page",
               "source_publisher": "LinkedIn Help",
               "source_url": "https://www.linkedin.com/help/linkedin/answer/a543852/create-a-linkedin-page?lang=en",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23961,7 +23707,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "LinkedIn Page Types and Their Functions",
               "source_publisher": "LinkedIn Help",
               "source_url": "https://www.linkedin.com/help/linkedin/answer/a727893?lang=en",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -23973,7 +23718,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Ways to Protect Your LinkedIn Page",
               "source_publisher": "LinkedIn Help",
               "source_url": "https://www.linkedin.com/help/linkedin/answer/a7171111",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24087,7 +23831,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "title": "Accreditation guarantees customers or trust.",
-              "explanation": "No. It is a paid, standards-based status—not a guarantee of business outcomes or every consumer’s opinion."
+              "explanation": "No. It is a paid, standards-based status, not a guarantee of business outcomes or every consumer’s opinion."
             }
           ],
           "related_faq_ids": [
@@ -24120,7 +23864,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Get Your Business Noticed on BBB.org",
               "source_publisher": "Better Business Bureau",
               "source_url": "https://www.bbb.org/all/business/get-noticed",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24132,7 +23875,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "BBB Accreditation Standards",
               "source_publisher": "www.bbb.org",
               "source_url": "https://www.bbb.org/business/accreditation/standards",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24144,7 +23886,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How BBB Complaints Are Handled",
               "source_publisher": "www.bbb.org",
               "source_url": "https://www.bbb.org/process-of-complaints-and-reviews/complaints",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24292,7 +24033,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Does Alignable Cost Anything?",
               "source_publisher": "Alignable Help Center",
               "source_url": "https://support.alignable.com/hc/en-us/articles/360023661552-Does-Alignable-cost-anything",
-              "publication_or_update_date": "updated January 14, 2026; accessed August 8, 2026",
+              "publication_or_update_date": "updated January 14, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24304,7 +24045,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Business Profile",
               "source_publisher": "Alignable Help Center",
               "source_url": "https://support.alignable.com/hc/en-us/categories/360004414452-Business-Profile",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24462,7 +24202,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Create Your Business Page on Nextdoor",
               "source_publisher": "business.nextdoor.com",
               "source_url": "https://business.nextdoor.com/en-us/getting-started/business-page",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24474,7 +24213,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Nextdoor Business Center",
               "source_publisher": "business.nextdoor.com",
               "source_url": "https://business.nextdoor.com/en-us/",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24620,7 +24358,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "What Is a Chamber of Commerce, and Why Should You Join One?",
               "source_publisher": "U.S. Chamber of Commerce",
               "source_url": "https://www.uschamber.com/co/start/strategy/what-is-a-chamber-of-commerce",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24632,7 +24369,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Chamber of Commerce Directory",
               "source_publisher": "U.S. Chamber of Commerce",
               "source_url": "https://www.uschamber.com/co/chambers",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24779,7 +24515,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How Do I Create a Crunchbase Profile?",
               "source_publisher": "Crunchbase Knowledge Center",
               "source_url": "https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile",
-              "publication_or_update_date": "updated August 28, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "updated August 28, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24791,7 +24527,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Requirements to Edit a Profile",
               "source_publisher": "Crunchbase Knowledge Center",
               "source_url": "https://support.crunchbase.com/hc/en-us/articles/115010623748-Requirements-to-Edit-a-Profile",
-              "publication_or_update_date": "updated November 8, 2024; accessed August 8, 2026",
+              "publication_or_update_date": "updated November 8, 2024",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24803,7 +24539,7 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "What Information Can I Remove From a Profile?",
               "source_publisher": "Crunchbase Knowledge Center",
               "source_url": "https://support.crunchbase.com/hc/en-us/articles/360008319833-What-information-can-I-remove-from-a-profile",
-              "publication_or_update_date": "updated February 19, 2025; accessed August 8, 2026",
+              "publication_or_update_date": "updated February 19, 2025",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24961,7 +24697,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Create a Facebook Page",
               "source_publisher": "Facebook Help Center",
               "source_url": "https://www.facebook.com/help/104002523024878",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24973,7 +24708,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "About Professional Accounts on Instagram",
               "source_publisher": "Instagram Help Center",
               "source_url": "https://www.facebook.com/help/instagram/138925576505882",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -24985,7 +24719,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Connect a Facebook Page to an Instagram Professional Account",
               "source_publisher": "Instagram Help Center",
               "source_url": "https://www.facebook.com/help/instagram/790156881117411",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25133,7 +24866,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Create a YouTube Channel",
               "source_publisher": "YouTube Help",
               "source_url": "https://support.google.com/youtube/answer/1646861?hl=en",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25145,7 +24877,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Move Your YouTube Channel Between Brand Accounts",
               "source_publisher": "YouTube Help",
               "source_url": "https://support.google.com/youtube/answer/3056283?hl=en",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25209,7 +24940,7 @@ window.NINZ_FAQ_LIBRARY = {
             },
             {
               "type": "paragraph",
-              "text": "Pinterest can fit fields such as design, food, weddings, travel, home projects, fashion, crafts, education, and visually explained services. The key question is whether customers save ideas and revisit them while planning—not whether Pinterest appears on a generic marketing checklist."
+              "text": "Pinterest can fit fields such as design, food, weddings, travel, home projects, fashion, crafts, education, and visually explained services. The key question is whether customers save ideas and revisit them while planning, not whether Pinterest appears on a generic marketing checklist."
             },
             {
               "type": "heading",
@@ -25291,7 +25022,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Get a Business Account",
               "source_publisher": "Pinterest Business Help",
               "source_url": "https://help.pinterest.com/en/business/article/get-a-business-account",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25303,7 +25033,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Review Pinterest Analytics",
               "source_publisher": "Pinterest Business Help",
               "source_url": "https://help.pinterest.com/en/business/article/pinterest-analytics",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25454,7 +25183,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Professional Accounts",
               "source_publisher": "X Business",
               "source_url": "https://business.x.com/en/help/account-setup/professional-accounts",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25466,7 +25194,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Professional Account Policy",
               "source_publisher": "X Help",
               "source_url": "https://help.x.com/en/rules-and-policies/professional-account-policy",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25478,7 +25205,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Get Your Business Started With X",
               "source_publisher": "X Business",
               "source_url": "https://business.x.com/en/basics/get-your-business-started-with-x",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25532,7 +25258,7 @@ window.NINZ_FAQ_LIBRARY = {
           ],
           "content_status": "published",
           "opening_context": "Google allows businesses to request reviews, but the request and response process must preserve genuine customer choice and comply with Google’s rules.",
-          "short_answer": "Ask real customers for honest Google reviews without incentives or pressure, using Google’s review link or QR code. Do not request only positive reviews. Respond professionally, protect customer privacy, and report reviews only when they appear to violate policy—not merely because they are critical.",
+          "short_answer": "Ask real customers for honest Google reviews without incentives or pressure, using Google’s review link or QR code. Do not request only positive reviews. Respond professionally, protect customer privacy, and report reviews only when they appear to violate policy, not merely because they are critical.",
           "detailed_explanation": [
             {
               "type": "heading",
@@ -25633,7 +25359,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Tips to Get More Reviews",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/3474122?hl=en",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25645,7 +25370,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Prohibited & Restricted Content",
               "source_publisher": "Google Business Profile Help",
               "source_url": "https://support.google.com/business/answer/7400114",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25657,7 +25381,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Consumer Reviews and Testimonials Rule: Questions and Answers",
               "source_publisher": "Federal Trade Commission",
               "source_url": "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25822,7 +25545,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Don’t Ask for Reviews",
               "source_publisher": "Yelp Support Center",
               "source_url": "https://www.yelp-support.com/article/Don-t-Ask-for-Reviews?l=en_US",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25834,7 +25556,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "How Yelp Moderates Content",
               "source_publisher": "Yelp Support Center",
               "source_url": "https://www.yelp-support.com/article/How-we-moderate-content-at-Yelp?l=en_US",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25846,7 +25567,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Turn Recommendations On or Off for Your Business Page",
               "source_publisher": "Facebook Help Center",
               "source_url": "https://www.facebook.com/help/548274415377576",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",
@@ -25858,7 +25578,6 @@ window.NINZ_FAQ_LIBRARY = {
               "source_title": "Soliciting and Paying for Online Reviews: A Guide for Marketers",
               "source_publisher": "Federal Trade Commission",
               "source_url": "https://www.ftc.gov/business-guidance/resources/soliciting-paying-online-reviews-guide-marketers",
-              "publication_or_update_date": "accessed August 8, 2026",
               "date_accessed": "2026-08-08",
               "supported_claims": [],
               "verification_status": "verified",

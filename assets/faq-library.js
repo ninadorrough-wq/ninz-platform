@@ -168,21 +168,20 @@
     const grid = document.createElement("div");
     grid.className = "card-grid";
     (ids || []).map((id) => resources.get(id)).filter(Boolean).forEach((resource) => {
-      const card = document.createElement(resource.url ? "a" : "div");
-      card.className = resource.url ? "card link-card" : "card";
-      if (resource.url) card.href = resolveUrl(resource.url);
+      const available = Boolean(resource.url) && resource.status !== "planned";
+      const card = document.createElement(available ? "a" : "div");
+      card.className = available ? "card link-card" : "card planned-card";
+      if (available) card.href = resolveUrl(resource.url);
       const icon = document.createElement("span");
       icon.className = "line-icon";
       icon.setAttribute("aria-hidden", "true");
       const title = document.createElement("h3");
       title.textContent = resource.title;
       card.append(icon, title);
-      if (resource.url) {
-        const more = document.createElement("span");
-        more.className = "learn-more";
-        more.textContent = "Open Resource";
-        card.append(more);
-      }
+      const more = document.createElement("span");
+      more.className = available ? "learn-more" : "content-status";
+      more.textContent = available ? "Open Resource" : "Coming soon";
+      card.append(more);
       grid.append(card);
     });
     return grid;
@@ -216,7 +215,7 @@
     return wrapper;
   };
 
-  const createSection = (eyebrow, heading, content, className = "section") => {
+  const createSection = (eyebrow, heading, content, className = "section", headingTag = "h2") => {
     const section = document.createElement("section");
     section.className = className;
     const sectionHeading = document.createElement("div");
@@ -226,7 +225,7 @@
     const dot = document.createElement("span");
     dot.setAttribute("aria-hidden", "true");
     eyebrowEl.append(dot, document.createTextNode(eyebrow));
-    const headingEl = document.createElement("h2");
+    const headingEl = document.createElement(headingTag);
     headingEl.textContent = heading;
     sectionHeading.append(eyebrowEl, headingEl);
     section.append(sectionHeading, content);
@@ -246,13 +245,13 @@
     quickAnswer.append(renderPlainCopy(faq.short_answer));
 
     const sections = [
-      ["Quick Answer", faq.question, quickAnswer, "quick-answer interior-quick"],
-      ["Detailed Explanation", "What you need to know.", renderBlocks(faq.detailed_explanation), "section"],
-      ["Common Misconceptions", "Clear up common confusion.", renderMisconceptions(faq.common_misconceptions), "section"],
-      ["Related Questions", "Keep learning.", renderRelatedFaqs(faq.related_faq_ids), "section"],
-      ["Related Learning Center Guides", "Helpful next reading.", renderRelatedGuides(faq.related_guide_ids), "section"]
+      ["Quick Answer", faq.question, quickAnswer, "quick-answer interior-quick", "h1"],
+      ["Detailed Explanation", "What you need to know.", renderBlocks(faq.detailed_explanation), "section", "h2"],
+      ["Common Misconceptions", "Clear up common confusion.", renderMisconceptions(faq.common_misconceptions), "section", "h2"],
+      ["Related Questions", "Keep learning.", renderRelatedFaqs(faq.related_faq_ids), "section", "h2"],
+      ["Related Learning Center Guides", "Helpful next reading.", renderRelatedGuides(faq.related_guide_ids), "section", "h2"]
     ];
-    sections.forEach(([eyebrow, heading, content, className]) => mount.append(createSection(eyebrow, heading, content, className)));
+    sections.forEach(([eyebrow, heading, content, className, headingTag]) => mount.append(createSection(eyebrow, heading, content, className, headingTag)));
 
     const journeySection = document.createElement("section");
     journeySection.className = "final-cta";
@@ -289,7 +288,12 @@
     return document.body.dataset.siteDepth === "2" ? `../../${url}` : `../${url}`;
   };
 
-  const normalize = (value) => String(value || "").toLowerCase();
+  const normalize = (value) => String(value || "")
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "");
+
+  const queryTokens = (value) => normalize(value).split(/\s+/).filter(Boolean);
 
   const searchableText = (faq) => [
     faq.question,
@@ -301,6 +305,11 @@
     ...(faq.keywords || []),
     ...(faq.topic_tags || [])
   ].map(normalize).join(" ");
+
+  const matchesQuery = (faq, query) => {
+    const haystack = searchableText(faq);
+    return queryTokens(query).every((token) => haystack.includes(token));
+  };
 
   const visibleFaqs = () => library.faqs.filter((faq) => faq.content_status === "published" && (!categorySlug || faq.category_slug === categorySlug));
 
@@ -329,7 +338,7 @@
 
   const render = (target, faqs, emptyMessage) => {
     if (!target) return;
-    target.innerHTML = faqs.length ? faqs.map(faqCard).join("") : `<div class="card"><span class="line-icon" aria-hidden="true"></span><h3>No matching FAQs yet</h3><p>${emptyMessage}</p></div>`;
+    target.innerHTML = faqs.length ? faqs.map(faqCard).join("") : `<div class="card"><span class="line-icon" aria-hidden="true"></span><h3>No matching FAQs found</h3><p>${escapeHtml(emptyMessage)}</p></div>`;
   };
 
   if (featured) render(featured, visibleFaqs().slice(0, 6), "Try a broader search or browse by topic.");
@@ -341,12 +350,78 @@
 
   if (searchInput && results) {
     const allFaqs = visibleFaqs();
-    render(results, allFaqs.slice(0, 6), "Search by question, keyword, alias, category, or topic.");
-    searchInput.addEventListener("input", () => {
-      const query = normalize(searchInput.value).trim();
-      const matches = query ? allFaqs.filter((faq) => searchableText(faq).includes(query)) : allFaqs.slice(0, 6);
-      render(results, matches, "Search by question, keyword, alias, category, or topic.");
+    const resultsSection = results.closest("section");
+    const browseSection = (categorySlug ? categoryList : featured)?.closest("section");
+    const resultHeading = resultsSection?.querySelector("h2");
+    const searchRegion = searchInput.closest(".card");
+    const status = document.createElement("p");
+    const resultsId = categorySlug ? "faq-category-search-results" : "faq-search-results";
+
+    status.className = "faq-search-status";
+    status.setAttribute("role", "status");
+    status.setAttribute("aria-live", "polite");
+    searchInput.insertAdjacentElement("afterend", status);
+    searchInput.setAttribute("aria-controls", resultsId);
+    searchInput.setAttribute("aria-describedby", `${resultsId}-status`);
+    status.id = `${resultsId}-status`;
+    if (searchRegion) searchRegion.setAttribute("role", "search");
+    if (resultsSection) {
+      resultsSection.id = resultsId;
+      resultsSection.dataset.faqResultsSection = "";
+      resultsSection.hidden = true;
+    }
+    results.setAttribute("aria-live", "polite");
+    results.setAttribute("aria-busy", "false");
+
+    const updateSearch = () => {
+      const query = searchInput.value.trim();
+      if (!query) {
+        if (browseSection) browseSection.hidden = false;
+        if (resultsSection) resultsSection.hidden = true;
+        results.replaceChildren();
+        status.textContent = categorySlug
+          ? `${allFaqs.length} published FAQs are available in this topic.`
+          : "Type a question, phrase, or keyword to search all published FAQs.";
+        return [];
+      }
+
+      const matches = allFaqs.filter((faq) => matchesQuery(faq, query));
+      if (browseSection) browseSection.hidden = true;
+      if (resultsSection) resultsSection.hidden = false;
+      results.setAttribute("aria-busy", "true");
+      render(
+        results,
+        matches,
+        `No published FAQs match “${query}.” Try fewer words or a broader topic.`
+      );
+      results.setAttribute("aria-busy", "false");
+      status.textContent = `${matches.length} ${matches.length === 1 ? "result" : "results"} found for “${query}.”`;
+      return matches;
+    };
+
+    searchInput.addEventListener("input", updateSearch);
+    searchInput.addEventListener("search", updateSearch);
+    searchInput.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter") return;
+      event.preventDefault();
+      updateSearch();
+      if (!searchInput.value.trim() || !resultsSection || !resultHeading) return;
+      resultHeading.tabIndex = -1;
+      resultsSection.scrollIntoView({ behavior: "smooth", block: "start" });
+      resultHeading.focus({ preventScroll: true });
     });
+
+    const focusAnchoredSearch = () => {
+      if (window.location.hash !== "#faq-search" || searchInput.id !== "faq-search") return;
+      window.setTimeout(() => {
+        searchInput.focus({ preventScroll: true });
+        searchInput.closest(".quick-answer")?.scrollIntoView({ block: "start" });
+      }, 0);
+    };
+
+    updateSearch();
+    focusAnchoredSearch();
+    window.addEventListener("hashchange", focusAnchoredSearch);
   }
 
 
