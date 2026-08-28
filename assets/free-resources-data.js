@@ -28,7 +28,8 @@ window.NINZ_FREE_RESOURCES = {
     "business_compliance": "General business education. Requirements vary by business, industry, and jurisdiction. Verify applicable requirements with official agencies or qualified professionals.",
     "funding": "General business education only. This resource does not guarantee funding and is not individualized financial, credit, legal, or tax advice.",
     "ai": "General business education. Review and verify AI-generated information before relying on it for important business decisions.",
-    "online_presence": "General business education. Google Business Profile features and policies may change. Verify current requirements with official Google guidance."
+    "online_presence": "General business education. Google Business Profile features and policies may change. Verify current requirements with official Google guidance.",
+    "reviews_credibility": "General business education only. This resource does not provide legal, regulatory, SEO, or platform-compliance advice and does not guarantee reviews, rankings, visibility, customer trust, or sales."
   },
   "resources": [
     {
@@ -2026,6 +2027,201 @@ window.NINZ_FREE_RESOURCES = {
           "date_accessed": "2026-08-28",
           "supported_claims": [
             "Google prohibits misleading, manipulated, and policy-violating user-generated content."
+          ],
+          "verification_status": "verified"
+        }
+      ]
+    },
+    {
+      "resource_id": "RES-012",
+      "title": "Business Reviews & Credibility Checklist",
+      "slug": "business-reviews-credibility-checklist",
+      "category": "Online Presence",
+      "resource_type": "Checklist",
+      "status": "approved_for_initial_launch",
+      "description": "A practical checkup for the public signals that help customers find, understand, and trust your business.",
+      "audience": "Small-business owners who want to review public information, review practices, customer next steps, and credibility signals from a customer's point of view.",
+      "access_model": "instant_access",
+      "formats_available": [
+        {
+          "format": "web",
+          "status": "recommended_launch_format"
+        },
+        {
+          "format": "digital_pdf",
+          "status": "recommended_launch_format"
+        },
+        {
+          "format": "printable_pdf",
+          "status": "recommended_launch_format"
+        }
+      ],
+      "primary_format": "web",
+      "minimum_launch_format": "Web overview with approved Digital and Print-Friendly PDF editions.",
+      "response_states": [
+        "Clear",
+        "Needs Attention",
+        "Not Applicable"
+      ],
+      "public_url": "resources/business-reviews-credibility-checklist/",
+      "download_paths": {
+        "digital_pdf": "assets/downloads/NINZ_Business_Reviews_Credibility_Checklist_Digital_v1.0.pdf",
+        "printable_pdf": "assets/downloads/NINZ_Business_Reviews_Credibility_Checklist_Print_v1.0.pdf"
+      },
+      "related_faq_ids": [
+        "VIS-006",
+        "VIS-007",
+        "PRC-014"
+      ],
+      "related_guide_ids": [
+        "learning-center"
+      ],
+      "related_resource_ids": [
+        "RES-002",
+        "RES-011"
+      ],
+      "keywords": [
+        "business credibility checklist",
+        "customer review practices",
+        "online business information",
+        "review integrity"
+      ],
+      "search_aliases": [
+        "CLEAR Credibility Check",
+        "business reviews checklist",
+        "credibility checkup"
+      ],
+      "version_label": "Version 1.0",
+      "last_updated": "August 2026",
+      "last_reviewed": "2026-08-28",
+      "next_review_due": "2026-11-28",
+      "content_risk": "platform-and-regulatory-guidance",
+      "disclaimer_type": "reviews_credibility",
+      "schema_types": [
+        "WebPage",
+        "CreativeWork",
+        "BreadcrumbList"
+      ],
+      "sections": [
+        {
+          "heading": "What this helps you do",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Review the public signals customers may use to find, understand, and evaluate your business."
+            },
+            {
+              "type": "paragraph",
+              "text": "Identify conflicting facts, unclear offers, unsupported evidence, difficult next steps, and review-handling practices that need attention."
+            }
+          ]
+        },
+        {
+          "heading": "The CLEAR Credibility Check",
+          "blocks": [
+            {
+              "type": "list",
+              "style": "unordered",
+              "items": [
+                "C: Consistent facts",
+                "L: Legible offer",
+                "E: Evidence with context",
+                "A: Accessible next steps",
+                "R: Responsive review handling"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The CLEAR Credibility Check is a NINZ organizing framework. It is not a score, certification, ranking model, prediction model, or legal compliance determination."
+            }
+          ]
+        },
+        {
+          "heading": "Choose your edition",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Use the Light / Print-Friendly Edition for printing, handwriting, grayscale, and low-ink use. Use the Dark / Digital Edition for screen viewing and digital reference."
+            }
+          ]
+        }
+      ],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Use the priority action page to identify the three most important credibility gaps and choose one correction to complete this week."
+          }
+        ],
+        "related_resource_ids": [
+          "RES-002",
+          "RES-011"
+        ]
+      },
+      "sources": [
+        {
+          "source_id": "google-maps-content-policy",
+          "source_title": "Prohibited & restricted content",
+          "source_publisher": "Google Maps User Generated Content Policy Help",
+          "source_url": "https://support.google.com/contributionpolicy/answer/7400114?hl=en",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "Google requires reviews to reflect genuine experiences and prohibits fake or manipulated engagement."
+          ],
+          "verification_status": "verified"
+        },
+        {
+          "source_id": "google-review-guidance",
+          "source_title": "Tips to get more reviews",
+          "source_publisher": "Google Business Profile Help",
+          "source_url": "https://support.google.com/business/answer/3474122?hl=en",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "Google provides guidance for neutral review requests and professional review responses."
+          ],
+          "verification_status": "verified"
+        },
+        {
+          "source_id": "google-review-management",
+          "source_title": "Manage customer reviews",
+          "source_publisher": "Google Business Profile Help",
+          "source_url": "https://support.google.com/business/answer/3474050?hl=en",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "Verified businesses can read and reply to customer reviews through their Business Profile."
+          ],
+          "verification_status": "verified"
+        },
+        {
+          "source_id": "google-report-reviews",
+          "source_title": "Report inappropriate reviews on your Business Profile",
+          "source_publisher": "Google Business Profile Help",
+          "source_url": "https://support.google.com/business/answer/4596773?hl=en",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "Google review reporting is intended for content that may violate platform policies."
+          ],
+          "verification_status": "verified"
+        },
+        {
+          "source_id": "ftc-review-rule-qa",
+          "source_title": "The Consumer Reviews and Testimonials Rule: Questions and Answers",
+          "source_publisher": "Federal Trade Commission",
+          "source_url": "https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "The FTC rule addresses specified fake, false, conditioned, insider, and suppressed review practices."
+          ],
+          "verification_status": "verified"
+        },
+        {
+          "source_id": "ftc-consumer-review-fairness",
+          "source_title": "Consumer Review Fairness Act: What Businesses Need to Know",
+          "source_publisher": "Federal Trade Commission",
+          "source_url": "https://www.ftc.gov/business-guidance/resources/consumer-review-fairness-act-what-businesses-need-know",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "The Consumer Review Fairness Act protects consumers' ability to share honest opinions."
           ],
           "verification_status": "verified"
         }

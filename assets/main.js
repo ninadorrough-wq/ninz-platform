@@ -1,3 +1,45 @@
+const NINZ_THEME_STORAGE_KEY = "ninz-theme";
+const themeMedia = window.matchMedia("(prefers-color-scheme: dark)");
+const getActiveTheme = () => document.documentElement.getAttribute("data-theme") || (themeMedia.matches ? "dark" : "light");
+
+const updateThemeToggle = (button) => {
+  const activeTheme = getActiveTheme();
+  const nextTheme = activeTheme === "dark" ? "light" : "dark";
+  button.textContent = nextTheme === "dark" ? "Dark mode" : "Light mode";
+  button.setAttribute("aria-label", `Switch to ${nextTheme} appearance`);
+  button.setAttribute("aria-pressed", String(activeTheme === "dark"));
+  button.dataset.activeTheme = activeTheme;
+};
+
+const installThemeToggle = () => {
+  const siteNav = document.querySelector("#site-nav");
+  if (!siteNav || siteNav.querySelector(".theme-toggle")) return;
+
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "theme-toggle";
+  const mobileAction = siteNav.querySelector(".mobile-nav-action");
+  siteNav.insertBefore(button, mobileAction || null);
+  updateThemeToggle(button);
+
+  button.addEventListener("click", () => {
+    const nextTheme = getActiveTheme() === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", nextTheme);
+    try {
+      window.localStorage.setItem(NINZ_THEME_STORAGE_KEY, nextTheme);
+    } catch (error) {
+      // The selected theme remains active for the current page.
+    }
+    updateThemeToggle(button);
+  });
+
+  themeMedia.addEventListener?.("change", () => {
+    if (!document.documentElement.hasAttribute("data-theme")) updateThemeToggle(button);
+  });
+};
+
+installThemeToggle();
+
 const toggle = document.querySelector(".menu-toggle");
 const nav = document.querySelector("#site-nav");
 if (toggle && nav) {

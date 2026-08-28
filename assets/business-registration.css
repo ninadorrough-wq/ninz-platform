@@ -2,15 +2,15 @@
   background:
     radial-gradient(circle at 88% 12%, rgba(200, 162, 74, .18), transparent 29rem),
     linear-gradient(135deg, #111 0%, var(--charcoal) 72%);
-  color: var(--white);
+  color: #fff;
   padding: clamp(4.5rem, 8vw, 8rem) max(5vw, calc((100vw - 1200px) / 2));
 }
 
 .navigator-hero .eyebrow,
 .navigator-hero .subheadline,
-.navigator-hero a { color: var(--white); }
+.navigator-hero a { color: #fff; }
 .navigator-hero .eyebrow span { background: var(--gold); }
-.navigator-hero h1 { max-width: 900px; color: var(--white); }
+.navigator-hero h1 { max-width: 900px; color: #fff; }
 .navigator-hero .subheadline { max-width: 760px; }
 
 .navigator-feature-eyebrow {
@@ -32,14 +32,14 @@
   padding: clamp(1.5rem, 4vw, 3rem);
   margin-bottom: clamp(3.5rem, 7vw, 6rem);
   border-radius: 18px;
-  background: var(--charcoal);
-  color: var(--white);
+  background: #1e1e1e;
+  color: #fff;
   box-shadow: 0 20px 55px rgba(30, 30, 30, .16);
 }
 
 .state-finder h2,
 .state-finder p { color: inherit; }
-.state-finder .eyebrow { color: var(--white); }
+.state-finder .eyebrow { color: #fff; }
 .state-finder .eyebrow span { background: var(--gold); }
 
 .state-search-form label {
@@ -267,8 +267,8 @@
 .source-register {
   padding: clamp(2rem, 5vw, 3.5rem);
   border-radius: 14px;
-  background: var(--charcoal);
-  color: var(--white);
+  background: #1e1e1e;
+  color: #fff;
 }
 
 .source-register h2,
