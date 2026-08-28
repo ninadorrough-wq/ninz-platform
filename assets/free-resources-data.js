@@ -21,12 +21,14 @@ window.NINZ_FREE_RESOURCES = {
     "Compliance",
     "Credit & Funding",
     "AI",
-    "Business Operations"
+    "Business Operations",
+    "Online Presence"
   ],
   "disclaimer_types": {
     "business_compliance": "General business education. Requirements vary by business, industry, and jurisdiction. Verify applicable requirements with official agencies or qualified professionals.",
     "funding": "General business education only. This resource does not guarantee funding and is not individualized financial, credit, legal, or tax advice.",
-    "ai": "General business education. Review and verify AI-generated information before relying on it for important business decisions."
+    "ai": "General business education. Review and verify AI-generated information before relying on it for important business decisions.",
+    "online_presence": "General business education. Google Business Profile features and policies may change. Verify current requirements with official Google guidance."
   },
   "resources": [
     {
@@ -1784,6 +1786,246 @@ window.NINZ_FREE_RESOURCES = {
           "date_accessed": "2026-08-08",
           "supported_claims": [
             "OpenAI recommends clear prompts and reviewing/refining outputs."
+          ],
+          "verification_status": "verified"
+        }
+      ]
+    },
+    {
+      "resource_id": "RES-011",
+      "title": "NINZ Google Business Profile Checklist",
+      "slug": "google-business-profile-checklist",
+      "category": "Online Presence",
+      "resource_type": "Checklist",
+      "status": "approved_for_initial_launch",
+      "description": "Review the key information customers may encounter on your Google Business Profile, including business details, services, photos, reviews, hours, and credibility signals.",
+      "audience": "Business owners who want to review the accuracy, clarity, and credibility of an eligible Google Business Profile.",
+      "access_model": "instant_access",
+      "formats_available": [
+        {
+          "format": "web",
+          "status": "recommended_launch_format"
+        },
+        {
+          "format": "printable_pdf",
+          "status": "recommended_launch_format"
+        }
+      ],
+      "primary_format": "web",
+      "minimum_launch_format": "Web checklist plus printable PDF for public use.",
+      "response_states": [
+        "Complete",
+        "Needs Attention",
+        "Not Applicable"
+      ],
+      "public_url": "resources/google-business-profile-checklist/",
+      "download_paths": {
+        "printable_pdf": "assets/downloads/NINZ_Google_Business_Profile_Checklist_v1.0.pdf"
+      },
+      "related_faq_ids": [
+        "VIS-002",
+        "VIS-003",
+        "VIS-006",
+        "VIS-007",
+        "PRC-014"
+      ],
+      "related_guide_ids": [
+        "learning-center"
+      ],
+      "related_resource_ids": [
+        "RES-002"
+      ],
+      "keywords": [
+        "Google Business Profile checklist",
+        "business profile review",
+        "Google profile accuracy",
+        "local business visibility"
+      ],
+      "search_aliases": [
+        "GBP checklist",
+        "Google business listing checklist",
+        "Google profile audit checklist"
+      ],
+      "version_label": "Version 1.0",
+      "last_updated": "August 2026",
+      "last_reviewed": "2026-08-28",
+      "next_review_due": "2026-11-28",
+      "content_risk": "platform-guidance",
+      "disclaimer_type": "online_presence",
+      "schema_types": [
+        "WebPage",
+        "CreativeWork",
+        "BreadcrumbList"
+      ],
+      "sections": [
+        {
+          "heading": "What this helps you do",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Use this checklist to review whether your Google Business Profile accurately represents your business and gives customers useful, current information for taking the next step."
+            },
+            {
+              "type": "paragraph",
+              "text": "Identify what is complete, what needs attention, and the three improvements to prioritize next."
+            }
+          ]
+        },
+        {
+          "heading": "How to use it",
+          "blocks": [
+            {
+              "type": "ordered_list",
+              "items": [
+                "Review each checklist item against the current profile.",
+                "Mark each item Complete, Needs Attention, or Not Applicable.",
+                "Choose the three items that would most improve accuracy, clarity, or customer trust.",
+                "Select one improvement to complete this week.",
+                "Review the profile periodically as business information, services, hours, or policies change."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Resource preview",
+          "blocks": [
+            {
+              "type": "subsection",
+              "text": "Eligibility, Verification & Business Basics"
+            },
+            {
+              "type": "list",
+              "style": "unordered",
+              "items": [
+                "Review eligibility, ownership, verification, business name, categories, phone, website, and description.",
+                "Confirm that profile information accurately represents how the business operates."
+              ]
+            },
+            {
+              "type": "subsection",
+              "text": "Location, Service Area & Hours"
+            },
+            {
+              "type": "list",
+              "style": "unordered",
+              "items": [
+                "Review the address or service area used on the profile.",
+                "Confirm regular, special, and service-specific hours where relevant."
+              ]
+            },
+            {
+              "type": "subsection",
+              "text": "Services & Customer Information"
+            },
+            {
+              "type": "list",
+              "style": "unordered",
+              "items": [
+                "Review current services, descriptions, prices, business attributes, and customer action links when available."
+              ]
+            },
+            {
+              "type": "subsection",
+              "text": "Photos & Visual Credibility"
+            },
+            {
+              "type": "list",
+              "style": "unordered",
+              "items": [
+                "Review the logo, cover photo, current business photos, and older images that may no longer represent the business accurately."
+              ]
+            },
+            {
+              "type": "subsection",
+              "text": "Reviews & Reputation"
+            },
+            {
+              "type": "list",
+              "style": "unordered",
+              "items": [
+                "Review how the business requests, monitors, and responds to customer reviews.",
+                "Avoid incentives, pressure, fake reviews, and disclosure of private customer information."
+              ]
+            },
+            {
+              "type": "subsection",
+              "text": "Ongoing Accuracy & Website Alignment"
+            },
+            {
+              "type": "list",
+              "style": "unordered",
+              "items": [
+                "Review profile information periodically and keep customer-facing links working.",
+                "Confirm that the website supports the business information, services, and expectations presented on the profile."
+              ]
+            }
+          ]
+        }
+      ],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "After reviewing the profile, record the three highest-priority improvements and choose one practical update to complete first."
+          }
+        ],
+        "related_resource_ids": [
+          "RES-002"
+        ]
+      },
+      "sources": [
+        {
+          "source_id": "google-gbp-about",
+          "source_title": "Get started with Google Business Profile",
+          "source_publisher": "Google Business Profile Help",
+          "source_url": "https://support.google.com/business/answer/7039811?hl=en",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "Eligible businesses can manage how business information appears on Google Search and Maps."
+          ],
+          "verification_status": "verified"
+        },
+        {
+          "source_id": "google-gbp-eligibility",
+          "source_title": "Business eligibility and ownership guidelines",
+          "source_publisher": "Google Business Profile Help",
+          "source_url": "https://support.google.com/business/answer/13763036?hl=en",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "Eligibility and authorized ownership requirements apply to Google Business Profiles."
+          ],
+          "verification_status": "verified"
+        },
+        {
+          "source_id": "google-gbp-guidelines",
+          "source_title": "Guidelines for representing your business on Google",
+          "source_publisher": "Google Business Profile Help",
+          "source_url": "https://support.google.com/business/answer/3038177?hl=en",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "Business Profiles should accurately represent a business and follow field-specific guidance for names, categories, locations, service areas, hours, phone numbers, and websites."
+          ],
+          "verification_status": "verified"
+        },
+        {
+          "source_id": "google-review-guidance",
+          "source_title": "Tips to get more reviews",
+          "source_publisher": "Google Business Profile Help",
+          "source_url": "https://support.google.com/business/answer/3474122?hl=en",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "Businesses can share a review link or QR code and should follow Google's review policies."
+          ],
+          "verification_status": "verified"
+        },
+        {
+          "source_id": "google-prohibited-restricted-content",
+          "source_title": "Prohibited & Restricted Content",
+          "source_publisher": "Google Business Profile Help",
+          "source_url": "https://support.google.com/business/answer/7400114",
+          "date_accessed": "2026-08-28",
+          "supported_claims": [
+            "Google prohibits misleading, manipulated, and policy-violating user-generated content."
           ],
           "verification_status": "verified"
         }
