@@ -35,7 +35,7 @@ window.NINZ_FAQ_LIBRARY = {
       {
           "resource_id": "assessment-ai-visibility",
           "title": "Take the NINZ AI Visibility Assessment",
-          "url": "https://api.leadconnectorhq.com/widget/form/Xa4ZQeEqGhpFX63EzDHh",
+          "url": "/service-customer-information.html?service=ai-visibility-assessment",
           "status": "active_form"
       },
       {
