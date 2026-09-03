@@ -1,5 +1,5 @@
 window.NINZ_FAQ_LIBRARY = {
-  version: "controlled-release-faq-145",
+  version: "controlled-release-faq-155",
   organization: {
     name: "NINZ",
     url: "https://ninz.me",
@@ -126,6 +126,24 @@ window.NINZ_FAQ_LIBRARY = {
         "resource_id": "resource-google-business-profile",
         "title": "NINZ Google Business Profile Checklist",
         "url": "/resources/google-business-profile-checklist/",
+        "status": "published"
+      },
+      {
+        "resource_id": "resource-ai-task-finder",
+        "title": "AI Task Finder Worksheet",
+        "url": "/resources/ai-task-finder-worksheet/",
+        "status": "published"
+      },
+      {
+        "resource_id": "resource-ai-research-verification",
+        "title": "AI Research Verification Checklist",
+        "url": "/resources/ai-research-verification-checklist/",
+        "status": "published"
+      },
+      {
+        "resource_id": "resource-responsible-ai",
+        "title": "Responsible AI for Business Checklist",
+        "url": "/resources/responsible-ai-for-business-checklist/",
         "status": "published"
       },
       {
@@ -28263,6 +28281,2156 @@ window.NINZ_FAQ_LIBRARY = {
           "organization_reference": "https://ninz.me/#business",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
+        },
+    {
+      "faq_id": "AI-056",
+      "question": "Can AI Safely Help Me Complete Business-Registration, License, or Tax Forms?",
+      "slug": "can-ai-safely-help-complete-business-registration-license-tax-forms",
+      "category": "AI for Business",
+      "category_slug": "ai-for-business",
+      "subcategory": "Responsible AI Use",
+      "topic_tags": [
+        "AI government forms",
+        "business registration",
+        "licenses",
+        "tax forms",
+        "AI safety"
+      ],
+      "content_status": "published",
+      "opening_context": "AI can help you understand terminology, organize information, create checklists, and prepare questions, but it should not replace the official form instructions or qualified legal or tax guidance when needed. Be especially cautious about entering sensitive business or personal information into AI tools.",
+      "short_answer": [
+        "AI can help you ",
+        {
+          "emphasis": true,
+          "text": "understand terminology, organize information, create checklists, and prepare questions"
+        },
+        ", but it should not replace the official form instructions or qualified legal or tax guidance when needed.\n\nBe especially cautious about entering sensitive business or personal information into AI tools."
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "AI can be useful during administrative tasks, but government filings deserve additional safeguards because mistakes can create legal, tax, licensing, or compliance problems."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Appropriate AI assistance might include:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "explaining unfamiliar terminology in plain language",
+            "creating a checklist of information you may need",
+            "helping organize non-sensitive business information",
+            "comparing your notes with publicly available instructions",
+            "generating questions to ask an agency or professional",
+            "helping identify areas that require further verification"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "However, AI systems can produce inaccurate, incomplete, outdated, or fabricated information."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Always compare AI-generated guidance against the ",
+            {
+              "emphasis": true,
+              "text": "current official form and instructions from the government agency responsible for the filing"
+            },
+            "."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Sensitive information requires additional caution. Avoid placing Social Security numbers, tax records, identification documents, banking credentials, passwords, or other confidential information into an AI system unless you have specifically determined that the tool and your use of it are appropriate for that information."
+          ]
         }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“If AI sounds confident, the answer is probably correct.”",
+          "explanation": "No. Confidence and accuracy are not the same thing."
+        },
+        {
+          "title": "“AI can submit my government paperwork correctly if I give it enough information.”",
+          "explanation": "AI can assist with understanding and preparation, but the business remains responsible for the accuracy and appropriateness of its filings."
+        },
+        {
+          "title": "“I should upload the entire completed form so AI can check it.”",
+          "explanation": "That may expose sensitive information unnecessarily."
+        }
+      ],
+      "related_faq_ids": [
+        "AI-012",
+        "AI-057",
+        "AI-054",
+        "BUS-017"
+      ],
+      "related_guide_ids": [
+        "resource-ai-research-verification",
+        "resource-responsible-ai",
+        "resource-ai-task-finder",
+        "navigator-business-registration"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "Use AI to help you ",
+              {
+                "emphasis": true,
+                "text": "prepare and understand"
+              },
+              ", then use the official source to ",
+              {
+                "emphasis": true,
+                "text": "verify and act"
+              },
+              "."
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "Use AI to help you ",
+        {
+          "emphasis": true,
+          "text": "prepare and understand"
+        },
+        ", then use the official source to ",
+        {
+          "emphasis": true,
+          "text": "verify and act"
+        },
+        "."
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-146-source-1",
+          "source_type": "federal risk-management framework",
+          "source_title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+          "source_publisher": "National Institute of Standards and Technology",
+          "source_url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "AI use should incorporate risk management, evaluation, oversight, and consideration of reliability and potential harms."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-146-source-2",
+          "source_type": "federal technology and privacy guidance",
+          "source_title": "AI Companies: Uphold Your Privacy and Confidentiality Commitments",
+          "source_publisher": "Federal Trade Commission",
+          "source_url": "https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/01/ai-companies-uphold-your-privacy-confidentiality-commitments",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "AI services create privacy and confidentiality considerations involving information supplied to AI systems."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-146-source-3",
+          "source_type": "official government business guidance",
+          "source_title": "Register your business",
+          "source_publisher": "U.S. Small Business Administration",
+          "source_url": "https://www.sba.gov/business-guide/launch-your-business/register-your-business",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Current instructions from the responsible government agency remain the authoritative source for completing and submitting government filings."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "can ai safely help me complete business-registration, license, or tax forms?"
+      ],
+      "keywords": [
+        "AI government forms",
+        "business registration",
+        "licenses",
+        "tax forms",
+        "AI safety"
+      ],
+      "meta_title": "Can AI Safely Help Me Complete Business-Registration, License, or Tax Forms? | NINZ FAQ",
+      "meta_description": "AI can help you understand terminology, organize information, create checklists, and prepare questions, but it should not replace the official form...",
+      "canonical_url": "https://ninz.me/faq/ai-for-business/can-ai-safely-help-complete-business-registration-license-tax-forms/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "AI for Business",
+        "Can AI Safely Help Me Complete Business-Registration, License, or Tax Forms?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    },
+    {
+      "faq_id": "VIS-019",
+      "question": "What Do SEO, AEO, and GEO Mean, and How Are They Different for a Small Business?",
+      "slug": "seo-aeo-geo-differences-small-business",
+      "category": "Online Presence & Business Visibility",
+      "category_slug": "online-presence-business-visibility",
+      "subcategory": "Search and AI Discovery",
+      "topic_tags": [
+        "SEO",
+        "AEO",
+        "GEO",
+        "AI discovery",
+        "small business visibility"
+      ],
+      "content_status": "published",
+      "opening_context": "SEO generally refers to Search Engine Optimization. AEO is commonly used for Answer Engine Optimization, and GEO is commonly used for Generative Engine Optimization. SEO is an established discipline. AEO and GEO are newer industry terms used to describe efforts to make information understandable and useful in answer-based and generative-AI discovery experiences. The boundaries between them are not universally standardized.",
+      "short_answer": [
+        {
+          "emphasis": true,
+          "text": "SEO"
+        },
+        " generally refers to Search Engine Optimization. ",
+        {
+          "emphasis": true,
+          "text": "AEO"
+        },
+        " is commonly used for Answer Engine Optimization, and ",
+        {
+          "emphasis": true,
+          "text": "GEO"
+        },
+        " is commonly used for Generative Engine Optimization.\n\nSEO is an established discipline. AEO and GEO are newer industry terms used to describe efforts to make information understandable and useful in answer-based and generative-AI discovery experiences.\n\nThe boundaries between them are not universally standardized."
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "Small-business owners may now encounter several overlapping optimization terms."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SEO, Search Engine Optimization"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Traditionally focuses on helping search engines discover, understand, index, and appropriately surface website content."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AEO, Answer Engine Optimization"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Often describes efforts to make information clear and useful for systems that provide direct answers to questions."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GEO, Generative Engine Optimization"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Often describes efforts intended to improve how information is understood, retrieved, mentioned, or cited within generative-AI experiences."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "These should not be treated as three completely independent systems."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "For example, foundational practices such as:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "accurate business information",
+            "useful original content",
+            "clear page structure",
+            "crawlable websites",
+            "descriptive titles and headings",
+            "credible sources",
+            "consistent business identity",
+            "strong customer-focused explanations"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "can support traditional search visibility while also making information easier for other systems to interpret."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Google currently describes optimization for its AI search experiences as building on established SEO fundamentals rather than requiring special AI-specific optimization tricks."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Different AI platforms, however, can use different crawlers, indexes, retrieval methods, sources, and policies."
+          ]
+        }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“SEO is obsolete because people use AI now.”",
+          "explanation": "No. Search infrastructure and established web fundamentals remain important."
+        },
+        {
+          "title": "“AEO and GEO have universally agreed technical definitions.”",
+          "explanation": "No. They are widely used industry terms, but their definitions and boundaries continue to evolve."
+        },
+        {
+          "title": "“I need three completely separate marketing strategies.”",
+          "explanation": "Not necessarily. Strong foundational information practices can support multiple discovery environments."
+        }
+      ],
+      "related_faq_ids": [
+        "VIS-015",
+        "VIS-020",
+        "VIS-021",
+        "VIS-014"
+      ],
+      "related_guide_ids": [
+        "resource-ai-research-verification"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "Do not chase every new optimization label. Start with information that is ",
+              {
+                "emphasis": true,
+                "text": "accurate, useful, accessible, well structured, and easy to verify"
+              },
+              "."
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "Do not chase every new optimization label. Start with information that is ",
+        {
+          "emphasis": true,
+          "text": "accurate, useful, accessible, well structured, and easy to verify"
+        },
+        "."
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-147-source-1",
+          "source_type": "official search guidance",
+          "source_title": "AI features and your website",
+          "source_publisher": "Google Search Central",
+          "source_url": "https://developers.google.com/search/docs/appearance/ai-features",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Google's generative search experiences continue to rely on foundational SEO practices and do not require special AI-specific optimization techniques."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-147-source-2",
+          "source_type": "official search guidance",
+          "source_title": "SEO Starter Guide",
+          "source_publisher": "Google Search Central",
+          "source_url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Foundational search practices help Google discover, understand, and present useful website content."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-147-source-3",
+          "source_type": "official platform guidance",
+          "source_title": "Publishers and Developers FAQ",
+          "source_publisher": "OpenAI",
+          "source_url": "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Public websites can appear in ChatGPT search subject to platform crawling and retrieval systems, including controls involving OAI-SearchBot."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "what do seo, aeo, and geo mean, and how are they different for a small business?"
+      ],
+      "keywords": [
+        "SEO",
+        "AEO",
+        "GEO",
+        "AI discovery",
+        "small business visibility"
+      ],
+      "meta_title": "What Do SEO, AEO, and GEO Mean, and How Are They Different for a Small Business? | NINZ FAQ",
+      "meta_description": "SEO generally refers to Search Engine Optimization. AEO is commonly used for Answer Engine Optimization, and GEO is commonly used for Generative Engine...",
+      "canonical_url": "https://ninz.me/faq/online-presence-business-visibility/seo-aeo-geo-differences-small-business/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "Online Presence & Business Visibility",
+        "What Do SEO, AEO, and GEO Mean, and How Are They Different for a Small Business?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    },
+    {
+      "faq_id": "VIS-020",
+      "question": "Do I Need Special AI Markup, FAQ Schema, or an llms.txt File to Appear in AI Answers?",
+      "slug": "special-ai-markup-faq-schema-llms-txt-ai-answers",
+      "category": "Online Presence & Business Visibility",
+      "category_slug": "online-presence-business-visibility",
+      "subcategory": "Search and AI Discovery",
+      "topic_tags": [
+        "AI markup",
+        "FAQ schema",
+        "llms.txt",
+        "AI answers",
+        "structured data"
+      ],
+      "content_status": "published",
+      "opening_context": "There is currently no universal special markup, FAQ schema, or llms.txt file that guarantees your business will appear in AI-generated answers. Different search and AI platforms use different systems and policies.",
+      "short_answer": [
+        "There is currently ",
+        {
+          "emphasis": true,
+          "text": "no universal special markup, FAQ schema, or llms.txt file that guarantees your business will appear in AI-generated answers"
+        },
+        ".\n\nDifferent search and AI platforms use different systems and policies."
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "As interest in AI visibility grows, businesses may encounter claims that adding a particular file, schema type, or piece of code will make a website visible to AI."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Those claims need careful evaluation."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "For Google Search, Google currently says that established SEO fundamentals apply to its AI search experiences and that businesses do not need special AI-specific files or markup to participate."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Structured data can still help search engines understand certain information when the markup accurately represents visible page content and uses supported schema types. But structured data does not guarantee a particular search feature, ranking, citation, or AI response."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "emphasis": true,
+              "text": "FAQ schema is especially easy to misunderstand."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Google substantially limited the regular display of FAQ rich results and does not suggest that adding FAQPage markup guarantees AI visibility."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Similarly, llms.txt has been proposed within the broader technology community, but it should not be treated as a universal requirement for AI discovery."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Individual AI providers may instead publish their own crawler and publisher controls. For example, OpenAI provides guidance concerning OAI-SearchBot for publishers that want their public content available for ChatGPT search."
+          ]
+        }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“Adding FAQ schema will make ChatGPT cite my website.”",
+          "explanation": "No. There is no such guarantee."
+        },
+        {
+          "title": "“Every business needs an llms.txt file now.”",
+          "explanation": "No. It is not a universal requirement across AI systems."
+        },
+        {
+          "title": "“Structured data is useless now.”",
+          "explanation": "No. Appropriate structured data can still help supported systems understand page information, but it should be used for its intended purpose rather than as a guaranteed AI-ranking mechanism."
+        }
+      ],
+      "related_faq_ids": [
+        "VIS-019",
+        "VIS-021",
+        "VIS-015",
+        "VIS-022"
+      ],
+      "related_guide_ids": [
+        "resource-ai-research-verification"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "Be cautious when someone presents a single piece of code as the secret to AI visibility. ",
+              {
+                "emphasis": true,
+                "text": "Crawlability, clarity, credibility, accessibility, and useful information matter more than chasing an unsupported shortcut."
+              }
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "Be cautious when someone presents a single piece of code as the secret to AI visibility. ",
+        {
+          "emphasis": true,
+          "text": "Crawlability, clarity, credibility, accessibility, and useful information matter more than chasing an unsupported shortcut."
+        }
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-148-source-1",
+          "source_type": "official search guidance",
+          "source_title": "AI features and your website",
+          "source_publisher": "Google Search Central",
+          "source_url": "https://developers.google.com/search/docs/appearance/ai-features",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Google states that no special AI-specific optimization, markup, or new machine-readable files are required for its AI search experiences beyond established Search requirements and practices."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-148-source-2",
+          "source_type": "official search guidance",
+          "source_title": "Changes to HowTo and FAQ rich results",
+          "source_publisher": "Google Search Central",
+          "source_url": "https://developers.google.com/search/blog/2023/08/howto-faq-changes",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Google reduced regular FAQ rich-result visibility and limits eligibility, demonstrating that FAQ structured data does not guarantee enhanced search presentation."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-148-source-3",
+          "source_type": "official platform guidance",
+          "source_title": "Publishers and Developers FAQ",
+          "source_publisher": "OpenAI",
+          "source_url": "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "OpenAI provides platform-specific crawler guidance, including OAI-SearchBot, rather than identifying universal AI markup required across all systems."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "do i need special ai markup, faq schema, or an llms.txt file to appear in ai answers?"
+      ],
+      "keywords": [
+        "AI markup",
+        "FAQ schema",
+        "llms.txt",
+        "AI answers",
+        "structured data"
+      ],
+      "meta_title": "Do I Need Special AI Markup, FAQ Schema, or an llms.txt File to Appear in AI Answers? | NINZ FAQ",
+      "meta_description": "There is currently no universal special markup, FAQ schema, or llms.txt file that guarantees your business will appear in AI-generated answers. Different...",
+      "canonical_url": "https://ninz.me/faq/online-presence-business-visibility/special-ai-markup-faq-schema-llms-txt-ai-answers/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "Online Presence & Business Visibility",
+        "Do I Need Special AI Markup, FAQ Schema, or an llms.txt File to Appear in AI Answers?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    },
+    {
+      "faq_id": "VIS-021",
+      "question": "How Can a Small Business Measure Whether It Is Being Found or Cited in AI Search?",
+      "slug": "measure-small-business-found-cited-ai-search",
+      "category": "Online Presence & Business Visibility",
+      "category_slug": "online-presence-business-visibility",
+      "subcategory": "Search and AI Discovery",
+      "topic_tags": [
+        "AI visibility measurement",
+        "AI citations",
+        "referral traffic",
+        "analytics",
+        "AI search"
+      ],
+      "content_status": "published",
+      "opening_context": "There is no single universal AI-visibility score. Businesses can monitor a combination of AI citations or mentions, referral traffic, search-platform reporting, website analytics, branded discovery, and actual customer actions. Measurement capabilities vary by AI platform.",
+      "short_answer": [
+        "There is no single universal AI-visibility score.\n\nBusinesses can monitor a combination of ",
+        {
+          "emphasis": true,
+          "text": "AI citations or mentions, referral traffic, search-platform reporting, website analytics, branded discovery, and actual customer actions"
+        },
+        ".\n\nMeasurement capabilities vary by AI platform."
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "AI visibility is still developing, and different platforms expose different amounts of data."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "The first step is separating several concepts:"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Crawled"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "A system was permitted or able to access content."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Indexed or retrieved"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Content became available to a system's search or retrieval process."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Mentioned"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "The business or content appeared in an answer."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Cited"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "The system provided an identifiable source reference or link."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Recommended"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "The system presented the business as an option or suggestion."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Visited"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "A person followed through to the website."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Converted"
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "The visitor took a meaningful business action."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "These are not interchangeable."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Depending on the platform and tools available, a business may monitor:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "citations and mentions for relevant questions",
+            "referral traffic from AI services",
+            "landing pages receiving AI-originated visits",
+            "changes in branded searches",
+            "Bing Webmaster Tools AI-related reporting",
+            "traditional search visibility",
+            "leads or conversions that identify AI as a discovery source"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "OpenAI states that ChatGPT referral traffic can be identified through referral parameters. Microsoft has also introduced AI Performance reporting in Bing Webmaster Tools for supported Microsoft AI experiences."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "A citation count alone does not establish authority, ranking, customer trust, or revenue."
+          ]
+        }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“If AI mentions my business once, I have strong AI visibility.”",
+          "explanation": "Not necessarily. One result is only one observation."
+        },
+        {
+          "title": "“If an AI crawler can access my website, my business will be recommended.”",
+          "explanation": "No. Access does not guarantee retrieval, citation, recommendation, or conversion."
+        },
+        {
+          "title": "“There must be one score that tells me how visible I am everywhere.”",
+          "explanation": "No. AI systems use different data sources, retrieval methods, and reporting systems."
+        }
+      ],
+      "related_faq_ids": [
+        "VIS-019",
+        "VIS-020",
+        "VIS-015",
+        "VIS-011"
+      ],
+      "related_guide_ids": [
+        "resource-ai-research-verification"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "Measure the ",
+              {
+                "emphasis": true,
+                "text": "path"
+              },
+              ", not just the mention:\n\n",
+              {
+                "emphasis": true,
+                "text": "Access → discovery → citation or mention → website visit → customer action."
+              },
+              "\n\nThose stages tell you much more than a standalone “AI visibility score.”"
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "Measure the ",
+        {
+          "emphasis": true,
+          "text": "path"
+        },
+        ", not just the mention:\n\n",
+        {
+          "emphasis": true,
+          "text": "Access → discovery → citation or mention → website visit → customer action."
+        },
+        "\n\nThose stages tell you much more than a standalone “AI visibility score.”"
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-149-source-1",
+          "source_type": "official platform guidance",
+          "source_title": "Publishers and Developers FAQ",
+          "source_publisher": "OpenAI",
+          "source_url": "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "OpenAI explains publisher controls for ChatGPT search and methods for identifying ChatGPT referral traffic."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-149-source-2",
+          "source_type": "official platform guidance",
+          "source_title": "AI Performance in Bing Webmaster Tools",
+          "source_publisher": "Microsoft Bing",
+          "source_url": "https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Bing Webmaster Tools provides AI-related citation and performance reporting for supported Microsoft AI experiences."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-149-source-3",
+          "source_type": "official search guidance",
+          "source_title": "Google Search performance documentation",
+          "source_publisher": "Google Search Central",
+          "source_url": "https://developers.google.com/search/docs/monitor-debug/search-console-start",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Traditional search-performance data remains useful for understanding website discovery and search behavior alongside emerging AI measurements."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "how can a small business measure whether it is being found or cited in ai search?"
+      ],
+      "keywords": [
+        "AI visibility measurement",
+        "AI citations",
+        "referral traffic",
+        "analytics",
+        "AI search"
+      ],
+      "meta_title": "How Can a Small Business Measure Whether It Is Being Found or Cited in AI Search? | NINZ FAQ",
+      "meta_description": "There is no single universal AI-visibility score. Businesses can monitor a combination of AI citations or mentions, referral traffic, search-platform...",
+      "canonical_url": "https://ninz.me/faq/online-presence-business-visibility/measure-small-business-found-cited-ai-search/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "Online Presence & Business Visibility",
+        "How Can a Small Business Measure Whether It Is Being Found or Cited in AI Search?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    },
+    {
+      "faq_id": "VIS-022",
+      "question": "Does My Small Business Website Need an FAQ Page?",
+      "slug": "does-small-business-website-need-faq-page",
+      "category": "Online Presence & Business Visibility",
+      "category_slug": "online-presence-business-visibility",
+      "subcategory": "Website Foundations",
+      "topic_tags": [
+        "FAQ page",
+        "small business website",
+        "customer questions",
+        "FAQ schema",
+        "helpful content"
+      ],
+      "content_status": "published",
+      "opening_context": "Not every website is required to have an FAQ page, but a well-designed FAQ section or library can be useful when customers repeatedly ask the same important questions. The primary reason to create FAQs should be to help people, not simply to add keywords or schema.",
+      "short_answer": [
+        "Not every website is required to have an FAQ page, but a well-designed FAQ section or library can be useful when customers repeatedly ask the same important questions.\n\nThe primary reason to create FAQs should be to ",
+        {
+          "emphasis": true,
+          "text": "help people"
+        },
+        ", not simply to add keywords or schema."
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "A useful FAQ system can help customers understand:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "what the business does",
+            "who a service is for",
+            "how a process works",
+            "common requirements",
+            "policies or expectations",
+            "terminology",
+            "next steps",
+            "questions that commonly delay a purchase or decision"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "FAQs can also create clear, structured information that search and other information systems may be able to understand."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "However, an FAQ page should not exist merely because someone said every website needs one."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Poor FAQ content can include:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "questions customers do not actually ask",
+            "repetitive keyword-heavy answers",
+            "vague marketing language",
+            "outdated information",
+            "answers copied from competitors",
+            "dozens of shallow questions created solely for search engines"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "FAQ structured data and FAQ content should also be treated separately. A business can have useful FAQs without receiving an FAQ rich result from Google."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "The strongest FAQ strategy starts with ",
+            {
+              "emphasis": true,
+              "text": "real customer questions and useful answers"
+            },
+            ", then connects those answers to relevant services, resources, policies, and educational content where appropriate."
+          ]
+        }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“Every website needs exactly ten FAQs.”",
+          "explanation": "No. The appropriate number depends on the business and its customers."
+        },
+        {
+          "title": "“An FAQ page automatically improves Google rankings.”",
+          "explanation": "No. Useful content can support a broader information strategy, but rankings are not guaranteed."
+        },
+        {
+          "title": "“FAQ schema makes my questions appear prominently in Google or AI answers.”",
+          "explanation": "No. Structured data does not guarantee search features, rankings, or AI citations."
+        }
+      ],
+      "related_faq_ids": [
+        "VIS-020",
+        "VIS-018",
+        "VIS-014",
+        "VIS-015"
+      ],
+      "related_guide_ids": [
+        "resource-ai-research-verification"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "Build FAQs because ",
+              {
+                "emphasis": true,
+                "text": "people need the answers"
+              },
+              ". If those answers also make your business easier for search engines or AI systems to understand, that is an additional benefit rather than the reason for creating weak content."
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "Build FAQs because ",
+        {
+          "emphasis": true,
+          "text": "people need the answers"
+        },
+        ". If those answers also make your business easier for search engines or AI systems to understand, that is an additional benefit rather than the reason for creating weak content."
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-150-source-1",
+          "source_type": "official search guidance",
+          "source_title": "SEO Starter Guide",
+          "source_publisher": "Google Search Central",
+          "source_url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Google recommends creating useful, people-focused website content and clear site organization rather than content designed primarily to manipulate search performance."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-150-source-2",
+          "source_type": "official search guidance",
+          "source_title": "Changes to HowTo and FAQ rich results",
+          "source_publisher": "Google Search Central",
+          "source_url": "https://developers.google.com/search/blog/2023/08/howto-faq-changes",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "FAQ structured data does not guarantee prominent FAQ search presentation, and regular FAQ rich-result eligibility has been significantly restricted."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-150-source-3",
+          "source_type": "official search guidance",
+          "source_title": "AI features and your website",
+          "source_publisher": "Google Search Central",
+          "source_url": "https://developers.google.com/search/docs/appearance/ai-features",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Google's AI search experiences build on established search and content fundamentals rather than requiring special AI-specific optimization."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "does my small business website need an faq page?"
+      ],
+      "keywords": [
+        "FAQ page",
+        "small business website",
+        "customer questions",
+        "FAQ schema",
+        "helpful content"
+      ],
+      "meta_title": "Does My Small Business Website Need an FAQ Page? | NINZ FAQ",
+      "meta_description": "Not every website is required to have an FAQ page, but a well-designed FAQ section or library can be useful when customers repeatedly ask the same important...",
+      "canonical_url": "https://ninz.me/faq/online-presence-business-visibility/does-small-business-website-need-faq-page/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "Online Presence & Business Visibility",
+        "Does My Small Business Website Need an FAQ Page?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    },
+    {
+      "faq_id": "AI-057",
+      "question": "What Business Information Should I Avoid Putting Into an AI Tool?",
+      "slug": "business-information-avoid-putting-into-ai-tool",
+      "category": "AI for Business",
+      "category_slug": "ai-for-business",
+      "subcategory": "Responsible AI Use",
+      "topic_tags": [
+        "AI privacy",
+        "confidential information",
+        "business data",
+        "sensitive information",
+        "AI safety"
+      ],
+      "content_status": "published",
+      "opening_context": "Avoid entering sensitive, confidential, regulated, or unnecessary information into an AI tool unless you have determined that the specific tool, account, settings, and intended use provide appropriate protections. This can include passwords, financial account information, Social Security numbers, customer records, confidential business information, and other sensitive data.",
+      "short_answer": [
+        "Avoid entering sensitive, confidential, regulated, or unnecessary information into an AI tool unless you have determined that the specific tool, account, settings, and intended use provide appropriate protections.\n\nThis can include passwords, financial account information, Social Security numbers, customer records, confidential business information, and other sensitive data."
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "AI tools can make business work faster, but information entered into an AI system may be handled differently depending on the provider, product, account type, privacy settings, and contractual terms."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Before entering business information, consider whether the AI tool actually needs that information to perform the task."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Information requiring particular caution can include:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "passwords, security codes, and authentication credentials",
+            "Social Security numbers and government identification numbers",
+            "bank account, credit card, and payment information",
+            "customer or employee personal information",
+            "medical or health information",
+            "tax records",
+            "confidential contracts or legal documents",
+            "proprietary processes, trade secrets, or nonpublic business strategies",
+            "private communications",
+            "information subject to confidentiality obligations"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "A safer approach is often to remove or replace sensitive details before using AI."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "For example, an AI tool may be able to help improve the wording of a customer-service response without receiving the customer's full name, phone number, account number, or other identifying information."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Businesses should also review the AI provider's current privacy, data-use, retention, and security terms rather than assuming every AI service handles information the same way."
+          ]
+        }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“If I'm paying for the AI tool, everything I enter is automatically confidential.”",
+          "explanation": "Not necessarily. Data practices depend on the specific service, product, settings, and applicable agreements."
+        },
+        {
+          "title": "“AI needs the complete document to help me.”",
+          "explanation": "Often it does not. Sensitive information may be removable before the material is submitted."
+        },
+        {
+          "title": "“Business information isn't personal information, so there's no privacy concern.”",
+          "explanation": "Business records can contain personal, confidential, financial, proprietary, or regulated information."
+        }
+      ],
+      "related_faq_ids": [
+        "AI-056",
+        "AI-058",
+        "AI-012",
+        "AI-054"
+      ],
+      "related_guide_ids": [
+        "resource-responsible-ai",
+        "resource-ai-research-verification",
+        "resource-ai-task-finder"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "Before giving information to AI, ask: ",
+              {
+                "emphasis": true,
+                "text": "Does the tool actually need this information to complete the task?"
+              },
+              " If not, remove it."
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "Before giving information to AI, ask: ",
+        {
+          "emphasis": true,
+          "text": "Does the tool actually need this information to complete the task?"
+        },
+        " If not, remove it."
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-151-source-1",
+          "source_type": "federal privacy and technology guidance",
+          "source_title": "AI Companies: Uphold Your Privacy and Confidentiality Commitments",
+          "source_publisher": "Federal Trade Commission",
+          "source_url": "https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/01/ai-companies-uphold-your-privacy-confidentiality-commitments",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "AI providers must honor privacy and confidentiality representations, and businesses should consider how information supplied to AI services is handled."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-151-source-2",
+          "source_type": "federal risk-management framework",
+          "source_title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+          "source_publisher": "National Institute of Standards and Technology",
+          "source_url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Responsible AI risk management includes privacy, security, reliability, accountability, and consideration of potential harms."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "what business information should i avoid putting into an ai tool?"
+      ],
+      "keywords": [
+        "AI privacy",
+        "confidential information",
+        "business data",
+        "sensitive information",
+        "AI safety"
+      ],
+      "meta_title": "What Business Information Should I Avoid Putting Into an AI Tool? | NINZ FAQ",
+      "meta_description": "Avoid entering sensitive, confidential, regulated, or unnecessary information into an AI tool unless you have determined that the specific tool, account,...",
+      "canonical_url": "https://ninz.me/faq/ai-for-business/business-information-avoid-putting-into-ai-tool/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "AI for Business",
+        "What Business Information Should I Avoid Putting Into an AI Tool?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    },
+    {
+      "faq_id": "AI-058",
+      "question": "Does My Small Business Need an AI Use Policy?",
+      "slug": "does-small-business-need-ai-use-policy",
+      "category": "AI for Business",
+      "category_slug": "ai-for-business",
+      "subcategory": "Responsible AI Use",
+      "topic_tags": [
+        "AI use policy",
+        "AI governance",
+        "human review",
+        "small business policy",
+        "responsible AI"
+      ],
+      "content_status": "published",
+      "opening_context": "Not every small business is legally required to have a standalone AI use policy, but businesses using AI regularly may benefit from establishing clear internal rules for what AI can be used for, what information should not be entered, when human review is required, and who remains responsible for the final work.",
+      "short_answer": [
+        "Not every small business is legally required to have a standalone AI use policy, but businesses using AI regularly may benefit from establishing clear internal rules for ",
+        {
+          "emphasis": true,
+          "text": "what AI can be used for, what information should not be entered, when human review is required, and who remains responsible for the final work."
+        }
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "An AI use policy does not need to be complicated to be useful."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "As employees, contractors, and business owners gain access to generative AI tools, different people may make different assumptions about acceptable use."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "A basic policy can establish expectations around:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "approved or prohibited AI uses",
+            "sensitive and confidential information",
+            "customer and employee information",
+            "human review of AI-generated work",
+            "fact-checking and source verification",
+            "copyright and intellectual-property concerns",
+            "customer-facing AI",
+            "disclosure or transparency when appropriate",
+            "security",
+            "accountability for final decisions"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "The appropriate policy depends on how the business uses AI."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "A sole proprietor occasionally using AI to brainstorm social-media topics may need different controls than a company using AI to process customer information or support consequential business decisions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "A policy should also evolve. AI products, business practices, regulations, and risks can change."
+          ]
+        }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“An AI policy is only for large companies.”",
+          "explanation": "No. Smaller businesses can also benefit from simple rules that establish responsible use."
+        },
+        {
+          "title": "“Having a policy eliminates AI risk.”",
+          "explanation": "No. A policy establishes expectations, but those expectations still have to be followed and reviewed."
+        },
+        {
+          "title": "“My employees will automatically know what information shouldn't go into AI.”",
+          "explanation": "That should not be assumed. Clear expectations reduce ambiguity."
+        }
+      ],
+      "related_faq_ids": [
+        "AI-057",
+        "AI-060",
+        "AI-061",
+        "AI-059"
+      ],
+      "related_guide_ids": [
+        "resource-responsible-ai",
+        "resource-ai-research-verification"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "A useful AI policy answers four basic questions:\n\n",
+              {
+                "emphasis": true,
+                "text": "What can we use AI for? What information stays out? What requires human review? Who is responsible for the result?"
+              }
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "A useful AI policy answers four basic questions:\n\n",
+        {
+          "emphasis": true,
+          "text": "What can we use AI for? What information stays out? What requires human review? Who is responsible for the result?"
+        }
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-152-source-1",
+          "source_type": "federal risk-management framework",
+          "source_title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+          "source_publisher": "National Institute of Standards and Technology",
+          "source_url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Organizations can establish governance, oversight, risk-management responsibilities, and controls around AI use."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-152-source-2",
+          "source_type": "federal generative-AI guidance",
+          "source_title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+          "source_publisher": "National Institute of Standards and Technology",
+          "source_url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Generative AI creates specific risks involving information integrity, privacy, security, intellectual property, and human oversight that organizations can manage through governance practices."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "does my small business need an ai use policy?"
+      ],
+      "keywords": [
+        "AI use policy",
+        "AI governance",
+        "human review",
+        "small business policy",
+        "responsible AI"
+      ],
+      "meta_title": "Does My Small Business Need an AI Use Policy? | NINZ FAQ",
+      "meta_description": "Not every small business is legally required to have a standalone AI use policy, but businesses using AI regularly may benefit from establishing clear...",
+      "canonical_url": "https://ninz.me/faq/ai-for-business/does-small-business-need-ai-use-policy/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "AI for Business",
+        "Does My Small Business Need an AI Use Policy?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    },
+    {
+      "faq_id": "AI-059",
+      "question": "Can I Copyright Content I Create With AI?",
+      "slug": "copyright-content-created-with-ai",
+      "category": "AI for Business",
+      "category_slug": "ai-for-business",
+      "subcategory": "Responsible AI Use",
+      "topic_tags": [
+        "AI copyright",
+        "human authorship",
+        "AI-generated content",
+        "intellectual property",
+        "copyright registration"
+      ],
+      "content_status": "published",
+      "opening_context": "In the United States, copyright protection generally requires human authorship. Using AI does not automatically prevent copyright protection, but purely AI-generated material generally is not protected by copyright simply because a person entered a prompt. Human-created portions, selections, arrangements, or modifications may qualify depending on the circumstances.",
+      "short_answer": [
+        "In the United States, copyright protection generally requires ",
+        {
+          "emphasis": true,
+          "text": "human authorship"
+        },
+        ".\n\nUsing AI does not automatically prevent copyright protection, but purely AI-generated material generally is not protected by copyright simply because a person entered a prompt.\n\nHuman-created portions, selections, arrangements, or modifications may qualify depending on the circumstances."
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "The important question is not simply whether AI was used. It is ",
+            {
+              "emphasis": true,
+              "text": "what creative expression was actually contributed by a human author"
+            },
+            "."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "The U.S. Copyright Office has stated that copyright can protect human-authored expression contained within a work that also includes AI-generated material."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "For example, a person might:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "write original portions of a work",
+            "substantially modify AI-generated material",
+            "creatively select or arrange material",
+            "combine AI-assisted elements with substantial human-authored expression"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Whether those contributions qualify for protection depends on the specific work."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Simply providing prompts to a generative-AI system does not necessarily give the user sufficient control over the resulting expressive elements to establish authorship."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Businesses should also distinguish between two separate issues:"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "emphasis": true,
+              "text": "Can I obtain copyright protection for this work?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "and"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            {
+              "emphasis": true,
+              "text": "Do I have the right to use everything contained in this work?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Those are not necessarily the same question. AI-generated material can create additional intellectual-property considerations depending on the content and circumstances."
+          ]
+        }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“Anything I generate using my paid AI account automatically belongs to me under copyright law.”",
+          "explanation": "Not necessarily. Contractual usage rights and federal copyright protection are different issues."
+        },
+        {
+          "title": "“If AI helped at all, the entire work cannot be copyrighted.”",
+          "explanation": "Not necessarily. Human-authored portions of an AI-assisted work may qualify for protection."
+        },
+        {
+          "title": "“Writing a detailed prompt automatically makes me the copyright author of the output.”",
+          "explanation": "The Copyright Office does not treat prompting alone as automatically establishing human authorship of AI-generated expressive material."
+        }
+      ],
+      "related_faq_ids": [
+        "AI-058",
+        "AI-057"
+      ],
+      "related_guide_ids": [
+        "resource-responsible-ai",
+        "resource-ai-research-verification"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "Think of AI as a tool in the creative process, not automatic proof of authorship. Preserve your own drafts, edits, decisions, and original contributions when intellectual-property ownership matters."
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "Think of AI as a tool in the creative process, not automatic proof of authorship. Preserve your own drafts, edits, decisions, and original contributions when intellectual-property ownership matters."
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-153-source-1",
+          "source_type": "federal copyright guidance and reports",
+          "source_title": "Copyright and Artificial Intelligence",
+          "source_publisher": "U.S. Copyright Office",
+          "source_url": "https://www.copyright.gov/ai/",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "U.S. copyright protection requires human authorship and may protect qualifying human-authored elements incorporated into AI-assisted works."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-153-source-2",
+          "source_type": "federal registration guidance",
+          "source_title": "Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence",
+          "source_publisher": "U.S. Copyright Office",
+          "source_url": "https://www.copyright.gov/ai/ai_policy_guidance.pdf",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Applicants must distinguish copyrightable human-authored contributions from AI-generated material when applicable."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "can i copyright content i create with ai?"
+      ],
+      "keywords": [
+        "AI copyright",
+        "human authorship",
+        "AI-generated content",
+        "intellectual property",
+        "copyright registration"
+      ],
+      "meta_title": "Can I Copyright Content I Create With AI? | NINZ FAQ",
+      "meta_description": "In the United States, copyright protection generally requires human authorship. Using AI does not automatically prevent copyright protection, but purely...",
+      "canonical_url": "https://ninz.me/faq/ai-for-business/copyright-content-created-with-ai/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "AI for Business",
+        "Can I Copyright Content I Create With AI?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    },
+    {
+      "faq_id": "AI-060",
+      "question": "Can I Trust an AI Tool's Claims About What It Can Do for My Business?",
+      "slug": "trust-ai-tool-claims-business",
+      "category": "AI for Business",
+      "category_slug": "ai-for-business",
+      "subcategory": "Evaluating AI Tools",
+      "topic_tags": [
+        "AI claims",
+        "AI marketing",
+        "AI tool evaluation",
+        "consumer trust",
+        "AI limitations"
+      ],
+      "content_status": "published",
+      "opening_context": "Do not rely solely on an AI company's marketing claims, demonstrations, or AI-generated descriptions of its own capabilities. Evaluate the actual product, current documentation, limitations, privacy practices, pricing, and evidence supporting important claims before depending on the tool for your business.",
+      "short_answer": [
+        "Do not rely solely on an AI company's marketing claims, demonstrations, or AI-generated descriptions of its own capabilities.\n\nEvaluate the actual product, current documentation, limitations, privacy practices, pricing, and evidence supporting important claims before depending on the tool for your business."
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "AI products are developing quickly, and marketing language can sometimes make capabilities sound broader or more reliable than they are."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Before adopting an AI tool, consider questions such as:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "What does the tool actually do?",
+            [
+              "What does it ",
+              {
+                "emphasis": true,
+                "text": "not"
+              },
+              " do?"
+            ],
+            "Is human review required?",
+            "What data does it need?",
+            "How is submitted information handled?",
+            "Are important claims supported by evidence?",
+            "Does the advertised capability exist in my plan or account?",
+            "Is the feature generally available or experimental?",
+            "What happens when the system is wrong?",
+            "Can I test it safely before depending on it?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "The Federal Trade Commission has specifically warned companies against exaggerated or unsupported claims involving artificial intelligence."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Businesses should apply similar skepticism to claims made ",
+            {
+              "emphasis": true,
+              "text": "by an AI assistant itself"
+            },
+            ". AI-generated answers can be inaccurate even when presented confidently."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "For important decisions, verify capabilities through current official documentation and controlled testing."
+          ]
+        }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“If the company calls its product AI-powered, it must be more capable than a traditional tool.”",
+          "explanation": "No. The term itself does not establish quality or effectiveness."
+        },
+        {
+          "title": "“If the AI tells me it can perform a function, that confirms the function exists.”",
+          "explanation": "No. AI systems can incorrectly describe their own products or capabilities."
+        },
+        {
+          "title": "“A polished demonstration proves the tool will work for my business.”",
+          "explanation": "Not necessarily. Real-world performance depends on the task, data, configuration, limitations, and operating environment."
+        }
+      ],
+      "related_faq_ids": [
+        "AI-012",
+        "AI-058",
+        "AI-057",
+        "AI-040"
+      ],
+      "related_guide_ids": [
+        "resource-ai-research-verification",
+        "resource-ai-task-finder",
+        "resource-responsible-ai"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "Treat an AI product claim like any other business claim: ",
+              {
+                "emphasis": true,
+                "text": "verify what it does before building a process that depends on it."
+              }
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "Treat an AI product claim like any other business claim: ",
+        {
+          "emphasis": true,
+          "text": "verify what it does before building a process that depends on it."
+        }
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-154-source-1",
+          "source_type": "federal business guidance",
+          "source_title": "Keep your AI claims in check",
+          "source_publisher": "Federal Trade Commission",
+          "source_url": "https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Companies should not exaggerate AI capabilities or make unsupported claims about AI-powered products."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-154-source-2",
+          "source_type": "federal technology and consumer-protection guidance",
+          "source_title": "The Luring Test: AI and the engineering of consumer trust",
+          "source_publisher": "Federal Trade Commission",
+          "source_url": "https://www.ftc.gov/business-guidance/blog/2023/05/luring-test-ai-engineering-consumer-trust",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Businesses and consumers should consider how anthropomorphic or persuasive AI interactions can affect trust and reliance."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "can i trust an ai tool's claims about what it can do for my business?"
+      ],
+      "keywords": [
+        "AI claims",
+        "AI marketing",
+        "AI tool evaluation",
+        "consumer trust",
+        "AI limitations"
+      ],
+      "meta_title": "Can I Trust an AI Tool's Claims About What It Can Do for My Business? | NINZ FAQ",
+      "meta_description": "Do not rely solely on an AI company's marketing claims, demonstrations, or AI-generated descriptions of its own capabilities. Evaluate the actual product,...",
+      "canonical_url": "https://ninz.me/faq/ai-for-business/trust-ai-tool-claims-business/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "AI for Business",
+        "Can I Trust an AI Tool's Claims About What It Can Do for My Business?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    },
+    {
+      "faq_id": "AI-061",
+      "question": "What Cybersecurity Basics Should Every Small Business Have in Place?",
+      "slug": "cybersecurity-basics-every-small-business",
+      "category": "AI for Business",
+      "category_slug": "ai-for-business",
+      "subcategory": "Business Security",
+      "topic_tags": [
+        "small business cybersecurity",
+        "multifactor authentication",
+        "backups",
+        "passwords",
+        "data security"
+      ],
+      "content_status": "published",
+      "opening_context": "Every small business should establish basic protections around accounts, devices, software, data, backups, access, and employee behavior. Cybersecurity does not require a large IT department to begin. Consistent basic controls can significantly reduce avoidable risk.",
+      "short_answer": [
+        "Every small business should establish basic protections around ",
+        {
+          "emphasis": true,
+          "text": "accounts, devices, software, data, backups, access, and employee behavior"
+        },
+        ".\n\nCybersecurity does not require a large IT department to begin. Consistent basic controls can significantly reduce avoidable risk."
+      ],
+      "detailed_explanation": [
+        {
+          "type": "paragraph",
+          "parts": [
+            "Small businesses hold information and access that can be valuable to attackers, including email accounts, payment systems, customer information, business records, social accounts, and website credentials."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Foundational cybersecurity practices can include:"
+          ]
+        },
+        {
+          "type": "list",
+          "style": "unordered",
+          "items": [
+            "using strong, unique passwords",
+            "using a password manager where appropriate",
+            "enabling multifactor authentication",
+            "keeping operating systems, browsers, applications, and devices updated",
+            "controlling who has access to business systems",
+            "removing access when employees or contractors no longer need it",
+            "backing up important business information",
+            "protecting email accounts",
+            "recognizing phishing and social-engineering attempts",
+            "securing business Wi-Fi and devices",
+            "limiting collection and retention of unnecessary sensitive information",
+            "having a basic plan for responding to a security incident"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Businesses should also understand which outside providers have access to important information or systems."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "AI adds another consideration. Employees may unintentionally expose business or customer information by copying it into AI tools without considering confidentiality, privacy, or security."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "parts": [
+            "Cybersecurity should therefore be treated as an ongoing business practice rather than a one-time technology purchase."
+          ]
+        }
+      ],
+      "common_misconceptions": [
+        {
+          "title": "“My business is too small for cybercriminals to care about.”",
+          "explanation": "Small businesses can still be targeted through phishing, credential theft, ransomware, fraud, and other attacks."
+        },
+        {
+          "title": "“My software provider handles all of my cybersecurity.”",
+          "explanation": "Providers may secure their own systems, but businesses still have responsibilities involving passwords, access, devices, data handling, and employee behavior."
+        },
+        {
+          "title": "“A complicated password is enough.”",
+          "explanation": "Passwords are only one layer. Multifactor authentication, updates, backups, access controls, and employee awareness are also important."
+        }
+      ],
+      "related_faq_ids": [
+        "AI-057",
+        "AI-058"
+      ],
+      "related_guide_ids": [
+        "resource-responsible-ai"
+      ],
+      "related_resource_ids": [],
+      "continue_your_journey": {
+        "blocks": [
+          {
+            "type": "paragraph",
+            "parts": [
+              "Start with the basics and make them routine. ",
+              {
+                "emphasis": true,
+                "text": "Strong authentication, current software, controlled access, reliable backups, and careful handling of information"
+              },
+              " provide a practical cybersecurity foundation."
+            ]
+          }
+        ],
+        "id": "learning-center",
+        "button_text": "Explore the NINZ Learning Center"
+      },
+      "ninz_insight": [
+        "Start with the basics and make them routine. ",
+        {
+          "emphasis": true,
+          "text": "Strong authentication, current software, controlled access, reliable backups, and careful handling of information"
+        },
+        " provide a practical cybersecurity foundation."
+      ],
+      "source_required": true,
+      "sources": [
+        {
+          "source_id": "faq-155-source-1",
+          "source_type": "federal small-business guidance",
+          "source_title": "Cybersecurity for Small Business",
+          "source_publisher": "Federal Trade Commission",
+          "source_url": "https://www.ftc.gov/business-guidance/small-businesses/cybersecurity",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Small businesses should establish practical protections involving authentication, updates, data, devices, employee training, and incident preparedness."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-155-source-2",
+          "source_type": "federal cybersecurity guidance",
+          "source_title": "Cybersecurity Basics",
+          "source_publisher": "Cybersecurity and Infrastructure Security Agency",
+          "source_url": "https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/smb-resources",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Foundational cybersecurity practices include multifactor authentication, software updates, phishing awareness, strong passwords, and other basic safeguards."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        },
+        {
+          "source_id": "faq-155-source-3",
+          "source_type": "federal cybersecurity framework",
+          "source_title": "Cybersecurity Framework 2.0",
+          "source_publisher": "National Institute of Standards and Technology",
+          "source_url": "https://www.nist.gov/itl/smallbusinesscyber/nist-cybersecurity-framework-0",
+          "date_accessed": "2026-09-02",
+          "supported_claims": [
+            "Organizations of different sizes can manage cybersecurity risk through governance, identification, protection, detection, response, and recovery practices."
+          ],
+          "verification_status": "verified",
+          "verification_notes": "Approved authoritative source verified for the controlled September 2, 2026 FAQ release."
+        }
+      ],
+      "content_risk": [
+        "high-scrutiny",
+        "update-sensitive"
+      ],
+      "review_type": "source_review",
+      "update_sensitivity": "high",
+      "last_reviewed": "2026-09-02",
+      "next_review_due": "2026-12-02",
+      "review_frequency": "quarterly",
+      "search_aliases": [
+        "what cybersecurity basics should every small business have in place?"
+      ],
+      "keywords": [
+        "small business cybersecurity",
+        "multifactor authentication",
+        "backups",
+        "passwords",
+        "data security"
+      ],
+      "meta_title": "What Cybersecurity Basics Should Every Small Business Have in Place? | NINZ FAQ",
+      "meta_description": "Every small business should establish basic protections around accounts, devices, software, data, backups, access, and employee behavior. Cybersecurity does...",
+      "canonical_url": "https://ninz.me/faq/ai-for-business/cybersecurity-basics-every-small-business/",
+      "schema_type": [
+        "WebPage",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "breadcrumb_data": [
+        "Learning Center",
+        "AI for Business",
+        "What Cybersecurity Basics Should Every Small Business Have in Place?"
+      ],
+      "organization_reference": "https://ninz.me/#business",
+      "verification_status": "source_review_complete_editorially_approved_published",
+      "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
+    }
   ]
 };

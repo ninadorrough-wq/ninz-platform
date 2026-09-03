@@ -283,7 +283,7 @@
 
   const resolveUrl = (url) => {
     if (!url) return "";
-    if (url.startsWith("http") || url.startsWith("#")) return url;
+    if (url.startsWith("http") || url.startsWith("#") || url.startsWith("/")) return url;
     if (document.body.dataset.siteDepth === "3") return `../../../${url}`;
     return document.body.dataset.siteDepth === "2" ? `../../${url}` : `../${url}`;
   };
