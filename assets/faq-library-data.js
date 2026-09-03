@@ -28357,15 +28357,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“If AI sounds confident, the answer is probably correct.”",
+          "title": "If AI sounds confident, the answer is probably correct.",
           "explanation": "No. Confidence and accuracy are not the same thing."
         },
         {
-          "title": "“AI can submit my government paperwork correctly if I give it enough information.”",
+          "title": "AI can submit my government paperwork correctly if I give it enough information.",
           "explanation": "AI can assist with understanding and preparation, but the business remains responsible for the accuracy and appropriateness of its filings."
         },
         {
-          "title": "“I should upload the entire completed form so AI can check it.”",
+          "title": "I should upload the entire completed form so AI can check it.",
           "explanation": "That may expose sensitive information unnecessarily."
         }
       ],
@@ -28615,15 +28615,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“SEO is obsolete because people use AI now.”",
+          "title": "SEO is obsolete because people use AI now.",
           "explanation": "No. Search infrastructure and established web fundamentals remain important."
         },
         {
-          "title": "“AEO and GEO have universally agreed technical definitions.”",
+          "title": "AEO and GEO have universally agreed technical definitions.",
           "explanation": "No. They are widely used industry terms, but their definitions and boundaries continue to evolve."
         },
         {
-          "title": "“I need three completely separate marketing strategies.”",
+          "title": "I need three completely separate marketing strategies.",
           "explanation": "Not necessarily. Strong foundational information practices can support multiple discovery environments."
         }
       ],
@@ -28819,15 +28819,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“Adding FAQ schema will make ChatGPT cite my website.”",
+          "title": "Adding FAQ schema will make ChatGPT cite my website.",
           "explanation": "No. There is no such guarantee."
         },
         {
-          "title": "“Every business needs an llms.txt file now.”",
+          "title": "Every business needs an llms.txt file now.",
           "explanation": "No. It is not a universal requirement across AI systems."
         },
         {
-          "title": "“Structured data is useless now.”",
+          "title": "Structured data is useless now.",
           "explanation": "No. Appropriate structured data can still help supported systems understand page information, but it should be used for its intended purpose rather than as a guaranteed AI-ranking mechanism."
         }
       ],
@@ -29096,15 +29096,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“If AI mentions my business once, I have strong AI visibility.”",
+          "title": "If AI mentions my business once, I have strong AI visibility.",
           "explanation": "Not necessarily. One result is only one observation."
         },
         {
-          "title": "“If an AI crawler can access my website, my business will be recommended.”",
+          "title": "If an AI crawler can access my website, my business will be recommended.",
           "explanation": "No. Access does not guarantee retrieval, citation, recommendation, or conversion."
         },
         {
-          "title": "“There must be one score that tells me how visible I am everywhere.”",
+          "title": "There must be one score that tells me how visible I am everywhere.",
           "explanation": "No. AI systems use different data sources, retrieval methods, and reporting systems."
         }
       ],
@@ -29326,15 +29326,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“Every website needs exactly ten FAQs.”",
+          "title": "Every website needs exactly ten FAQs.",
           "explanation": "No. The appropriate number depends on the business and its customers."
         },
         {
-          "title": "“An FAQ page automatically improves Google rankings.”",
+          "title": "An FAQ page automatically improves Google rankings.",
           "explanation": "No. Useful content can support a broader information strategy, but rankings are not guaranteed."
         },
         {
-          "title": "“FAQ schema makes my questions appear prominently in Google or AI answers.”",
+          "title": "FAQ schema makes my questions appear prominently in Google or AI answers.",
           "explanation": "No. Structured data does not guarantee search features, rankings, or AI citations."
         }
       ],
@@ -29526,15 +29526,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“If I'm paying for the AI tool, everything I enter is automatically confidential.”",
+          "title": "If I'm paying for the AI tool, everything I enter is automatically confidential.",
           "explanation": "Not necessarily. Data practices depend on the specific service, product, settings, and applicable agreements."
         },
         {
-          "title": "“AI needs the complete document to help me.”",
+          "title": "AI needs the complete document to help me.",
           "explanation": "Often it does not. Sensitive information may be removable before the material is submitted."
         },
         {
-          "title": "“Business information isn't personal information, so there's no privacy concern.”",
+          "title": "Business information isn't personal information, so there's no privacy concern.",
           "explanation": "Business records can contain personal, confidential, financial, proprietary, or regulated information."
         }
       ],
@@ -29719,15 +29719,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“An AI policy is only for large companies.”",
+          "title": "An AI policy is only for large companies.",
           "explanation": "No. Smaller businesses can also benefit from simple rules that establish responsible use."
         },
         {
-          "title": "“Having a policy eliminates AI risk.”",
+          "title": "Having a policy eliminates AI risk.",
           "explanation": "No. A policy establishes expectations, but those expectations still have to be followed and reviewed."
         },
         {
-          "title": "“My employees will automatically know what information shouldn't go into AI.”",
+          "title": "My employees will automatically know what information shouldn't go into AI.",
           "explanation": "That should not be assumed. Clear expectations reduce ambiguity."
         }
       ],
@@ -29939,15 +29939,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“Anything I generate using my paid AI account automatically belongs to me under copyright law.”",
+          "title": "Anything I generate using my paid AI account automatically belongs to me under copyright law.",
           "explanation": "Not necessarily. Contractual usage rights and federal copyright protection are different issues."
         },
         {
-          "title": "“If AI helped at all, the entire work cannot be copyrighted.”",
+          "title": "If AI helped at all, the entire work cannot be copyrighted.",
           "explanation": "Not necessarily. Human-authored portions of an AI-assisted work may qualify for protection."
         },
         {
-          "title": "“Writing a detailed prompt automatically makes me the copyright author of the output.”",
+          "title": "Writing a detailed prompt automatically makes me the copyright author of the output.",
           "explanation": "The Copyright Office does not treat prompting alone as automatically establishing human authorship of AI-generated expressive material."
         }
       ],
@@ -30121,15 +30121,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“If the company calls its product AI-powered, it must be more capable than a traditional tool.”",
+          "title": "If the company calls its product AI-powered, it must be more capable than a traditional tool.",
           "explanation": "No. The term itself does not establish quality or effectiveness."
         },
         {
-          "title": "“If the AI tells me it can perform a function, that confirms the function exists.”",
+          "title": "If the AI tells me it can perform a function, that confirms the function exists.",
           "explanation": "No. AI systems can incorrectly describe their own products or capabilities."
         },
         {
-          "title": "“A polished demonstration proves the tool will work for my business.”",
+          "title": "A polished demonstration proves the tool will work for my business.",
           "explanation": "Not necessarily. Real-world performance depends on the task, data, configuration, limitations, and operating environment."
         }
       ],
@@ -30309,15 +30309,15 @@ window.NINZ_FAQ_LIBRARY = {
       ],
       "common_misconceptions": [
         {
-          "title": "“My business is too small for cybercriminals to care about.”",
+          "title": "My business is too small for cybercriminals to care about.",
           "explanation": "Small businesses can still be targeted through phishing, credential theft, ransomware, fraud, and other attacks."
         },
         {
-          "title": "“My software provider handles all of my cybersecurity.”",
+          "title": "My software provider handles all of my cybersecurity.",
           "explanation": "Providers may secure their own systems, but businesses still have responsibilities involving passwords, access, devices, data handling, and employee behavior."
         },
         {
-          "title": "“A complicated password is enough.”",
+          "title": "A complicated password is enough.",
           "explanation": "Passwords are only one layer. Multifactor authentication, updates, backups, access controls, and employee awareness are also important."
         }
       ],
