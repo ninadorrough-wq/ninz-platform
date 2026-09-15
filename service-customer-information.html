@@ -28,7 +28,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles.css?v=20260828a">
+  <link rel="stylesheet" href="assets/styles.css?v=20260914a">
   <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "WebPage",
@@ -36,7 +36,7 @@
   "url": "https://ninz.me/service-customer-information.html",
   "description": "Provide basic customer and business information before continuing to secure payment for an available NINZ service.",
   "publisher": {
-    "@id": "https://ninz.me/#business"
+    "@id": "https://ninz.me/#organization"
   }
 }</script>
 </head>
@@ -67,7 +67,7 @@
         <label>Email *<input type="email" name="Email" autocomplete="email" required></label>
         <label>Phone *<input type="tel" name="Phone" autocomplete="tel" required></label>
         <label>Business Name *<input type="text" name="Business Name" autocomplete="organization" required></label>
-        <label>Website URL *<input type="url" name="Website URL" autocomplete="url" placeholder="https://example.com" required></label>
+        <label>Website URL *<input type="text" name="Website URL" autocomplete="url" inputmode="url" autocapitalize="none" spellcheck="false" placeholder="example.com or https://example.com" aria-describedby="website-url-help" required><span id="website-url-help" class="field-help">Enter a domain such as example.com or a complete website URL.</span></label>
         <label>Service *<select name="Service" required data-service-select><option value="">Select an available service</option><option value="AI Visibility Assessment">AI Visibility Assessment</option><option value="NINZ Visibility Monitor™">NINZ Visibility Monitor™</option></select></label>
         <p class="transaction-summary" data-service-summary>Choose one of the two available services.</p>
         <label class="checkbox-row"><input type="checkbox" name="Agreement" value="Accepted" required><span>I acknowledge that I have reviewed the <a href="/privacy-policy.html">Privacy Policy</a> and <a href="/terms-of-use.html">Terms of Use</a>.</span></label>
@@ -89,7 +89,7 @@
     </div>
     <div class="footer-groups">
       <nav class="footer-group" aria-label="Learn"><h2>Learn</h2><a href="/faq/">FAQ Library</a><a href="/resources/">Free Resources</a><a href="/learning-center.html">Learning Center</a><a href="https://ninzlearningcenter.blogspot.com/" target="_blank" rel="noopener noreferrer">NINZ Blog</a></nav>
-      <nav class="footer-group" aria-label="Services"><h2>Services</h2><a href="/solutions.html">NINZ Solutions</a><a href="/website-design.html">Landing Pages</a><a href="/chatbots.html">Chatbots</a><a href="/website-chatbot.html">Landing Page + Chatbot</a><a href="/virtual-concierge.html">Virtual Concierge</a><a href="/faq-services.html">FAQ Services</a><a href="/service-customer-information.html?service=ninz-visibility-monitor">NINZ Visibility Monitor™</a></nav>
+      <nav class="footer-group" aria-label="Services"><h2>Services</h2><a href="/solutions.html">NINZ Solutions</a><a href="/service-customer-information.html?service=ai-visibility-assessment">AI Visibility Assessment</a><a href="/service-customer-information.html?service=ninz-visibility-monitor">NINZ Visibility Monitor™</a><a href="/solutions.html#coming-soon">Coming Soon Services</a></nav>
       <nav class="footer-group" aria-label="Company"><h2>Company</h2><a href="/about.html">About NINZ</a><a href="/contact.html">Contact</a></nav>
       <nav class="footer-group" aria-label="Legal"><h2>Legal</h2><a href="/terms-of-use.html">Terms of Use</a><a href="/privacy-policy.html">Privacy Policy</a><a href="/artificial-intelligence-use-transparency-policy.html">AI Use &amp; Transparency Policy</a><a href="/refund-policy.html">Refund Policy</a><a href="/confidentiality-policy.html">Confidentiality Policy</a><a href="/sms-terms-and-conditions.html">SMS Terms</a><a href="/messaging-privacy-policy.html">Messaging Privacy Policy</a><a href="/accessibility-statement.html">Accessibility Statement</a></nav>
       <p class="footer-legal">Information on this website is for general business purposes and does not constitute legal, financial, or professional advice.</p>
@@ -100,6 +100,6 @@
   <script src="https://widgets.leadconnectorhq.com/loader.js"
 data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"
 data-widget-id="6995291f24779d1b0d1168ed"></script>
-  <script src="assets/service-customer-information.js?v=20260902a"></script>
+  <script src="assets/service-customer-information.js?v=20260914a"></script>
 </body>
 </html>

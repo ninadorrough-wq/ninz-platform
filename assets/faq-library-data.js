@@ -3,7 +3,7 @@ window.NINZ_FAQ_LIBRARY = {
   organization: {
     name: "NINZ",
     url: "https://ninz.me",
-    id: "https://ninz.me/#business"
+    id: "https://ninz.me/#organization"
   },
   categories: [
     { name: "AI Basics", slug: "ai-basics", description: "Plain-language answers that help small business owners understand artificial intelligence.", publicly_visible: true },
@@ -338,7 +338,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Is Artificial Intelligence (AI)?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -518,7 +518,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Is Generative AI?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -761,7 +761,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "How Does AI Work?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -993,7 +993,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Is AI Replacing People?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -1273,7 +1273,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Why Is AI Becoming So Popular?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -1593,7 +1593,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Is AI Safe to Use for Business?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -1937,7 +1937,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Are the Benefits of AI for Small Businesses?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -2307,7 +2307,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Are the Limitations of AI?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -2662,7 +2662,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Is an AI Prompt?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -3120,7 +3120,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "How Can I Get Better Results From AI?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Approved NINZ copy loaded and supporting official sources reviewed on 2026-08-08. NINZ educational interpretation and examples remain original educational guidance."
         },
@@ -3325,7 +3325,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Is an AI Hallucination?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -3510,7 +3510,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "How Do I Know if an AI Answer Is Accurate?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -3695,7 +3695,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Should I Fact-Check Information From AI?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -3931,7 +3931,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Information Should I Never Give AI?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -4091,7 +4091,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Is Prompt Engineering?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -4251,7 +4251,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Can AI Help Me Write Better Prompts?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -4459,7 +4459,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Does AI Remember What I Tell It?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -4641,7 +4641,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Does AI Know Who I Am?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -4850,7 +4850,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Does AI Learn From My Conversations?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -5080,7 +5080,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Can AI Access the Internet?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -5279,7 +5279,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Where Does AI Get Its Information?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -5451,7 +5451,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Is an AI Model?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -5622,7 +5622,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What Is a Large Language Model (LLM)?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -5819,7 +5819,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "What\u2019s the Difference Between AI, Generative AI, and an AI Assistant?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -5990,7 +5990,7 @@ window.NINZ_FAQ_LIBRARY = {
                     "AI Basics",
                     "Do I Need Technical Skills to Use AI?"
               ],
-              "organization_reference": "https://ninz.me/#business",
+              "organization_reference": "https://ninz.me/#organization",
               "verification_status": "verified",
               "verification_notes": "Representative review approved; final QC completed and sources reviewed on 2026-08-08."
         },
@@ -6180,7 +6180,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What Is an AI Assistant?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -6385,7 +6385,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What Is ChatGPT?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -6564,7 +6564,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What Is Google Gemini?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -6758,7 +6758,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What Is Claude?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -6951,7 +6951,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What Is Perplexity?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -7142,7 +7142,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What Is Microsoft Copilot?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -7306,7 +7306,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What Is Grok?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -7485,7 +7485,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What Is DeepSeek?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -7677,7 +7677,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What Is Meta AI?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -7882,7 +7882,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "Which AI Assistant Is Best for Beginners?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -8097,7 +8097,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "Which AI Assistant Is Best for Small Business?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -8306,7 +8306,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "What’s the Difference Between ChatGPT, Gemini, Claude, and Perplexity?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -8506,7 +8506,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "Do I Need to Pay for an AI Assistant?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -8705,7 +8705,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "Can I Use More Than One AI Assistant?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -8936,7 +8936,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI Tools & Assistants",
                             "How Do I Choose the Right AI Assistant for a Task?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 3."
         },
@@ -9124,7 +9124,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "How Can Small Businesses Use AI?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -9314,7 +9314,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "What Business Tasks Can AI Help With?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -9488,7 +9488,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "Can AI Save My Business Time?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -9680,7 +9680,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "Can AI Help Me Write Business Emails?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -9855,7 +9855,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "Can AI Help Me Brainstorm Business Ideas?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -10066,7 +10066,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "Can AI Help Me Research for My Business?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -10268,7 +10268,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "Can AI Help With Customer Service?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -10457,7 +10457,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "Can AI Help With Marketing?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -10632,7 +10632,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "Can AI Help Me Organize My Business?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -10856,7 +10856,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "Can AI Help Me Create a Business Plan?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -11057,7 +11057,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "Can AI Summarize Meetings and Documents?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -11228,7 +11228,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "What’s the Difference Between Using AI and Automating a Business Process?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -11401,7 +11401,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "What Is an AI Workflow?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -11604,7 +11604,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "When Should I NOT Use AI in My Business?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -11785,7 +11785,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "AI for Business",
                             "What Is the First Business Task I Should Try With AI?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Wave 1 Batch 4."
         },
@@ -11973,7 +11973,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "What Do I Need Before Starting a Business?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -12175,7 +12175,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "What’s the Difference Between a Sole Proprietorship and an LLC?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -12368,7 +12368,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "What Is an LLC?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -12553,7 +12553,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "Do I Need to Register My Business?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -12738,7 +12738,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "What Is a DBA or Trade Name?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -12939,7 +12939,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "What Is an EIN and Why Does a Business Need One?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -13139,7 +13139,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "What Is a Registered Agent?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -13324,7 +13324,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "Do I Need a Business Address?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -13523,7 +13523,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "Can I Use My Home Address for My Business?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -13684,7 +13684,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "Do I Need a Business Phone Number?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -13844,7 +13844,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "Do I Need a Business Email Address?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -14038,7 +14038,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "Do I Need a Business Bank Account?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -14223,7 +14223,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "What Business Licenses or Permits Might I Need?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -14401,7 +14401,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "What Ongoing Compliance Does a Business Need to Maintain?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -14617,7 +14617,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Registration & Compliance",
                             "What Should I Do After Registering My Business?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "verified",
                   "verification_notes": "Representative review passed and final QC completed on 2026-08-08. Published for NINZ Business Education Batch 1."
         },
@@ -14813,7 +14813,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "What Is Business Credit?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -15029,7 +15029,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "What’s the Difference Between Personal Credit and Business Credit?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -15216,7 +15216,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "Does Personal Credit Affect Business Funding?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -15416,7 +15416,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "Can a Business Have Credit Separate From the Owner?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -15629,7 +15629,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "How Does a Business Begin Establishing Business Credit?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -15832,7 +15832,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "What Do Lenders Look at When Evaluating a Business?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -16009,7 +16009,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "What Does It Mean for a Business to Be Funding Ready?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -16206,7 +16206,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "Do I Need Good Personal Credit to Get Business Funding?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -16381,7 +16381,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "What Is a Personal Guarantee?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -16553,7 +16553,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "What’s the Difference Between a Business Loan and a Business Line of Credit?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -16763,7 +16763,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "What’s the Difference Between a Bank and a Credit Union for Business Banking and Funding?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -16947,7 +16947,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "Does Having a Business Bank Account Help With Funding Readiness?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -17138,7 +17138,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "What Business Documents Might a Lender Ask For?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -17336,7 +17336,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "Can a New Business Get Funding?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -17552,7 +17552,7 @@ window.NINZ_FAQ_LIBRARY = {
                             "Business Credit & Funding",
                             "What Should I Work on Before Applying for Business Funding?"
                   ],
-                  "organization_reference": "https://ninz.me/#business",
+                  "organization_reference": "https://ninz.me/#organization",
                   "verification_status": "editorial_review_complete_launch_approved",
                   "verification_notes": "Editorial review completed 2026-08-20. Educational framing, source support, non-guarantee language, professional-advice distinctions, source freshness, and internal consistency passed. No substantive wording change required."
         },
@@ -17726,7 +17726,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "What Is a Business Grant?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -17932,7 +17932,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "Are There Government Grants to Start a Small Business?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -18125,7 +18125,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "Where Can Small Businesses Look for Legitimate Grants?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -18320,7 +18320,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "What Is Grants.gov?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -18499,7 +18499,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "Does the SBA Give Grants to Small Businesses?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -18690,7 +18690,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "What Is the Difference Between a Business Grant and a Business Loan?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -18876,7 +18876,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "Do Business Grants Have to Be Repaid?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -19083,7 +19083,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "Who Qualifies for Small Business Grants?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -19288,7 +19288,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "What Information Might I Need Before Applying for a Business Grant?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -19489,7 +19489,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "How Can I Tell if a Business Grant Is Legitimate?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -19692,7 +19692,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "Should I Pay Someone to Find Business Grants for Me?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -19884,7 +19884,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "What Are Private or Corporate Small Business Grants?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -20065,7 +20065,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "What Are SBIR and STTR Programs?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -20262,7 +20262,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "Can a New Business Get a Grant?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -20498,7 +20498,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Grants & Funding Opportunities",
             "What Should I Do Before Applying for a Business Grant?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education grant batch researched and source-mapped on 2026-08-08. Representative review approved by Nina and final QC passed before publication on 2026-08-08."
         },
@@ -20655,7 +20655,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "Why Does a Small Business Need an Online Presence?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -20822,7 +20822,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "What Is a Google Business Profile?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -20980,7 +20980,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "Does My Business Need a Google Business Profile?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -21121,7 +21121,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "What Is Bing Places for Business?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -21280,7 +21280,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "Should My Business Be Listed on More Than One Search Engine or Directory?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -21462,7 +21462,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "Why Should My Business Information Be Consistent Across the Internet?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -21644,7 +21644,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "What Business Information Should I Keep Consistent Online?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -21812,7 +21812,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "What Is Google Search Console?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -21970,7 +21970,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "Does My Small Business Need Google Search Console?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -22126,7 +22126,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "What Are Bing Webmaster Tools?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -22293,7 +22293,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "What Is Google Analytics?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -22475,7 +22475,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "What Is Microsoft Clarity?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -22681,7 +22681,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "What’s the Difference Between Google Analytics, Google Search Console, and Microsoft Clarity?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -22863,7 +22863,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "How Do Search Engines Find and Understand My Business?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -23074,7 +23074,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "Can My Online Presence Affect Whether AI Systems Find or Mention My Business?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Business Education online-presence batch researched and source-mapped on 2026-08-08. Representative review and the two requested refinements were approved by Nina; current-source recheck and final QC passed before publication on 2026-08-08."
         },
@@ -23302,7 +23302,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "How Do I Choose Which Online Profiles and Platforms My Business Should Maintain?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -23471,7 +23471,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "What Is SCORE, and Is Small-Business Mentoring Really Free?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -23640,7 +23640,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Does My Small Business Need a Yelp Business Page?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -23808,7 +23808,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Does My Small Business Need a LinkedIn Page?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -23978,7 +23978,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "What Is the Difference Between a Free BBB Business Listing and BBB Accreditation?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -24134,7 +24134,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Is Alignable Worth Maintaining for My Small Business?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -24303,7 +24303,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Does My Local Business Need a Nextdoor Business Page?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -24459,7 +24459,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Is Joining a Local Chamber of Commerce Worth It?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -24629,7 +24629,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Does My Business Need a Crunchbase Profile?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -24811,7 +24811,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Should My Business Use a Facebook Page, an Instagram Professional Account, or Both?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -24967,7 +24967,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Does My Small Business Need a YouTube Channel?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -25121,7 +25121,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Is Pinterest Worth Maintaining for My Business?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -25294,7 +25294,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "Should My Business Maintain a Professional Account on X?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -25473,7 +25473,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "How Should a Small Business Request and Respond to Google Reviews?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -25668,7 +25668,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "How Do Yelp Reviews and Facebook Recommendations Differ?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "PRC batch researched and source-mapped on 2026-08-08. Representative review, targeted refinements, baseline refresh, and guarded pre-publication QC were approved before local publication integration."
         },
@@ -25829,7 +25829,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "What’s the Difference Between Forming a Business, Getting an EIN, Registering for State Taxes, and Getting Business Licenses?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -25968,7 +25968,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "Where Do I Register My Business: the Secretary of State, Department of Revenue, County, or City?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -26111,7 +26111,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "Should I Register My LLC or Corporation Before Applying for an EIN?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -26283,7 +26283,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "What Is State Tax Registration, and When Might My Business Need a Sales-Tax or Employer Account?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -26431,7 +26431,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "When Does a Business Need Foreign Qualification in Another State?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -26600,7 +26600,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "Is an S Corporation a Business Structure, a Tax Election, or Both?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -26779,7 +26779,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "How Do I Check Whether a Business Name Is Available, and How Are Entity Names, DBAs, Trademarks, and Domains Different?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -26962,7 +26962,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "Do I Need a New EIN if My Business Name, Address, Ownership, or Structure Changes?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -27165,7 +27165,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "Which Business Changes Must I Report After Registration, and Which Agencies Do I Notify?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -27342,7 +27342,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Registration & Compliance",
             "Does My U.S.-Formed Business Have to File Beneficial Ownership Information With FinCEN?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -27547,7 +27547,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "How Do I Add, Claim, and Verify My Google Business Profile?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -27719,7 +27719,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "How Should a Home-Based or Service-Area Business Set Up a Google Business Profile Without Showing Its Home Address?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -27900,7 +27900,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "What Can I Do About a Fake, Abusive, or Policy-Violating Google Review?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -28084,7 +28084,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Business Profiles, Reviews & Credibility",
             "How Do Customer Reviews Affect Local Visibility and Business Credibility?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -28278,7 +28278,7 @@ window.NINZ_FAQ_LIBRARY = {
             "Online Presence & Business Visibility",
             "Does My Small Business Still Need a Website if I Have a Google Business Profile and Social Media Pages?"
           ],
-          "organization_reference": "https://ninz.me/#business",
+          "organization_reference": "https://ninz.me/#organization",
           "verification_status": "source_review_complete_editorially_approved_published",
           "verification_notes": "Approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-01."
         },
@@ -28491,7 +28491,7 @@ window.NINZ_FAQ_LIBRARY = {
         "AI for Business",
         "Can AI Safely Help Me Complete Business-Registration, License, or Tax Forms?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     },
@@ -28736,7 +28736,7 @@ window.NINZ_FAQ_LIBRARY = {
         "Online Presence & Business Visibility",
         "What Do SEO, AEO, and GEO Mean, and How Are They Different for a Small Business?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     },
@@ -28938,7 +28938,7 @@ window.NINZ_FAQ_LIBRARY = {
         "Online Presence & Business Visibility",
         "Do I Need Special AI Markup, FAQ Schema, or an llms.txt File to Appear in AI Answers?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     },
@@ -29227,7 +29227,7 @@ window.NINZ_FAQ_LIBRARY = {
         "Online Presence & Business Visibility",
         "How Can a Small Business Measure Whether It Is Being Found or Cited in AI Search?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     },
@@ -29447,7 +29447,7 @@ window.NINZ_FAQ_LIBRARY = {
         "Online Presence & Business Visibility",
         "Does My Small Business Website Need an FAQ Page?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     },
@@ -29636,7 +29636,7 @@ window.NINZ_FAQ_LIBRARY = {
         "AI for Business",
         "What Business Information Should I Avoid Putting Into an AI Tool?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     },
@@ -29826,7 +29826,7 @@ window.NINZ_FAQ_LIBRARY = {
         "AI for Business",
         "Does My Small Business Need an AI Use Policy?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     },
@@ -30036,7 +30036,7 @@ window.NINZ_FAQ_LIBRARY = {
         "AI for Business",
         "Can I Copyright Content I Create With AI?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     },
@@ -30229,7 +30229,7 @@ window.NINZ_FAQ_LIBRARY = {
         "AI for Business",
         "Can I Trust an AI Tool's Claims About What It Can Do for My Business?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     },
@@ -30428,7 +30428,7 @@ window.NINZ_FAQ_LIBRARY = {
         "AI for Business",
         "What Cybersecurity Basics Should Every Small Business Have in Place?"
       ],
-      "organization_reference": "https://ninz.me/#business",
+      "organization_reference": "https://ninz.me/#organization",
       "verification_status": "source_review_complete_editorially_approved_published",
       "verification_notes": "Exact approved NINZ editorial copy mapped to the locked FAQ template and authoritative sources verified on 2026-09-02."
     }
