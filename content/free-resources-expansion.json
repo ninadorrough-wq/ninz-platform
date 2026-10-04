@@ -1,0 +1,910 @@
+{
+  "resources": [
+    {
+      "resource_id": "RES-013",
+      "title": "AI/AEO/GEO Visibility Checklist",
+      "slug": "ai-aeo-geo-visibility-checklist",
+      "filename_stem": "NINZ_AI_AEO_GEO_Visibility_Checklist",
+      "description": "Keep business information, useful answers, profiles, and website basics current with a practical self-help checklist.",
+      "how_to_use": "Work through one area at a time. Check only actions you have completed; leave irrelevant items blank. Choose one useful improvement, assign it, and set a review date. No ratings or scores are used.",
+      "disclaimer": "General business education only. This self-help checklist is not an individualized assessment or score. It does not guarantee rankings, AI citations, AI recommendations, traffic, leads, sales, or revenue. Platform requirements and features may change.",
+      "pages": [
+        {
+          "title": "Business clarity and public information",
+          "intro": "Help customers understand who you are and what you do before adding more content.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "AEO means answer engine optimization; GEO means generative engine optimization. These terms describe approaches to making useful information understandable in answer-based and AI-assisted discovery. They do not describe a guaranteed way to be recommended. This tool uses ordinary website and information upkeep."
+            },
+            {
+              "type": "field",
+              "label": "Business or brand shorthand / review date",
+              "height": 30
+            },
+            {
+              "type": "checks",
+              "title": "1. Business/entity clarity",
+              "items": [
+                "Describe what the business offers and who it serves in one plain-language sentence.",
+                "Explain the relationship between the public brand and legal business name where customers need that context.",
+                "State how customers can work with you: online, at a location, or in a service area, as applicable."
+              ]
+            },
+            {
+              "type": "checks",
+              "title": "2. Consistent public information",
+              "items": [
+                "Use your Business Information Master Sheet as the reference for current public facts; avoid creating a second master record here.",
+                "Update changed phone, website, hours, and service-area details on the public channels you actually use.",
+                "Remove or request corrections to outdated business descriptions and broken customer links."
+              ]
+            },
+            {
+              "type": "field",
+              "label": "One clarity or information update to make",
+              "height": 62
+            }
+          ]
+        },
+        {
+          "title": "Useful website content and answers",
+          "intro": "Use real customer questions to improve the pages customers already need.",
+          "blocks": [
+            {
+              "type": "checks",
+              "title": "3. Useful website content",
+              "items": [
+                "Describe current products or services with practical details, limitations, and an appropriate next step.",
+                "Keep important information as readable text, with headings and meaningful links; do not rely only on graphics.",
+                "Test key pages and contact links on a phone, including text size, link labels, and ease of navigation."
+              ]
+            },
+            {
+              "type": "checks",
+              "title": "4. Customer questions / FAQs",
+              "items": [
+                "List questions customers actually ask about fit, process, timing, pricing approach, or policies.",
+                "Answer each question directly and accurately on the relevant page or FAQ; link to details when useful.",
+                "Review old answers when the offer changes, and combine repeated answers rather than adding duplicate pages."
+              ]
+            },
+            {
+              "type": "field",
+              "label": "Customer question to answer / existing page to improve",
+              "height": 84
+            },
+            {
+              "type": "field",
+              "label": "Draft a short answer using facts you can stand behind",
+              "height": 100
+            }
+          ]
+        },
+        {
+          "title": "Profiles and credibility",
+          "intro": "Maintain the profiles appropriate for your business and use accurate trust signals.",
+          "blocks": [
+            {
+              "type": "checks",
+              "title": "5. Profile completeness",
+              "items": [
+                "Review current descriptions, categories, images, and contact links on your active public profiles.",
+                "Check eligibility and platform rules before creating or changing a profile; use the Google Business Profile Checklist for its detailed requirements.",
+                "Assign someone to monitor profile changes and customer messages instead of leaving profiles unattended."
+              ]
+            },
+            {
+              "type": "checks",
+              "title": "6. Credibility and trust",
+              "items": [
+                "Explain who is responsible for the business and provide a working way to contact it.",
+                "Use genuine experience, qualifications, policies, and customer examples with permission and accurate context.",
+                "Use the Reviews & Credibility Checklist for detailed review practices; remove unsupported claims from public content."
+              ]
+            },
+            {
+              "type": "field",
+              "label": "Profile or trust update / person responsible / target date",
+              "height": 92
+            }
+          ]
+        },
+        {
+          "title": "Structured basics and maintenance",
+          "intro": "Keep technical questions practical; ask your website provider when a task is outside your expertise.",
+          "blocks": [
+            {
+              "type": "checks",
+              "title": "7. Basic structured visibility concepts",
+              "items": [
+                "Ask your website provider whether important public pages can be discovered through internal links and are intentionally available to search engines.",
+                "If structured data is used, confirm it describes visible, accurate page content; ask the provider to check relevant validation results.",
+                "Read current official guidance before purchasing AI markup tools. Google does not require special AI files or special schema for its AI search features."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Structured data is a standardized way to label information on a page for machines. It supplements useful visible content. It does not establish credibility by itself or promise placement. Other platforms may have different guidance."
+            },
+            {
+              "type": "checks",
+              "title": "8. Ongoing maintenance",
+              "items": [
+                "Choose a routine review interval and review sooner after a change in offers, contact details, hours, or policies.",
+                "Check important links, profile details, and frequently used answers; correct facts before adding new material.",
+                "Record completed changes and unresolved questions so the next review starts from current information."
+              ]
+            },
+            {
+              "type": "field",
+              "label": "Website-provider question / next routine review date",
+              "height": 62
+            }
+          ]
+        },
+        {
+          "title": "Put one improvement into motion",
+          "intro": "Use an ordinary action list. This checklist does not measure visibility or reproduce a paid assessment.",
+          "blocks": [
+            {
+              "type": "rows",
+              "title": "Your next useful changes",
+              "columns": [
+                "Action / page or profile",
+                "Owner",
+                "Target date"
+              ],
+              "count": 3,
+              "height": 60
+            },
+            {
+              "type": "field",
+              "label": "What changed after the work was completed?",
+              "height": 70
+            },
+            {
+              "type": "field",
+              "label": "What still needs an answer, and who can help?",
+              "height": 70
+            },
+            {
+              "type": "field",
+              "label": "Next review date / trigger for an earlier review",
+              "height": 38
+            },
+            {
+              "type": "paragraph",
+              "text": "For individualized help, read the NINZ AI Visibility Assessment solution description. The paid service is separate from this general educational checklist."
+            }
+          ]
+        }
+      ],
+      "related_faq_ids": [
+        "VIS-019",
+        "VIS-020",
+        "VIS-022",
+        "VIS-006"
+      ],
+      "related_resource_ids": [
+        "RES-002",
+        "RES-011",
+        "RES-012"
+      ],
+      "sources": [
+        {
+          "title": "Google Search Central: AI features and your website",
+          "url": "https://developers.google.com/search/docs/appearance/ai-features"
+        },
+        {
+          "title": "Google Search Central: introduction to structured data",
+          "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data"
+        }
+      ],
+      "version": "1.0",
+      "reviewed": "2026-10-04",
+      "publication_status": "review_candidate"
+    },
+    {
+      "resource_id": "RES-014",
+      "title": "NINZ Business Goals & Action Planner",
+      "slug": "business-goals-action-planner",
+      "filename_stem": "NINZ_Business_Goals_Action_Planner",
+      "description": "Turn one to three business goals into measurable outcomes, milestones, assigned actions, and monthly decisions.",
+      "how_to_use": "Choose up to three goals. Complete one detail page per active goal, transfer due dates to the Business Calendar, and repeat the monthly review page. Skip unused goal pages.",
+      "disclaimer": "General business education only. Adapt this tool to your business and verify important information before acting.",
+      "pages": [
+        {
+          "title": "Choose one to three goals",
+          "intro": "Choose outcomes you can describe and check. Use only the goal pages you need.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Example: reduce late customer follow-ups from about 6 per week to 1 or fewer by the end of the next quarter. A useful goal includes a starting point, an outcome, a date, and a simple way to check progress."
+            },
+            {
+              "type": "field",
+              "label": "Planning period / business or team shorthand",
+              "height": 32
+            },
+            {
+              "type": "rows",
+              "title": "Your focus for this period",
+              "columns": [
+                "Goal",
+                "Why it matters / desired outcome",
+                "Target date"
+              ],
+              "count": 3,
+              "height": 65
+            },
+            {
+              "type": "field",
+              "label": "Capacity available / competing work to reduce or postpone",
+              "height": 60
+            },
+            {
+              "type": "field",
+              "label": "First goal to work on and why",
+              "height": 66
+            }
+          ]
+        },
+        {
+          "title": "Goal 1: outcome to action",
+          "intro": "Write the outcome first. Milestones mark progress; actions describe the work someone will do.",
+          "blocks": [
+            {
+              "type": "field",
+              "label": "Goal / desired outcome",
+              "height": 48
+            },
+            {
+              "type": "field",
+              "label": "Success measure: starting point, target, and where you will check it",
+              "height": 45
+            },
+            {
+              "type": "field",
+              "label": "Goal owner / target completion date",
+              "height": 30
+            },
+            {
+              "type": "rows",
+              "title": "Milestones and next actions",
+              "columns": [
+                "Milestone / next action",
+                "Owner",
+                "Due date"
+              ],
+              "count": 3,
+              "height": 48
+            },
+            {
+              "type": "field",
+              "label": "Dependencies, likely obstacles, and how you will handle them",
+              "height": 47
+            },
+            {
+              "type": "field",
+              "label": "Next action this week / scheduled review date",
+              "height": 40
+            }
+          ]
+        },
+        {
+          "title": "Goal 2: outcome to action",
+          "intro": "Write the outcome first. Milestones mark progress; actions describe the work someone will do.",
+          "blocks": [
+            {
+              "type": "field",
+              "label": "Goal / desired outcome",
+              "height": 48
+            },
+            {
+              "type": "field",
+              "label": "Success measure: starting point, target, and where you will check it",
+              "height": 45
+            },
+            {
+              "type": "field",
+              "label": "Goal owner / target completion date",
+              "height": 30
+            },
+            {
+              "type": "rows",
+              "title": "Milestones and next actions",
+              "columns": [
+                "Milestone / next action",
+                "Owner",
+                "Due date"
+              ],
+              "count": 3,
+              "height": 48
+            },
+            {
+              "type": "field",
+              "label": "Dependencies, likely obstacles, and how you will handle them",
+              "height": 47
+            },
+            {
+              "type": "field",
+              "label": "Next action this week / scheduled review date",
+              "height": 40
+            }
+          ]
+        },
+        {
+          "title": "Goal 3: outcome to action",
+          "intro": "Write the outcome first. Milestones mark progress; actions describe the work someone will do.",
+          "blocks": [
+            {
+              "type": "field",
+              "label": "Goal / desired outcome",
+              "height": 48
+            },
+            {
+              "type": "field",
+              "label": "Success measure: starting point, target, and where you will check it",
+              "height": 45
+            },
+            {
+              "type": "field",
+              "label": "Goal owner / target completion date",
+              "height": 30
+            },
+            {
+              "type": "rows",
+              "title": "Milestones and next actions",
+              "columns": [
+                "Milestone / next action",
+                "Owner",
+                "Due date"
+              ],
+              "count": 3,
+              "height": 48
+            },
+            {
+              "type": "field",
+              "label": "Dependencies, likely obstacles, and how you will handle them",
+              "height": 47
+            },
+            {
+              "type": "field",
+              "label": "Next action this week / scheduled review date",
+              "height": 40
+            }
+          ]
+        },
+        {
+          "title": "Monthly review and adjustment",
+          "intro": "Repeat this page monthly. Keep, adjust, pause, or complete a goal based on what actually happened.",
+          "blocks": [
+            {
+              "type": "field",
+              "label": "Month reviewed / review owner",
+              "height": 32
+            },
+            {
+              "type": "rows",
+              "title": "Review your active goals",
+              "columns": [
+                "Goal / actual measure",
+                "Decision: keep, adjust, pause, complete",
+                "Next action / date"
+              ],
+              "count": 3,
+              "height": 52
+            },
+            {
+              "type": "field",
+              "label": "What worked? What blocked progress?",
+              "height": 72
+            },
+            {
+              "type": "field",
+              "label": "What will change next month, and who is responsible?",
+              "height": 72
+            },
+            {
+              "type": "field",
+              "label": "Next review date",
+              "height": 32
+            }
+          ]
+        }
+      ],
+      "related_faq_ids": [
+        "AI-050"
+      ],
+      "related_resource_ids": [
+        "RES-016",
+        "RES-015"
+      ],
+      "sources": [],
+      "version": "1.0",
+      "reviewed": "2026-10-04",
+      "publication_status": "review_candidate"
+    },
+    {
+      "resource_id": "RES-015",
+      "title": "NINZ Business Journal",
+      "slug": "business-journal",
+      "filename_stem": "NINZ_Business_Journal",
+      "description": "Capture weekly customer signals, lessons, decisions, and ideas worth revisiting so the next priority is grounded in what happened.",
+      "how_to_use": "Use the weekly page for a brief check-in, then record only decisions or ideas that need a later review. Repeat the pages as needed. Use anonymized customer notes and avoid sensitive details.",
+      "disclaimer": "General business education only. Adapt this tool to your business and verify important information before acting.",
+      "pages": [
+        {
+          "title": "Weekly check-in",
+          "intro": "Spend about ten minutes on a useful record of the week. Short, specific notes are enough.",
+          "blocks": [
+            {
+              "type": "field",
+              "label": "Week of / business or team shorthand",
+              "height": 30
+            },
+            {
+              "type": "field",
+              "label": "Wins: what improved or was completed?",
+              "height": 50
+            },
+            {
+              "type": "field",
+              "label": "Lessons: what did you learn from something that did not work?",
+              "height": 55
+            },
+            {
+              "type": "field",
+              "label": "Customer signals: repeated questions, feedback, requests, or friction",
+              "height": 63
+            },
+            {
+              "type": "field",
+              "label": "What changed this week, and what problem needs attention?",
+              "height": 62
+            },
+            {
+              "type": "field",
+              "label": "Stop / start / continue: one practical change in each",
+              "height": 63
+            },
+            {
+              "type": "field",
+              "label": "Next priority / first action / owner / date",
+              "height": 52
+            }
+          ]
+        },
+        {
+          "title": "Decisions to remember",
+          "intro": "Record why you made a decision so you can revisit it with context instead of relying on memory.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Example: pause a campaign because inquiries were outside the intended audience. Revisit after updating the message and reviewing the next month of inquiries. Keep facts separate from assumptions."
+            },
+            {
+              "type": "rows",
+              "title": "Decision record",
+              "columns": [
+                "Decision / date / owner",
+                "Reason and information used",
+                "When to revisit / what would change it"
+              ],
+              "count": 3,
+              "height": 100
+            },
+            {
+              "type": "field",
+              "label": "Result or follow-up from a previous decision",
+              "height": 92
+            }
+          ]
+        },
+        {
+          "title": "Ideas worth revisiting",
+          "intro": "Park ideas without allowing them to crowd out the next priority.",
+          "blocks": [
+            {
+              "type": "rows",
+              "title": "Idea parking lot",
+              "columns": [
+                "Idea / problem it may solve",
+                "What to learn or try first",
+                "Revisit date / owner"
+              ],
+              "count": 3,
+              "height": 85
+            },
+            {
+              "type": "field",
+              "label": "One idea to pursue next / first small step",
+              "height": 90
+            },
+            {
+              "type": "field",
+              "label": "What can wait, and what would make it a priority?",
+              "height": 90
+            }
+          ]
+        }
+      ],
+      "related_faq_ids": [
+        "AI-050"
+      ],
+      "related_resource_ids": [
+        "RES-014",
+        "RES-016"
+      ],
+      "sources": [],
+      "version": "1.0",
+      "reviewed": "2026-10-04",
+      "publication_status": "review_candidate"
+    },
+    {
+      "resource_id": "RES-016",
+      "title": "NINZ Business Calendar",
+      "slug": "business-calendar",
+      "filename_stem": "NINZ_Business_Calendar",
+      "description": "An undated monthly and weekly calendar for campaigns, operations, content, follow-up, and everyday business deadlines.",
+      "how_to_use": "Write the month and year, place dates in the blank grid, and list event details on the execution page. Repeat the weekly page as needed. Keep verified legal obligations in the separate Compliance Calendar.",
+      "disclaimer": "General business education only. Adapt this tool to your business and verify important information before acting.",
+      "pages": [
+        {
+          "title": "Monthly direction",
+          "intro": "Use this calendar for execution planning. Refer to the Compliance Calendar for verified obligations.",
+          "blocks": [
+            {
+              "type": "field",
+              "label": "Month / year / business or team shorthand",
+              "height": 32
+            },
+            {
+              "type": "field",
+              "label": "Top one to three monthly priorities",
+              "height": 76
+            },
+            {
+              "type": "field",
+              "label": "Campaigns / content and marketing",
+              "height": 55
+            },
+            {
+              "type": "field",
+              "label": "Operations / service delivery",
+              "height": 55
+            },
+            {
+              "type": "field",
+              "label": "Finance and admin reminders you choose to schedule",
+              "height": 55
+            },
+            {
+              "type": "field",
+              "label": "Customer follow-up / important deadlines",
+              "height": 55
+            },
+            {
+              "type": "field",
+              "label": "Capacity limits, time off, or work that can wait",
+              "height": 45
+            }
+          ]
+        },
+        {
+          "title": "Undated month at a glance",
+          "intro": "Start with the correct weekday for the month. Put a date and short event label in each applicable cell.",
+          "blocks": [
+            {
+              "type": "calendar"
+            },
+            {
+              "type": "field",
+              "label": "Key dates / schedule changes",
+              "height": 83
+            }
+          ]
+        },
+        {
+          "title": "Weekly priorities and schedule",
+          "intro": "Choose work that fits the week. Copy this page for each week you need.",
+          "blocks": [
+            {
+              "type": "field",
+              "label": "Week of / one to three weekly priorities",
+              "height": 47
+            },
+            {
+              "type": "rows",
+              "title": "Plan the week",
+              "columns": [
+                "Day",
+                "Work / campaign / follow-up",
+                "Owner / deadline"
+              ],
+              "count": 7,
+              "height": 42
+            },
+            {
+              "type": "field",
+              "label": "Unscheduled work to move or delegate",
+              "height": 56
+            }
+          ]
+        },
+        {
+          "title": "Execution details and month-end carry-forward",
+          "intro": "Use the grid for timing and this page for the information someone needs to act.",
+          "blocks": [
+            {
+              "type": "rows",
+              "title": "Event and deadline details",
+              "columns": [
+                "Date / category",
+                "Action / event / next step",
+                "Owner / status"
+              ],
+              "count": 4,
+              "height": 52
+            },
+            {
+              "type": "field",
+              "label": "What was completed? What still needs attention?",
+              "height": 62
+            },
+            {
+              "type": "field",
+              "label": "Move to next month: action / owner / new date",
+              "height": 68
+            },
+            {
+              "type": "field",
+              "label": "Monthly review date / next month to prepare",
+              "height": 32
+            }
+          ]
+        }
+      ],
+      "related_faq_ids": [
+        "AI-050",
+        "BUS-012"
+      ],
+      "related_resource_ids": [
+        "RES-003",
+        "RES-014",
+        "RES-015"
+      ],
+      "sources": [],
+      "version": "1.0",
+      "reviewed": "2026-10-04",
+      "publication_status": "review_candidate"
+    },
+    {
+      "resource_id": "RES-017",
+      "title": "Small Business Bookkeeping Basics Organizer",
+      "slug": "small-business-bookkeeping-basics-organizer",
+      "filename_stem": "NINZ_Small_Business_Bookkeeping_Basics_Organizer",
+      "description": "Organize bookkeeping setup, payment channels, record storage, recurring routines, and questions for a qualified professional.",
+      "how_to_use": "Use your existing business master sheet for identity details. Map where financial records come from and where they are stored, then schedule weekly and monthly routines. This organizer is not a ledger or a tax calculator.",
+      "disclaimer": "Educational organization only, not accounting, tax, legal, or individualized financial advice. Categories are examples, not deduction guidance. Ask a qualified bookkeeper, accountant, or tax professional about your records, accounting method, tax treatment, and retention requirements.",
+      "pages": [
+        {
+          "title": "Bookkeeping setup",
+          "intro": "Create a repeatable process for collecting records. Use account nicknames only.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Keep business and personal activity distinguishable. If they have been mixed, gather the records and ask a qualified professional how to document and correct the situation. Do not assume that a separate account alone completes your bookkeeping."
+            },
+            {
+              "type": "paragraph",
+              "text": "Do not enter account numbers, tax identification numbers, passwords, card details, or confidential customer information in this organizer. Store the completed file securely."
+            },
+            {
+              "type": "field",
+              "label": "Business shorthand / period covered",
+              "height": 30
+            },
+            {
+              "type": "field",
+              "label": "Bookkeeping owner / backup person / professional contact role",
+              "height": 50
+            },
+            {
+              "type": "field",
+              "label": "Recording tool or software / where your master business details are kept",
+              "height": 56
+            },
+            {
+              "type": "field",
+              "label": "Accounts to separate or clarify / questions about mixed transactions",
+              "height": 76
+            },
+            {
+              "type": "field",
+              "label": "Accounting-method or setup questions to ask a professional",
+              "height": 76
+            }
+          ]
+        },
+        {
+          "title": "Accounts and payment channels",
+          "intro": "List all places money is received, held, or paid. Names and record locations are enough.",
+          "blocks": [
+            {
+              "type": "rows",
+              "title": "Account and channel map",
+              "columns": [
+                "Nickname / type",
+                "Statement or report location",
+                "Payout timing / record owner"
+              ],
+              "count": 5,
+              "height": 62
+            },
+            {
+              "type": "paragraph",
+              "text": "Examples: business checking, business card, cash, online store, or payment processor. Keep processor reports alongside bank statements; a net payout may differ from sales because of fees, refunds, or timing. Avoid recording the sale and its bank payout as two sales."
+            },
+            {
+              "type": "field",
+              "label": "Missing statements / access or export tasks / owner",
+              "height": 76
+            }
+          ]
+        },
+        {
+          "title": "Income and expense categories",
+          "intro": "Choose consistent labels that fit your activity. Confirm classification and tax treatment with a professional.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Income examples: product sales, service fees, subscriptions. Track refunds and discounts clearly. Transfers, owner contributions, and loan proceeds need separate treatment from sales; ask how they should be recorded."
+            },
+            {
+              "type": "field",
+              "label": "Income labels to use / refunds or adjustments to track",
+              "height": 96
+            },
+            {
+              "type": "paragraph",
+              "text": "Expense examples: supplies, software, advertising, rent, professional services, payment fees. A bookkeeping label does not establish deductibility. Ask about inventory, equipment, mixed-use purchases, and owner withdrawals."
+            },
+            {
+              "type": "field",
+              "label": "Expense labels to use / items needing professional clarification",
+              "height": 105
+            },
+            {
+              "type": "field",
+              "label": "How will you connect each entry to its supporting record?",
+              "height": 75
+            }
+          ]
+        },
+        {
+          "title": "Receipt storage and recurring routines",
+          "intro": "Keep records findable and assign a realistic routine. A receipt alone may not explain the business purpose.",
+          "blocks": [
+            {
+              "type": "field",
+              "label": "Storage location / folder structure / file naming rule",
+              "height": 60
+            },
+            {
+              "type": "field",
+              "label": "Who can access records? Backup process / retention question",
+              "height": 54
+            },
+            {
+              "type": "checks",
+              "title": "Weekly routine",
+              "items": [
+                "Gather sales reports, invoices, receipts, and other supporting records from all channels.",
+                "Record or import transactions and check for missing records or duplicates.",
+                "Add business context to unclear transactions and list questions instead of guessing.",
+                "Review unpaid customer invoices and upcoming bills where applicable."
+              ]
+            },
+            {
+              "type": "checks",
+              "title": "Monthly routine",
+              "items": [
+                "Collect bank, card, and processor statements for the period.",
+                "Compare recorded activity with statements and resolve or flag differences.",
+                "Review income and expense labels consistently and inspect unusual items.",
+                "Back up records and prepare the month-end questions for professional review."
+              ]
+            },
+            {
+              "type": "field",
+              "label": "Weekly day / monthly review date / routine owner",
+              "height": 35
+            }
+          ]
+        },
+        {
+          "title": "Month-end review",
+          "intro": "A bank balance alone is not a profit measure. Use your actual records and the help appropriate for your business.",
+          "blocks": [
+            {
+              "type": "field",
+              "label": "Month / review owner / records through date",
+              "height": 30
+            },
+            {
+              "type": "checks",
+              "title": "Before closing your review",
+              "items": [
+                "All relevant account and payment-channel statements have been gathered.",
+                "Missing documents, unclear entries, and duplicate transactions have been identified.",
+                "Differences between processor reports, recorded sales, and deposits have been explained or flagged.",
+                "Unpaid invoices, bills, and unusual income or expenses have been reviewed where applicable."
+              ]
+            },
+            {
+              "type": "field",
+              "label": "What do the records suggest about income, expenses, and cash timing?",
+              "height": 94
+            },
+            {
+              "type": "field",
+              "label": "Unresolved items / supporting record needed / owner",
+              "height": 94
+            },
+            {
+              "type": "field",
+              "label": "Next action / due date / professional review needed",
+              "height": 62
+            }
+          ]
+        },
+        {
+          "title": "Questions for your professional",
+          "intro": "Use this page to prepare a focused conversation. Keep notes about the answer and the next step.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Possible questions: Which accounting method fits my situation? How should I record mixed transactions, processor fees, refunds, inventory, or equipment? Which records should I retain and for how long? What needs correction before reporting or filing?"
+            },
+            {
+              "type": "rows",
+              "title": "Bookkeeper / accountant / tax professional questions",
+              "columns": [
+                "Question / context",
+                "Answer / who and when",
+                "Next action / owner / date"
+              ],
+              "count": 3,
+              "height": 83
+            },
+            {
+              "type": "field",
+              "label": "Notes / follow-up appointment or review date",
+              "height": 89
+            }
+          ]
+        }
+      ],
+      "related_faq_ids": [
+        "BUS-012",
+        "CREDIT-012"
+      ],
+      "related_resource_ids": [
+        "RES-002",
+        "RES-003",
+        "RES-004"
+      ],
+      "sources": [
+        {
+          "title": "IRS: recordkeeping for small businesses",
+          "url": "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"
+        }
+      ],
+      "version": "1.0",
+      "reviewed": "2026-10-04",
+      "publication_status": "review_candidate"
+    }
+  ]
+}
