@@ -104,6 +104,8 @@ def web(r):
  for id in r['related_faq_ids']:
   f=FAQ[id];main+=card('/faq/'+f['category_slug']+'/'+f['slug']+'/',f['question'],'Read the related NINZ FAQ.')
  main+='</div><p><a href="/learning-center.html#resource-planning-tools">Continue in the Learning Center</a> for connected education and tools.</p></section>'
+ if r.get('related_guides'):
+  main+='<section class="section resource-connections"><h2>Related Learning Center guides</h2><div class="card-grid">'+''.join(card(g['url'],g['title'],g['description']) for g in r['related_guides'])+'</div></section>'
  if r['resource_id']=='RES-013':
   main+='<section class="section resource-connections"><h2>When you want individualized help</h2><p>Review the <a href="/solutions.html#ai-visibility-assessment">NINZ AI Visibility Assessment</a> solution description. This free checklist provides general upkeep actions; the paid service is a separate option.</p></section>'
  if r['sources']:

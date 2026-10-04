@@ -889,7 +889,14 @@
       ],
       "related_faq_ids": [
         "BUS-012",
-        "CREDIT-012"
+        "CREDIT-012",
+        "OPS-001",
+        "OPS-002",
+        "OPS-003",
+        "OPS-004",
+        "OPS-005",
+        "OPS-006",
+        "OPS-007"
       ],
       "related_resource_ids": [
         "RES-002",
@@ -904,7 +911,14 @@
       ],
       "version": "1.0",
       "reviewed": "2026-10-04",
-      "publication_status": "review_candidate"
+      "publication_status": "review_candidate",
+      "related_guides": [
+        {
+          "title": "Small Business Bookkeeping Basics",
+          "url": "/learning-center/bookkeeping-basics-small-businesses/",
+          "description": "Understand the records, routines and professional help that fit your business."
+        }
+      ]
     }
   ]
 }

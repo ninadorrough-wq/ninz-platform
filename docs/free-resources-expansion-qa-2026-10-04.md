@@ -79,3 +79,7 @@ Browser QA is in `scripts/qa_free_resources.cjs`. It serves the repository on an
 - sitemap.xml
 - solutions.html
 - tests/test_free_resources.py
+
+## Authority-content integration checkpoint
+
+The FAQ/Learning Center expansion supplies the native bookkeeping guide at `/learning-center/bookkeeping-basics-small-businesses/` and OPS-001 through OPS-007. RES-017 now links those FAQs and that guide in its registry, canonical source content and web page; the generator preserves the guide links on rebuild. The two existing PDF editions remain unchanged. No second bookkeeping resource is retained. Native publication and the specific Blogger URL remain pending; no production publication is performed.

@@ -2589,7 +2589,14 @@ window.NINZ_FREE_RESOURCES = {
       "description": "Organize bookkeeping setup, payment channels, record storage, recurring routines, and questions for a qualified professional.",
       "related_faq_ids": [
         "BUS-012",
-        "CREDIT-012"
+        "CREDIT-012",
+        "OPS-001",
+        "OPS-002",
+        "OPS-003",
+        "OPS-004",
+        "OPS-005",
+        "OPS-006",
+        "OPS-007"
       ],
       "related_resource_ids": [
         "RES-002",
@@ -2625,9 +2632,10 @@ window.NINZ_FREE_RESOURCES = {
       "last_reviewed": "2026-10-04",
       "disclaimer": "Educational organization only, not accounting, tax, legal, or individualized financial advice. Categories are examples, not deduction guidance. Ask a qualified bookkeeper, accountant, or tax professional about your records, accounting method, tax treatment, and retention requirements.",
       "related_guide_ids": [
-        "learning-center"
+        "learning-center",
+        "guide-small-business-bookkeeping-basics"
       ],
-      "related_article_status": "awaiting_verified_article",
+      "related_article_status": "article_prepared_working_branch",
       "source_content_path": "content/free-resources-expansion.json",
       "sections": [
         {

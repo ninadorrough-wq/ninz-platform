@@ -21,7 +21,7 @@ function buildPublic(sourceRoot, outputRoot) {
       fs.copyFileSync(path.join(sourceRoot, item.name), path.join(outputRoot, item.name));
     }
   }
-  for (const folder of ['assets', 'faq', 'resources']) {
+  for (const folder of ['assets', 'faq', 'resources', 'learning-center']) {
     if (fs.existsSync(path.join(sourceRoot, folder))) fs.cpSync(path.join(sourceRoot, folder), path.join(outputRoot, folder), { recursive: true });
   }
   const navigator = path.join(outputRoot, 'business-registration');
