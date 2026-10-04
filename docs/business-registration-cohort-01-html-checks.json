@@ -1,0 +1,47 @@
+{
+  "checked_date": "2026-10-04",
+  "scope": "HTML semantics, accessible names, internal assets/links, IDs/ARIA, metadata and structured data",
+  "browser_visual_keyboard_contrast_review": "NOT COMPLETED \u2014 Chromium executable unavailable; download failed",
+  "results": [
+    {
+      "state": "texas",
+      "file": "staging/business-registration/texas/index.html",
+      "elements": 339,
+      "links": 94,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "kansas",
+      "file": "staging/business-registration/kansas/index.html",
+      "elements": 344,
+      "links": 93,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "arkansas",
+      "file": "staging/business-registration/arkansas/index.html",
+      "elements": 351,
+      "links": 98,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "missouri",
+      "file": "staging/business-registration/missouri/index.html",
+      "elements": 327,
+      "links": 88,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "colorado",
+      "file": "staging/business-registration/colorado/index.html",
+      "elements": 340,
+      "links": 89,
+      "status": "PASS",
+      "errors": []
+    }
+  ]
+}
