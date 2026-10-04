@@ -8,13 +8,42 @@
     last_verified: "2026-08-28",
     next_scheduled_review: "2026-11-28",
     verification_status: "current",
+    federal_modules: {
+      ein: {
+        name: "IRS Employer Identification Number (EIN)",
+        authority: "Internal Revenue Service",
+        guidance_url: "https://www.irs.gov/businesses/employer-identification-number",
+        application_url: "https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number",
+        last_checked: "2026-10-04",
+        note: "Federal EIN guidance is maintained once for all state guides. State records may explain sequencing but do not redefine federal eligibility."
+      }
+    },
     states: [
       { state: "Alabama", state_code: "AL", slug: "alabama", publication_status: "coming_soon", public_url: "" },
       { state: "Alaska", state_code: "AK", slug: "alaska", publication_status: "coming_soon", public_url: "" },
       { state: "Arizona", state_code: "AZ", slug: "arizona", publication_status: "coming_soon", public_url: "" },
-      { state: "Arkansas", state_code: "AR", slug: "arkansas", publication_status: "coming_soon", public_url: "" },
+      {
+        state: "Arkansas", state_code: "AR", slug: "arkansas", publication_status: "coming_soon", public_url: "",
+        staging_status: "research_verified_in_part",
+        filing_authority: { name: "Arkansas Secretary of State — Business & Commercial Services", url: "https://www.sos.arkansas.gov/business-commercial-services", source_id: "AR-SOS-001" },
+        state_registration: { name: "For New Businesses", url: "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business/", source_id: "AR-SOS-002" },
+        ongoing_reporting: { name: "Franchise Tax / Annual Report Forms", url: "https://www.sos.arkansas.gov/business-commercial-services-bcs/franchise-tax-report-forms/", source_id: "AR-SOS-003" },
+        ein_module: "ein",
+        local_requirements_note: "Licensing may depend on business activity and locality. Verify state board or commission requirements and city or county requirements before operating.",
+        last_verified: "2026-10-04", next_scheduled_review: "2027-01-02", verification_status: "staged"
+      },
       { state: "California", state_code: "CA", slug: "california", publication_status: "coming_soon", public_url: "" },
-      { state: "Colorado", state_code: "CO", slug: "colorado", publication_status: "coming_soon", public_url: "" },
+      {
+        state: "Colorado", state_code: "CO", slug: "colorado", publication_status: "coming_soon", public_url: "",
+        staging_status: "research_verified_in_part",
+        tax_authority: { name: "Colorado Department of Revenue", url: "https://tax.colorado.gov/", source_id: "CO-DOR-001" },
+        tax_registration: { name: "Colorado New Business Registration", url: "https://mybiz.colorado.gov/", source_id: "CO-DOR-002" },
+        ongoing_reporting: { name: "Colorado Secretary of State Periodic Report", url: "https://www.sos.state.co.us/", source_id: "CO-SOS-001" },
+        workers_compensation: { name: "Colorado Division of Workers' Compensation", url: "https://cdle.colorado.gov/dwc", source_id: "CO-DWC-001" },
+        ein_module: "ein",
+        local_requirements_note: "Licensing and local requirements vary by business activity and jurisdiction and must be checked before activation.",
+        last_verified: "2026-10-04", next_scheduled_review: "2027-01-02", verification_status: "staged"
+      },
       { state: "Connecticut", state_code: "CT", slug: "connecticut", publication_status: "coming_soon", public_url: "" },
       { state: "Delaware", state_code: "DE", slug: "delaware", publication_status: "coming_soon", public_url: "" },
       { state: "Florida", state_code: "FL", slug: "florida", publication_status: "coming_soon", public_url: "" },
@@ -140,7 +169,17 @@
       { state: "South Carolina", state_code: "SC", slug: "south-carolina", publication_status: "coming_soon", public_url: "" },
       { state: "South Dakota", state_code: "SD", slug: "south-dakota", publication_status: "coming_soon", public_url: "" },
       { state: "Tennessee", state_code: "TN", slug: "tennessee", publication_status: "coming_soon", public_url: "" },
-      { state: "Texas", state_code: "TX", slug: "texas", publication_status: "coming_soon", public_url: "" },
+      {
+        state: "Texas", state_code: "TX", slug: "texas", publication_status: "coming_soon", public_url: "",
+        staging_status: "research_verified_in_part",
+        filing_authority: { name: "Texas Secretary of State", url: "https://www.sos.state.tx.us/corp/index.shtml", source_id: "TX-SOS-001" },
+        tax_authority: { name: "Texas Comptroller of Public Accounts", url: "https://comptroller.texas.gov/taxes/franchise/", source_id: "TX-CPA-001" },
+        licenses_permits: { name: "Texas Business Permits Office", url: "https://gov.texas.gov/business/page/business-permits-office", statewide_general_license: false, source_id: "TX-GOV-001" },
+        workers_compensation: { name: "Texas Department of Insurance — Workers' Compensation", url: "https://www.tdi.texas.gov/wc/employer/index.html", source_id: "TX-TDI-001" },
+        ein_module: "ein",
+        local_requirements_note: "Texas has no statewide general business license. Activity-specific, professional, and local licenses or permits may still apply.",
+        last_verified: "2026-10-04", next_scheduled_review: "2027-01-02", verification_status: "staged"
+      },
       { state: "Utah", state_code: "UT", slug: "utah", publication_status: "coming_soon", public_url: "" },
       { state: "Vermont", state_code: "VT", slug: "vermont", publication_status: "coming_soon", public_url: "" },
       { state: "Virginia", state_code: "VA", slug: "virginia", publication_status: "coming_soon", public_url: "" },
