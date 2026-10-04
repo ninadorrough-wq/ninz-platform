@@ -1,0 +1,84 @@
+{
+  "maintenance_browser": {
+    "layouts": 120,
+    "keyboard_links": 6,
+    "journeys": 4,
+    "nojs_links": 6,
+    "accessibility_violations": [],
+    "page_errors": [],
+    "local_failures": [],
+    "keyboard_activation": true,
+    "mobile_navigation": true,
+    "theme_toggle_persistence": true,
+    "current_inventory": true
+  },
+  "authority_browser": {
+    "responsive_theme_layouts": 28,
+    "javascript_off_faqs": 11,
+    "search_category_passed": true,
+    "journey_passed": true,
+    "page_errors": [],
+    "accessibility_violations": []
+  },
+  "maintenance_static": {
+    "public_footers": 219,
+    "social_destinations_per_footer": 6,
+    "protected_baseline_files": "unchanged except public footers, scoped contrast, inventory and comparison semantics",
+    "staged_guides": "five byte-identical review guides",
+    "metadata_changes": 0
+  },
+  "authority_static": {
+    "faq_records": 166,
+    "public_categories": 9,
+    "free_resources": 17,
+    "download_files": 22,
+    "sitemap_urls": 219,
+    "html_pages_checked": 445,
+    "introduced_errors": [],
+    "inherited_link_warnings": [],
+    "inherited_metadata_differences": [
+      "Inherited metadata differs from library record: AI-012",
+      "Inherited metadata differs from library record: AI-013",
+      "Inherited metadata differs from library record: AI-015",
+      "Inherited metadata differs from library record: AI-016",
+      "Inherited metadata differs from library record: AI-018",
+      "Inherited metadata differs from library record: AI-019",
+      "Inherited metadata differs from library record: AI-021",
+      "Inherited metadata differs from library record: AI-022",
+      "Inherited metadata differs from library record: AI-023",
+      "Inherited metadata differs from library record: AI-025",
+      "Inherited metadata differs from library record: VIS-012",
+      "Inherited metadata differs from library record: VIS-014",
+      "Inherited metadata differs from library record: VIS-015",
+      "Inherited metadata differs from library record: BUS-016",
+      "Inherited metadata differs from library record: BUS-017",
+      "Inherited metadata differs from library record: BUS-018",
+      "Inherited metadata differs from library record: BUS-019",
+      "Inherited metadata differs from library record: BUS-020",
+      "Inherited metadata differs from library record: BUS-021",
+      "Inherited metadata differs from library record: BUS-022",
+      "Inherited metadata differs from library record: BUS-023",
+      "Inherited metadata differs from library record: BUS-024",
+      "Inherited metadata differs from library record: BUS-025",
+      "Inherited metadata differs from library record: VIS-016",
+      "Inherited metadata differs from library record: VIS-017",
+      "Inherited metadata differs from library record: PRC-016",
+      "Inherited metadata differs from library record: PRC-017",
+      "Inherited metadata differs from library record: VIS-018",
+      "Inherited metadata differs from library record: AI-060"
+    ]
+  },
+  "resource_browser": {
+    "layouts": 20,
+    "web_fields": 278,
+    "resource_pages": 5,
+    "form_labels_print_clear_and_cancel": "PASS",
+    "axe_violations": 0,
+    "page_errors": 0
+  },
+  "automated_tests": {
+    "navigator_passed": 12,
+    "resources_passed": 2
+  },
+  "scope": "Local non-production verification only; Chromium 153. External requests blocked. No WCAG conformance claim."
+}
