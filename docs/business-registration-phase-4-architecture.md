@@ -50,3 +50,8 @@ A state may move from coming_soon to published only after:
 Texas, Kansas, Arkansas, Missouri, Colorado.
 
 Oklahoma remains the published baseline model. The cohort is intended to validate this reusable architecture before broader state activation.
+
+
+## October 4, 2026 implementation checkpoint
+
+The five-state continuation implements the structured contract and shared EIN content while preserving all Coming Soon states. Review HTML is prepared under `staging/business-registration/`; the local public build allowlists published state directories and removes review-only data. This supplements the architecture above and does not authorize activation. See `business-registration-cohort-01-qa.md` and `business-registration-cohort-01-activation-runbook.md` for evidence, exclusions, unresolved verification and remaining approval gates. Earlier records remain historical evidence.
