@@ -22,6 +22,8 @@ All five states remain **Coming Soon**. No state is ready for activation. The pa
 | Official source reachability | PARTIAL | 65 source checks: 51 reachable, 13 access-blocked, 1 interactive/manual review. See `business-registration-cohort-01-link-checks.json`. HTTP success alone is not requirement verification. |
 | Desktop/mobile browser, keyboard, visual contrast/accessibility | NOT COMPLETED | Chromium executable unavailable. Playwright browser download failed with an invalid/truncated archive. Static semantic checks do not substitute for this gate. |
 | Hosted build configuration and production route behavior | NOT RUN | No hosting dashboard changes or deployed-site checks. `netlify.toml` points future builds at `dist`; actual host/branch settings require release review. |
+| Registry governance | PASS | REG-001 through REG-008 updated with scoped completion, preserved history and readback of values/formulas/validation/formatting. Oklahoma verification dates unchanged. See `business-registration-cohort-01-registry-checkpoint.md`. |
+| Independent staged-work review | PASS with two minor citation corrections | No Critical or Important findings. Added the precise Arkansas county-filing FAQ binding and removed an unsupported Colorado historical rule-change date. Final local QA rerun after corrections. Regulatory certification, Registry audit and browser/host QA were outside that review. |
 | Production merge/deployment | NOT PERFORMED | No merge to main, deploy, publishing, government filing or account registration. |
 
 ## Remaining state verification
@@ -50,3 +52,13 @@ git diff --check
 The link-check script is read-only and refreshes its dated audit report; a new run may differ because agencies change or block access. Inspect results and update structured source `link_status` values before rerendering review drafts. No command above deploys or changes publication status.
 
 See `business-registration-cohort-01-activation-runbook.md` for the remaining verification, review and Nina approval gates.
+
+## Files changed
+
+- `.gitignore`, `assets/business-registration-data.js`, `netlify.toml`.
+- `scripts/build-public.cjs`, `scripts/render-navigator-staged.cjs`, `scripts/check-navigator-sources.py`, `scripts/check-navigator-html.py`.
+- `tests/navigator.test.cjs`.
+- Five `staging/business-registration/{texas,kansas,arkansas,missouri,colorado}/index.html` guides.
+- `docs/business-registration-phase-4-architecture.md` (appended checkpoint) and six new cohort documents/reports: implementation plan, link checks, HTML checks, QA, activation runbook and Registry checkpoint.
+
+Existing earlier research/addenda were retained. Public Oklahoma/Navigation HTML, Navigator script, robots and sitemap have no diff from the baseline.

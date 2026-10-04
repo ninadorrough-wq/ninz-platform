@@ -432,7 +432,8 @@
             {
               "text": "Use SOS instructions to locate fictitious-name forms for the applicable entity. Businesses not required to file with SOS may have county circuit-clerk filings.",
               "source_ids": [
-                "AR-SOS-001"
+                "AR-SOS-001",
+                "AR-SOS-002"
               ],
               "status": "VERIFIED"
             },
@@ -794,7 +795,7 @@
           "source_id": "CO-SOS-004",
           "requirements": [
             {
-              "text": "Use the current registered-agent eligibility, Colorado registered-office and identity/consent instructions. Agent rules changed in 2025; do not rely on an older template or assume every proposed person is eligible.",
+              "text": "Use the current registered-agent eligibility, Colorado registered-office and identity/consent instructions. Do not rely on an older template or assume every proposed person is eligible.",
               "source_ids": [
                 "CO-SOS-004"
               ],

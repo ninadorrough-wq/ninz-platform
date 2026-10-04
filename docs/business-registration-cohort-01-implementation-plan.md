@@ -32,3 +32,8 @@ Spec: `business-registration-phase-4-architecture.md` and Nina's October 4, 2026
 - Baseline: clean isolated clone on the requested branch at `d28aa45`; no AGENTS.md, dependency manifest, test suite or Netlify configuration exists.
 - Research: official government pages and agency publications only. Search-index evidence is distinguished from successful current direct retrieval.
 - No production deployment or default-branch mutation authorized or performed.
+
+- Record/draft/build tasks implemented; fresh local QA: 12 Node tests and five HTML checks passed. Official-link audit: 51 reachable, 13 access-blocked and 1 manual portal check out of 65 sources.
+- Independent read-only review found no Critical or Important defects; two minor citation-precision findings corrected and drafts regenerated.
+- Browser visual/keyboard/contrast checks were attempted but could not run: no Chromium executable and browser download failed. This remains an activation blocker for every state. Regulatory blockers remain explicit; no state is declared release-ready.
+- Registry REG-001..REG-008 updated with 45 bounded value changes; readback confirmed intended cells, unchanged formulas/validation/layout and preserved Oklahoma dates/history. No other projects or tabs changed.
