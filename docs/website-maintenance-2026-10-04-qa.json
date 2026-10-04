@@ -80,5 +80,48 @@
     "navigator_passed": 12,
     "resources_passed": 2
   },
-  "scope": "Local non-production verification only; Chromium 153. External requests blocked. No WCAG conformance claim."
+  "scope": "Local non-production verification only; Chromium 153. External requests blocked. No WCAG conformance claim.",
+  "authority_graph": {
+    "faq_pages_with_incoming_links": 176,
+    "resource_pages_with_incoming_links": 18,
+    "native_guide_pages_with_incoming_links": 2,
+    "orphaned_pages_in_these_folders": 0,
+    "resolved_internal_anchor_edges": 6653,
+    "source": "local public artifact"
+  },
+  "independent_review": {
+    "verdict": "PASS for non-production checkpoint",
+    "critical": 0,
+    "important": 0,
+    "minor": 0,
+    "spot_layouts": 8,
+    "rendered_icons": 48,
+    "axe_violations": 0,
+    "page_errors": 0,
+    "local_review_commit": "5ebc41ed1e40263812d8af8b66b94d78ef23e7c8",
+    "repository_implementation_commit": "dbb108933ef81d509815a4b6e769e89cc302b525",
+    "identical_tree": "a606d999f02b67c94b74c6e722ee66b96ab3870f"
+  },
+  "registry": {
+    "canonical": {
+      "id": "WEB-005",
+      "row": 15,
+      "status": "NEXT"
+    },
+    "superseded_social": {
+      "id": "WEB-010",
+      "row": 114,
+      "status": "PARKED"
+    },
+    "separate_voice_row": 99,
+    "separate_voice_unchanged": true,
+    "distinct_cells_changed": 10,
+    "additional_source_appends": 2,
+    "readback": "Exact values verified; other values/formulas/validation/formats preserved in all three complete rows",
+    "native_visual_fit": "Not separately rendered"
+  },
+  "authority_static_scope": {
+    "source_html_pages": 225,
+    "local_public_build_html_copies": 220
+  }
 }

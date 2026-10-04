@@ -10,7 +10,13 @@ business-registration/oklahoma/index.html
 chatbots.html
 confidentiality-policy.html
 contact.html
+docs/website-maintenance-2026-10-04-completion.md
+docs/website-maintenance-2026-10-04-files.txt
 docs/website-maintenance-2026-10-04-qa.json
+docs/website-maintenance-2026-10-04-visuals/home-1440-dark-footer.png
+docs/website-maintenance-2026-10-04-visuals/home-1440-light-footer.png
+docs/website-maintenance-2026-10-04-visuals/learning-center-320-light-footer.png
+docs/website-maintenance-2026-10-04-visuals/learning-center-390-dark-footer.png
 faq-services.html
 faq/ai-basics/can-ai-access-the-internet/index.html
 faq/ai-basics/can-ai-help-me-write-better-prompts/index.html
