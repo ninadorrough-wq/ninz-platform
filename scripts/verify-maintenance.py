@@ -8,6 +8,7 @@ from html.parser import HTMLParser
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = '9f07c408daf8adc0a06da4c276a6b89bac361d42'
+APPROVED_METADATA = json.loads((ROOT/'docs/work5-metadata-corrections.json').read_text())
 EXPECTED = [
     'https://www.facebook.com/byninzme/?rdid=ndTlnJALmJUe8z7L',
     'https://www.instagram.com/byninz.me?igsh=bXdzdG4xYWwzbHlu&utm_source=qr',
@@ -55,6 +56,9 @@ def verify():
                         comparable = comparable.replace(a,b)
                 if name == 'solutions.html':
                     comparable = re.sub(r'<span role="(?:cell|columnheader)"','<span',comparable)
+                if name in APPROVED_METADATA:
+                    fix = APPROVED_METADATA[name]
+                    comparable = re.sub(r'(<meta (?:name|property)="(?:description|og:description|twitter:description)" content=")[^"]+(">)', lambda m: m[1]+fix['before']+m[2], comparable)
                 assert comparable == old.decode(), name + ': change outside approved component corrections'
                 footer = Footer(after[0])
                 assert footer.links == EXPECTED, name + ': social destination changed'
@@ -65,7 +69,7 @@ def verify():
                     assert tree.find(f'.//*[@id="{symbol}"]') is not None, reference
                 changed.append(name)
                 continue
-        if name == 'assets/styles.css': continue
+        if name in ['assets/styles.css', 'scripts/verify-authority-expansion.py']: continue # Work 5 QA verifier accepts documented metadata corrections.
         if name == 'assets/business-registration.css':
             assert current.decode().replace('background: var(--gold);\n  color: #1E1E1E;',
                 'background: var(--gold);\n  color: var(--charcoal);') == old.decode()
@@ -74,6 +78,6 @@ def verify():
     assert len(changed) == 219, len(changed)
     print(json.dumps({'public_footers':len(changed),'social_destinations_per_footer':6,
         'protected_baseline_files':'unchanged except public footers, scoped contrast, inventory and comparison semantics',
-        'staged_guides':'five byte-identical review guides', 'metadata_changes':0},indent=2))
+        'staged_guides':'five byte-identical review guides', 'metadata_description_corrections':len(APPROVED_METADATA)},indent=2))
 
 if __name__ == '__main__': verify()

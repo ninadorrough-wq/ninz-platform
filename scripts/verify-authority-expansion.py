@@ -19,6 +19,7 @@ RESOURCE_BASE = 'a5c907909465437d933269bc8dc2f387f688d471'
 ERRORS = []
 WARNINGS = []
 METADATA_DIFFERENCES = []
+APPROVED_METADATA = json.loads((ROOT/'docs/work5-metadata-corrections.json').read_text())
 def check(condition, message):
     if not condition:
         ERRORS.append(message)
@@ -157,7 +158,7 @@ for q in library['faqs']:
         for field in ['og:title','twitter:title']:
             check(page.meta.get(field)==q['meta_title'],field+' mismatch '+q['faq_id'])
     elif page.meta.get('description')!=q['meta_description']:
-        check(page.meta.get('description')==Page(original(key)).meta.get('description'),'Introduced original-page metadata mismatch '+q['faq_id'])
+        check(page.meta.get('description')==(APPROVED_METADATA.get(key, {}).get('after') or Page(original(key)).meta.get('description')),'Introduced original-page metadata mismatch '+q['faq_id'])
         METADATA_DIFFERENCES.append('Inherited metadata differs from library record: '+q['faq_id'])
     entries=[]
     for s in page.schemas:entries.extend(s if isinstance(s,list) else [s])

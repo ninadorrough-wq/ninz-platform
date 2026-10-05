@@ -1,0 +1,13 @@
+{
+  "layouts": 120,
+  "keyboard_links": 6,
+  "journeys": 4,
+  "nojs_links": 6,
+  "accessibility_violations": [],
+  "page_errors": [],
+  "local_failures": [],
+  "keyboard_activation": true,
+  "mobile_navigation": true,
+  "theme_toggle_persistence": true,
+  "current_inventory": true
+}

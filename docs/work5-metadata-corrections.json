@@ -1,0 +1,17 @@
+{
+  "faq/ai-basics/where-does-ai-get-its-information/index.html": {
+    "faq_id": "AI-021",
+    "before": "AI can draw from patterns learned during training, information you provide in the prompt, conversation context, connected files or apps, saved preferences, and.",
+    "after": "Learn where AI information comes from, including training, your prompts, connected tools, and retrieved sources, and why answers still need verification."
+  },
+  "faq/online-presence-business-visibility/can-online-presence-affect-ai-systems-find-mention-business/index.html": {
+    "faq_id": "VIS-015",
+    "before": "Learn how public access, indexing, retrieval, citation, mention, and recommendation differ,and why no online tactic guarantees AI visibility.",
+    "after": "Learn how public access, indexing, retrieval, citation, mention, and recommendation differ, and why no online tactic guarantees AI visibility."
+  },
+  "faq/online-presence-business-visibility/how-search-engines-find-understand-business/index.html": {
+    "faq_id": "VIS-014",
+    "before": "Learn how search engines discover, crawl, index, understand, and serve business information,and why each stage is different.",
+    "after": "Learn how search engines discover, crawl, index, understand, and serve business information, and why each stage is different."
+  }
+}

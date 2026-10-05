@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://www.facebook.com/byninzme/?rdid=ndTlnJALmJUe8z7L",
+    "status": 200,
+    "final_url": "https://www.facebook.com/byninzme/?rdid=ndTlnJALmJUe8z7L",
+    "body_prefix": "<!DOCTYPE html><html id=\"facebook\" class=\"_9dls __fb-light-mode\" lang=\"en\" dir=\"ltr\"><head><link data-default-icon=\"http",
+    "title": [
+      "byninz.me | Oklahoma City OK"
+    ],
+    "content_length": 507522,
+    "profile_markers": {
+      "byninz": true,
+      "ninadorroughofficial": false,
+      "NINZ Learning Center": false,
+      "access denied": false,
+      "captcha": true,
+      "sign in": false,
+      "log in": false
+    }
+  },
+  {
+    "url": "https://www.instagram.com/byninz.me?igsh=bXdzdG4xYWwzbHlu&utm_source=qr",
+    "status": 200,
+    "final_url": "https://www.instagram.com/byninz.me?igsh=bXdzdG4xYWwzbHlu&utm_source=qr",
+    "body_prefix": "<!DOCTYPE html><html class=\"_9dls _ar44\" lang=\"en\" dir=\"ltr\"><head><link data-default-icon=\"https://static.cdninstagram.",
+    "title": [
+      " (&#064;byninz.me) \u2022 Instagram photos and videos"
+    ],
+    "content_length": 735093,
+    "profile_markers": {
+      "byninz": true,
+      "ninadorroughofficial": false,
+      "NINZ Learning Center": false,
+      "access denied": false,
+      "captcha": true,
+      "sign in": false,
+      "log in": true
+    }
+  },
+  {
+    "url": "https://www.linkedin.com/in/ninadorroughofficial/",
+    "error": "HTTP Error 999: <none>",
+    "inspection_error": "HTTP Error 999: <none>"
+  },
+  {
+    "url": "https://www.youtube.com/@ByNINZ",
+    "status": 200,
+    "final_url": "https://www.youtube.com/@ByNINZ?cbrd=1&ucbcb=1",
+    "body_prefix": "<!DOCTYPE html><html style=\"font-size: 62.5%;font-family: Roboto, Arial, sans-serif;\" lang=\"en-GB\" darker-dark-theme dar",
+    "title": [
+      "ByNINZ - YouTube"
+    ],
+    "content_length": 897267,
+    "profile_markers": {
+      "byninz": true,
+      "ninadorroughofficial": true,
+      "NINZ Learning Center": true,
+      "access denied": false,
+      "captcha": true,
+      "sign in": true,
+      "log in": false
+    }
+  },
+  {
+    "url": "https://www.tiktok.com/@byninz.me",
+    "status": 200,
+    "final_url": "https://www.tiktok.com/@byninz.me",
+    "body_prefix": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-w",
+    "title": [
+      "TikTok - Make Your Day"
+    ],
+    "content_length": 387744,
+    "profile_markers": {
+      "byninz": true,
+      "ninadorroughofficial": false,
+      "NINZ Learning Center": false,
+      "access denied": false,
+      "captcha": true,
+      "sign in": false,
+      "log in": true
+    }
+  },
+  {
+    "url": "https://ninzlearningcenter.blogspot.com/",
+    "status": 200,
+    "final_url": "https://ninzlearningcenter.blogspot.com/",
+    "body_prefix": "<!DOCTYPE html>\n<html dir='ltr' lang='en'>\n<head>\n<meta content='width=device-width, initial-scale=1' name='viewport'/>\n",
+    "title": [
+      "NINZ Learning Center"
+    ],
+    "content_length": 118361,
+    "profile_markers": {
+      "byninz": false,
+      "ninadorroughofficial": false,
+      "NINZ Learning Center": true,
+      "access denied": false,
+      "captcha": false,
+      "sign in": false,
+      "log in": true
+    }
+  }
+]
