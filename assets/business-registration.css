@@ -166,7 +166,7 @@
 
 .state-card.is-published .state-status {
   background: var(--gold);
-  color: var(--charcoal);
+  color: #1E1E1E;
 }
 
 .navigator-notice {

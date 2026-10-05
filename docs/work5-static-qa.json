@@ -1,0 +1,249 @@
+{
+  "baseline": "f36943bc8eecb280f44852ef88a53d1865b871f9",
+  "product_files_changed": [
+    "faq/ai-basics/where-does-ai-get-its-information/index.html",
+    "faq/online-presence-business-visibility/can-online-presence-affect-ai-systems-find-mention-business/index.html",
+    "faq/online-presence-business-visibility/how-search-engines-find-understand-business/index.html"
+  ],
+  "protected_product_preserved": true,
+  "public_html_pages": 220,
+  "schema_blocks_parsed": 219,
+  "sitemap_urls": 219,
+  "unique_titles": 220,
+  "metadata_review": [
+    {
+      "faq_id": "AI-012",
+      "path": "faq/ai-basics/how-do-i-know-if-an-ai-answer-is-accurate/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "You can judge an AI answer by checking whether it matches trusted sources, fits your actual situation, includes current information, avoids unsupported claims, and makes sense logically.",
+      "library_description": "Learn how small business owners can evaluate AI answers, check sources, and use human judgment before relying on important information."
+    },
+    {
+      "faq_id": "AI-013",
+      "path": "faq/ai-basics/should-i-fact-check-information-from-ai/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Yes, you should fact-check AI when the information is important, current, customer-facing, legal, financial, medical, technical, or tied to a business decision.",
+      "library_description": "Learn how small business owners can evaluate AI answers, check sources, and use human judgment before relying on important information."
+    },
+    {
+      "faq_id": "AI-015",
+      "path": "faq/ai-basics/what-is-prompt-engineering/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Prompt engineering is the practice of designing and improving the instructions you give an AI system.",
+      "library_description": "Learn practical prompting concepts for small business owners without unnecessary technical language."
+    },
+    {
+      "faq_id": "AI-016",
+      "path": "faq/ai-basics/can-ai-help-me-write-better-prompts/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Yes. AI can help you write better prompts by asking clarifying questions, organizing your goal, suggesting missing context, and turning a rough request into clearer instructions.",
+      "library_description": "Learn practical prompting concepts for small business owners without unnecessary technical language."
+    },
+    {
+      "faq_id": "AI-018",
+      "path": "faq/ai-basics/does-ai-know-who-i-am/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "AI may know or infer information about you only from what the product can access, such as your account, current conversation, saved preferences, connected apps.",
+      "library_description": "Learn how AI privacy, personalization, memory, and data-use behavior can vary by provider, product, account type, and settings."
+    },
+    {
+      "faq_id": "AI-019",
+      "path": "faq/ai-basics/does-ai-learn-from-my-conversations/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "AI may use your conversation during the current chat to respond better, but whether your conversations are used to improve or train models depends on the provider.",
+      "library_description": "Learn how AI privacy, personalization, memory, and data-use behavior can vary by provider, product, account type, and settings."
+    },
+    {
+      "faq_id": "AI-021",
+      "path": "faq/ai-basics/where-does-ai-get-its-information/index.html",
+      "disposition": "corrected",
+      "reason": "Malformed/truncated rendered description corrected in all three search/social tags.",
+      "prior_page_description": "AI can draw from patterns learned during training, information you provide in the prompt, conversation context, connected files or apps, saved preferences, and.",
+      "library_description": "Plain-language AI education for small business owners learning key AI concepts, terminology, and practical next steps."
+    },
+    {
+      "faq_id": "AI-022",
+      "path": "faq/ai-basics/what-is-an-ai-model/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "An AI model is the underlying system that has learned patterns from data and uses those patterns to make predictions, generate responses, recognize information, or support decisions.",
+      "library_description": "Plain-language AI education for small business owners learning key AI concepts, terminology, and practical next steps."
+    },
+    {
+      "faq_id": "AI-023",
+      "path": "faq/ai-basics/what-is-a-large-language-model-llm/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "A large language model, or LLM, is a type of AI model designed to work with language.",
+      "library_description": "Plain-language AI education for small business owners learning key AI concepts, terminology, and practical next steps."
+    },
+    {
+      "faq_id": "AI-025",
+      "path": "faq/ai-basics/do-i-need-technical-skills-to-use-ai/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "No. You do not need technical skills to begin using many AI tools. Most modern AI assistants are designed for everyday language.",
+      "library_description": "Plain-language AI education for small business owners learning key AI concepts, terminology, and practical next steps."
+    },
+    {
+      "faq_id": "VIS-012",
+      "path": "faq/online-presence-business-visibility/what-is-microsoft-clarity/index.html",
+      "disposition": "intentional variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Microsoft Clarity is a behavioral analytics product with capabilities such as session recordings, heatmaps, events, and funnels.",
+      "library_description": "Learn what Microsoft Clarity's recordings, heatmaps, events, and funnels can show, and what they cannot prove."
+    },
+    {
+      "faq_id": "VIS-014",
+      "path": "faq/online-presence-business-visibility/how-search-engines-find-understand-business/index.html",
+      "disposition": "corrected",
+      "reason": "Malformed/truncated rendered description corrected in all three search/social tags.",
+      "prior_page_description": "Learn how search engines discover, crawl, index, understand, and serve business information,and why each stage is different.",
+      "library_description": "Learn how search engines discover, crawl, index, understand, and serve business information, and why each stage is different."
+    },
+    {
+      "faq_id": "VIS-015",
+      "path": "faq/online-presence-business-visibility/can-online-presence-affect-ai-systems-find-mention-business/index.html",
+      "disposition": "corrected",
+      "reason": "Malformed/truncated rendered description corrected in all three search/social tags.",
+      "prior_page_description": "Learn how public access, indexing, retrieval, citation, mention, and recommendation differ,and why no online tactic guarantees AI visibility.",
+      "library_description": "Learn how public access, indexing, retrieval, citation, mention, and recommendation differ, and why no online tactic guarantees AI visibility."
+    },
+    {
+      "faq_id": "BUS-016",
+      "path": "faq/business-registration-compliance/difference-business-formation-ein-state-taxes-licenses/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "These are separate steps that serve different purposes. Forming a business creates or registers the business under state law.",
+      "library_description": "These are separate steps that serve different purposes. Forming a business creates or registers the business under state law. An EIN identifies the."
+    },
+    {
+      "faq_id": "BUS-017",
+      "path": "faq/business-registration-compliance/where-register-business-secretary-of-state-revenue-county-city/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Potentially more than one. Different agencies handle different requirements.",
+      "library_description": "Potentially more than one. Different agencies handle different requirements. A Secretary of State or similar state agency commonly handles entity."
+    },
+    {
+      "faq_id": "BUS-018",
+      "path": "faq/business-registration-compliance/register-llc-corporation-before-applying-for-ein/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Yes. If you are creating a legal entity such as an LLC or corporation, the IRS currently instructs you to form or register the entity with your state before applying for an EIN.",
+      "library_description": "Yes. If you are creating a legal entity such as an LLC or corporation, the IRS currently instructs you to form or register the entity with your state."
+    },
+    {
+      "faq_id": "BUS-019",
+      "path": "faq/business-registration-compliance/state-tax-registration-sales-tax-employer-account/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "State tax registration establishes applicable tax accounts with a state tax or revenue agency.",
+      "library_description": "State tax registration establishes applicable tax accounts with a state tax or revenue agency. Whether a business needs to register depends on factors."
+    },
+    {
+      "faq_id": "BUS-020",
+      "path": "faq/business-registration-compliance/when-business-needs-foreign-qualification-another-state/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "A business formed in one state may need to register, or \u201cforeign qualify,\u201d in another state when its activities meet that state's requirements for doing business there.",
+      "library_description": "A business formed in one state may need to register, or \u201cforeign qualify,\u201d in another state when its activities meet that state's requirements for doing."
+    },
+    {
+      "faq_id": "BUS-021",
+      "path": "faq/business-registration-compliance/s-corporation-business-structure-or-tax-election/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "An S corporation is generally a federal tax status, not a separate state-law business structure like an LLC or corporation.",
+      "library_description": "An S corporation is generally a federal tax status, not a separate state-law business structure like an LLC or corporation. An eligible corporation, or an."
+    },
+    {
+      "faq_id": "BUS-022",
+      "path": "faq/business-registration-compliance/business-name-availability-entity-dba-trademark-domain-differences/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Checking one database is not enough to answer every business-name question.",
+      "library_description": "Checking one database is not enough to answer every business-name question. Entity names, DBAs, trademarks, and domain names serve different purposes and."
+    },
+    {
+      "faq_id": "BUS-023",
+      "path": "faq/business-registration-compliance/new-ein-business-name-address-ownership-structure-changes/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Not always. The IRS generally requires a new EIN when a business's ownership or structure changes, but a simple change to the business name or address generally does not require a new EIN.",
+      "library_description": "Not always. The IRS generally requires a new EIN when a business's ownership or structure changes, but a simple change to the business name or address."
+    },
+    {
+      "faq_id": "BUS-024",
+      "path": "faq/business-registration-compliance/business-changes-report-after-registration-agencies-to-notify/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "It depends on what changed and which agency maintains that information.",
+      "library_description": "It depends on what changed and which agency maintains that information. Changes involving a business name, address, ownership, responsible party, entity."
+    },
+    {
+      "faq_id": "BUS-025",
+      "path": "faq/business-registration-compliance/us-formed-business-beneficial-ownership-information-fincen/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "No, under the current FinCEN rule. As of September 1, 2026, U.S.-formed companies are exempt from federal Beneficial Ownership Information, or BOI, reporting requirements.",
+      "library_description": "No, under the current FinCEN rule. As of September 1, 2026, U.S.-formed companies are exempt from federal Beneficial Ownership Information, or BOI,."
+    },
+    {
+      "faq_id": "VIS-016",
+      "path": "faq/online-presence-business-visibility/add-claim-verify-google-business-profile/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "If your business does not already have a Google Business Profile, you can add one at no charge.",
+      "library_description": "If your business does not already have a Google Business Profile, you can add one at no charge. If a profile already exists but is unverified, you may be."
+    },
+    {
+      "faq_id": "VIS-017",
+      "path": "faq/online-presence-business-visibility/home-based-service-area-google-business-profile-hide-home-address/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "If you travel to customers and do not serve customers at your home or business address, Google says to remove the address from your Business Profile and use service areas instead.",
+      "library_description": "If you travel to customers and do not serve customers at your home or business address, Google says to remove the address from your Business Profile and."
+    },
+    {
+      "faq_id": "PRC-016",
+      "path": "faq/business-profiles-reviews-credibility/fake-abusive-policy-violating-google-review/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "You can report a Google review if you believe it violates Google's content policies, but Google does not remove reviews simply because they are negative or because a business disagrees with them.",
+      "library_description": "You can report a Google review if you believe it violates Google's content policies, but Google does not remove reviews simply because they are negative."
+    },
+    {
+      "faq_id": "PRC-017",
+      "path": "faq/business-profiles-reviews-credibility/customer-reviews-local-visibility-business-credibility/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Reviews can influence both how potential customers perceive a business and its local visibility.",
+      "library_description": "Reviews can influence both how potential customers perceive a business and its local visibility. Google says review count and positive ratings are among."
+    },
+    {
+      "faq_id": "VIS-018",
+      "path": "faq/online-presence-business-visibility/small-business-website-google-business-profile-social-media/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "For many small businesses, a website is still valuable even when they have a Google Business Profile and active social media accounts.",
+      "library_description": "For many small businesses, a website is still valuable even when they have a Google Business Profile and active social media accounts. These channels."
+    },
+    {
+      "faq_id": "AI-060",
+      "path": "faq/ai-for-business/trust-ai-tool-claims-business/index.html",
+      "disposition": "harmless variation",
+      "reason": "Specific rendered page summary is accurate; library description is a broader or shortened catalog summary. Renderer does not overwrite metadata.",
+      "prior_page_description": "Do not rely solely on an AI company's marketing claims, demonstrations, or AI-generated descriptions of its own capabilities.",
+      "library_description": "Do not rely solely on an AI company's marketing claims, demonstrations, or AI-generated descriptions of its own capabilities. Evaluate the actual product,..."
+    }
+  ],
+  "staged_content_isolated": true,
+  "resource_entries": 17
+}
