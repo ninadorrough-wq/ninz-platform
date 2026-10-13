@@ -187,6 +187,8 @@
   font-size: .92rem;
 }
 
+.navigator-hero .verification-line { color: #eee; }
+
 .guide-intro-grid {
   display: grid;
   grid-template-columns: minmax(0, 1.25fr) minmax(260px, .75fr);
