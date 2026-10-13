@@ -1,0 +1,6 @@
+[build]
+  command = "node scripts/build-public.cjs"
+  publish = "dist"
+
+[context.deploy-preview]
+  command = "node scripts/build-navigator-review-preview.cjs"
