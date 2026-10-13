@@ -9,7 +9,7 @@ const { buildReviewPreview } = require('../scripts/build-navigator-review-previe
 test('candidate Deploy Preview exposes noindex review routes without activating state routes', () => {
   const output = fs.mkdtempSync(path.join(os.tmpdir(), 'ninz-preview-'));
   try {
-    buildReviewPreview(root, output, { CONTEXT: 'deploy-preview', BRANCH: 'navigator-ten-state-release-2026-10-13' });
+    buildReviewPreview(root, output, { CONTEXT: 'deploy-preview', BRANCH: 'pull/3/head', REVIEW_ID: '3' });
     for (const slug of ['texas', 'kansas', 'arkansas', 'missouri', 'colorado', 'new-mexico', 'louisiana', 'nebraska', 'iowa', 'mississippi']) {
       const review = fs.readFileSync(path.join(output, 'review/business-registration', slug, 'index.html'), 'utf8');
       assert.match(review, /name="robots" content="noindex, nofollow"/);
@@ -27,7 +27,12 @@ test('candidate Deploy Preview exposes noindex review routes without activating 
 test('review build rejects every other branch or context', () => {
   const output = fs.mkdtempSync(path.join(os.tmpdir(), 'ninz-guard-'));
   try {
-    for (const env of [{ CONTEXT: 'production', BRANCH: 'navigator-ten-state-release-2026-10-13' }, { CONTEXT: 'deploy-preview', BRANCH: 'main' }, {}]) {
+    for (const env of [
+      { CONTEXT: 'production', BRANCH: 'pull/3/head', REVIEW_ID: '3' },
+      { CONTEXT: 'deploy-preview', BRANCH: 'pull/1/head', REVIEW_ID: '1' },
+      { CONTEXT: 'deploy-preview', BRANCH: 'main', REVIEW_ID: '3' },
+      {}
+    ]) {
       assert.throws(() => buildReviewPreview(root, output, env), /candidate Deploy Preview/);
       assert.ok(!fs.existsSync(path.join(output, 'review')));
     }

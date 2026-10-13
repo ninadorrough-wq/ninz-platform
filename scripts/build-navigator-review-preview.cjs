@@ -7,8 +7,8 @@ const branch = 'navigator-ten-state-release-2026-10-13';
 const slugs = ['texas', 'kansas', 'arkansas', 'missouri', 'colorado', 'new-mexico', 'louisiana', 'nebraska', 'iowa', 'mississippi'];
 
 function buildReviewPreview(sourceRoot, outputRoot, env = process.env) {
-  if (env.CONTEXT !== 'deploy-preview' || env.BRANCH !== branch) {
-    throw new Error('Review drafts require the candidate Deploy Preview context and branch.');
+  if (env.CONTEXT !== 'deploy-preview' || env.REVIEW_ID !== '3' || ![branch, 'pull/3/head'].includes(env.BRANCH)) {
+    throw new Error('Review drafts require PR #3 in the candidate Deploy Preview context.');
   }
   sourceRoot = path.resolve(sourceRoot);
   outputRoot = buildPublic(sourceRoot, outputRoot);
