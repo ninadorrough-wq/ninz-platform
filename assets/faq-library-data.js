@@ -31155,17 +31155,17 @@ window.NINZ_FAQ_LIBRARY = {
       "source_required": true,
       "sources": [
         {
-          "source_id": "sba-manage-business",
+          "source_id": "sba-manage-your-finances",
           "source_type": "government business guidance",
-          "source_title": "Manage your business",
+          "source_title": "Manage your finances",
           "source_publisher": "U.S. Small Business Administration",
-          "source_url": "https://www.sba.gov/counseling/manage-your-business/",
-          "date_accessed": "2026-10-04",
+          "source_url": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+          "date_accessed": "2026-10-12",
           "supported_claims": [
-            "SBA discusses financial management, accounting help, marketing and customer support after a sale."
+            "SBA explains financial recordkeeping and the roles of a bookkeeper and CPA."
           ],
           "verification_status": "verified",
-          "verification_notes": "Reviewed official guidance October 4, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
+          "verification_notes": "Verified the live section anchor and official guidance October 12, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
         },
         {
           "source_id": "irs-publication-583",
@@ -31470,17 +31470,17 @@ window.NINZ_FAQ_LIBRARY = {
       "source_required": true,
       "sources": [
         {
-          "source_id": "sba-manage-business",
+          "source_id": "sba-manage-your-finances",
           "source_type": "government business guidance",
-          "source_title": "Manage your business",
+          "source_title": "Manage your finances",
           "source_publisher": "U.S. Small Business Administration",
-          "source_url": "https://www.sba.gov/counseling/manage-your-business/",
-          "date_accessed": "2026-10-04",
+          "source_url": "https://www.sba.gov/counseling/manage-your-business/#manage-your-finances",
+          "date_accessed": "2026-10-12",
           "supported_claims": [
-            "SBA discusses financial management, accounting help, marketing and customer support after a sale."
+            "SBA explains financial recordkeeping and the roles of a bookkeeper and CPA."
           ],
           "verification_status": "verified",
-          "verification_notes": "Reviewed official guidance October 4, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
+          "verification_notes": "Verified the live section anchor and official guidance October 12, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
         },
         {
           "source_id": "irs-recordkeeping",
@@ -31621,17 +31621,17 @@ window.NINZ_FAQ_LIBRARY = {
       "source_required": true,
       "sources": [
         {
-          "source_id": "sba-manage-business",
+          "source_id": "sba-marketing-and-sales",
           "source_type": "government business guidance",
-          "source_title": "Manage your business",
+          "source_title": "Marketing and sales",
           "source_publisher": "U.S. Small Business Administration",
-          "source_url": "https://www.sba.gov/counseling/manage-your-business/",
-          "date_accessed": "2026-10-04",
+          "source_url": "https://www.sba.gov/counseling/manage-your-business/#marketing-and-sales",
+          "date_accessed": "2026-10-12",
           "supported_claims": [
-            "SBA discusses financial management, accounting help, marketing and customer support after a sale."
+            "SBA discusses marketing goals, reviewing performance, and customer support after a sale. The specific follow-up workflow and metrics are NINZ practical suggestions."
           ],
           "verification_status": "verified",
-          "verification_notes": "Reviewed official guidance October 4, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
+          "verification_notes": "Verified the live section anchor and official guidance October 12, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
         }
       ],
       "content_risk": [
@@ -31756,17 +31756,17 @@ window.NINZ_FAQ_LIBRARY = {
       "source_required": true,
       "sources": [
         {
-          "source_id": "sba-manage-business",
+          "source_id": "sba-marketing-and-sales",
           "source_type": "government business guidance",
-          "source_title": "Manage your business",
+          "source_title": "Marketing and sales",
           "source_publisher": "U.S. Small Business Administration",
-          "source_url": "https://www.sba.gov/counseling/manage-your-business/",
-          "date_accessed": "2026-10-04",
+          "source_url": "https://www.sba.gov/counseling/manage-your-business/#marketing-and-sales",
+          "date_accessed": "2026-10-12",
           "supported_claims": [
-            "SBA discusses financial management, accounting help, marketing and customer support after a sale."
+            "SBA discusses marketing goals, reviewing performance, and customer support after a sale. The specific follow-up workflow and metrics are NINZ practical suggestions."
           ],
           "verification_status": "verified",
-          "verification_notes": "Reviewed official guidance October 4, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
+          "verification_notes": "Verified the live section anchor and official guidance October 12, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
         }
       ],
       "content_risk": [
@@ -31915,17 +31915,17 @@ window.NINZ_FAQ_LIBRARY = {
           "verification_notes": "Reviewed official guidance October 4, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
         },
         {
-          "source_id": "sba-manage-business",
+          "source_id": "sba-marketing-and-sales",
           "source_type": "government business guidance",
-          "source_title": "Manage your business",
+          "source_title": "Marketing and sales",
           "source_publisher": "U.S. Small Business Administration",
-          "source_url": "https://www.sba.gov/counseling/manage-your-business/",
-          "date_accessed": "2026-10-04",
+          "source_url": "https://www.sba.gov/counseling/manage-your-business/#marketing-and-sales",
+          "date_accessed": "2026-10-12",
           "supported_claims": [
-            "SBA discusses financial management, accounting help, marketing and customer support after a sale."
+            "SBA discusses marketing goals, reviewing performance, and customer support after a sale. The specific follow-up workflow and metrics are NINZ practical suggestions."
           ],
           "verification_status": "verified",
-          "verification_notes": "Reviewed official guidance October 4, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
+          "verification_notes": "Verified the live section anchor and official guidance October 12, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
         }
       ],
       "content_risk": [
@@ -32053,17 +32053,17 @@ window.NINZ_FAQ_LIBRARY = {
       "source_required": true,
       "sources": [
         {
-          "source_id": "sba-manage-business",
+          "source_id": "sba-marketing-and-sales",
           "source_type": "government business guidance",
-          "source_title": "Manage your business",
+          "source_title": "Marketing and sales",
           "source_publisher": "U.S. Small Business Administration",
-          "source_url": "https://www.sba.gov/counseling/manage-your-business/",
-          "date_accessed": "2026-10-04",
+          "source_url": "https://www.sba.gov/counseling/manage-your-business/#marketing-and-sales",
+          "date_accessed": "2026-10-12",
           "supported_claims": [
-            "SBA discusses financial management, accounting help, marketing and customer support after a sale."
+            "SBA discusses marketing goals, reviewing performance, and customer support after a sale. The specific follow-up workflow and metrics are NINZ practical suggestions."
           ],
           "verification_status": "verified",
-          "verification_notes": "Reviewed official guidance October 4, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
+          "verification_notes": "Verified the live section anchor and official guidance October 12, 2026. Practical examples and routines are NINZ educational interpretation, not universal requirements."
         }
       ],
       "content_risk": [
