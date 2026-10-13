@@ -1,5 +1,5 @@
 window.NINZ_FREE_RESOURCES = {
-  "version": "free-resources-phase-1-drafts",
+  "version": "free-resources-expansion-2026-10-04",
   "public_name": "NINZ Free Resources",
   "public_positioning": "Practical checklists, worksheets, and templates to help you learn, organize, plan, and take your next business step.",
   "default_access_model": "instant_access",
@@ -14,7 +14,11 @@ window.NINZ_FREE_RESOURCES = {
     "Guide",
     "Spreadsheet",
     "Interactive Tool",
-    "Assessment"
+    "Assessment",
+    "Planner",
+    "Journal",
+    "Calendar",
+    "Organizer"
   ],
   "topics": [
     "Starting a Business",
@@ -2224,6 +2228,469 @@ window.NINZ_FREE_RESOURCES = {
             "The Consumer Review Fairness Act protects consumers' ability to share honest opinions."
           ],
           "verification_status": "verified"
+        }
+      ]
+    },
+    {
+      "resource_id": "RES-013",
+      "title": "AI/AEO/GEO Visibility Checklist",
+      "slug": "ai-aeo-geo-visibility-checklist",
+      "description": "Keep business information, useful answers, profiles, and website basics current with a practical self-help checklist.",
+      "related_faq_ids": [
+        "VIS-019",
+        "VIS-020",
+        "VIS-022",
+        "VIS-006"
+      ],
+      "related_resource_ids": [
+        "RES-002",
+        "RES-011",
+        "RES-012"
+      ],
+      "category": "Online Presence",
+      "resource_type": "Checklist",
+      "status": "review_candidate",
+      "publication_status": "unpublished",
+      "access_model": "instant_access",
+      "public_url": "resources/ai-aeo-geo-visibility-checklist/",
+      "primary_format": "web",
+      "formats_available": [
+        {
+          "format": "web",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "fillable_pdf",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "printable_pdf",
+          "status": "built_review_candidate"
+        }
+      ],
+      "download_paths": {
+        "fillable_pdf": "assets/downloads/NINZ_AI_AEO_GEO_Visibility_Checklist_Digital_v1.0.pdf",
+        "printable_pdf": "assets/downloads/NINZ_AI_AEO_GEO_Visibility_Checklist_Print_v1.0.pdf"
+      },
+      "version": "1.0",
+      "last_reviewed": "2026-10-04",
+      "disclaimer": "General business education only. This self-help checklist is not an individualized assessment or score. It does not guarantee rankings, AI citations, AI recommendations, traffic, leads, sales, or revenue. Platform requirements and features may change.",
+      "related_guide_ids": [
+        "learning-center"
+      ],
+      "related_article_status": "awaiting_verified_article",
+      "source_content_path": "content/free-resources-expansion.json",
+      "sections": [
+        {
+          "heading": "Business clarity and public information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Help customers understand who you are and what you do before adding more content."
+            }
+          ]
+        },
+        {
+          "heading": "Useful website content and answers",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Use real customer questions to improve the pages customers already need."
+            }
+          ]
+        },
+        {
+          "heading": "Profiles and credibility",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Maintain the profiles appropriate for your business and use accurate trust signals."
+            }
+          ]
+        },
+        {
+          "heading": "Structured basics and maintenance",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Keep technical questions practical; ask your website provider when a task is outside your expertise."
+            }
+          ]
+        },
+        {
+          "heading": "Put one improvement into motion",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Use an ordinary action list. This checklist does not measure visibility or reproduce a paid assessment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "resource_id": "RES-014",
+      "title": "NINZ Business Goals & Action Planner",
+      "slug": "business-goals-action-planner",
+      "description": "Turn one to three business goals into measurable outcomes, milestones, assigned actions, and monthly decisions.",
+      "related_faq_ids": [
+        "AI-050"
+      ],
+      "related_resource_ids": [
+        "RES-016",
+        "RES-015"
+      ],
+      "category": "Business Operations",
+      "resource_type": "Planner",
+      "status": "review_candidate",
+      "publication_status": "unpublished",
+      "access_model": "instant_access",
+      "public_url": "resources/business-goals-action-planner/",
+      "primary_format": "web",
+      "formats_available": [
+        {
+          "format": "web",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "fillable_pdf",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "printable_pdf",
+          "status": "built_review_candidate"
+        }
+      ],
+      "download_paths": {
+        "fillable_pdf": "assets/downloads/NINZ_Business_Goals_Action_Planner_Digital_v1.0.pdf",
+        "printable_pdf": "assets/downloads/NINZ_Business_Goals_Action_Planner_Print_v1.0.pdf"
+      },
+      "version": "1.0",
+      "last_reviewed": "2026-10-04",
+      "disclaimer": "General business education only. Adapt this tool to your business and verify important information before acting.",
+      "related_guide_ids": [
+        "learning-center"
+      ],
+      "related_article_status": "awaiting_verified_article",
+      "source_content_path": "content/free-resources-expansion.json",
+      "sections": [
+        {
+          "heading": "Choose one to three goals",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Choose outcomes you can describe and check. Use only the goal pages you need."
+            }
+          ]
+        },
+        {
+          "heading": "Goal 1: outcome to action",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Write the outcome first. Milestones mark progress; actions describe the work someone will do."
+            }
+          ]
+        },
+        {
+          "heading": "Goal 2: outcome to action",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Write the outcome first. Milestones mark progress; actions describe the work someone will do."
+            }
+          ]
+        },
+        {
+          "heading": "Goal 3: outcome to action",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Write the outcome first. Milestones mark progress; actions describe the work someone will do."
+            }
+          ]
+        },
+        {
+          "heading": "Monthly review and adjustment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Repeat this page monthly. Keep, adjust, pause, or complete a goal based on what actually happened."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "resource_id": "RES-015",
+      "title": "NINZ Business Journal",
+      "slug": "business-journal",
+      "description": "Capture weekly customer signals, lessons, decisions, and ideas worth revisiting so the next priority is grounded in what happened.",
+      "related_faq_ids": [
+        "AI-050"
+      ],
+      "related_resource_ids": [
+        "RES-014",
+        "RES-016"
+      ],
+      "category": "Business Operations",
+      "resource_type": "Journal",
+      "status": "review_candidate",
+      "publication_status": "unpublished",
+      "access_model": "instant_access",
+      "public_url": "resources/business-journal/",
+      "primary_format": "web",
+      "formats_available": [
+        {
+          "format": "web",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "fillable_pdf",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "printable_pdf",
+          "status": "built_review_candidate"
+        }
+      ],
+      "download_paths": {
+        "fillable_pdf": "assets/downloads/NINZ_Business_Journal_Digital_v1.0.pdf",
+        "printable_pdf": "assets/downloads/NINZ_Business_Journal_Print_v1.0.pdf"
+      },
+      "version": "1.0",
+      "last_reviewed": "2026-10-04",
+      "disclaimer": "General business education only. Adapt this tool to your business and verify important information before acting.",
+      "related_guide_ids": [
+        "learning-center"
+      ],
+      "related_article_status": "awaiting_verified_article",
+      "source_content_path": "content/free-resources-expansion.json",
+      "sections": [
+        {
+          "heading": "Weekly check-in",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Spend about ten minutes on a useful record of the week. Short, specific notes are enough."
+            }
+          ]
+        },
+        {
+          "heading": "Decisions to remember",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Record why you made a decision so you can revisit it with context instead of relying on memory."
+            }
+          ]
+        },
+        {
+          "heading": "Ideas worth revisiting",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Park ideas without allowing them to crowd out the next priority."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "resource_id": "RES-016",
+      "title": "NINZ Business Calendar",
+      "slug": "business-calendar",
+      "description": "An undated monthly and weekly calendar for campaigns, operations, content, follow-up, and everyday business deadlines.",
+      "related_faq_ids": [
+        "AI-050",
+        "BUS-012"
+      ],
+      "related_resource_ids": [
+        "RES-003",
+        "RES-014",
+        "RES-015"
+      ],
+      "category": "Business Operations",
+      "resource_type": "Calendar",
+      "status": "review_candidate",
+      "publication_status": "unpublished",
+      "access_model": "instant_access",
+      "public_url": "resources/business-calendar/",
+      "primary_format": "web",
+      "formats_available": [
+        {
+          "format": "web",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "fillable_pdf",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "printable_pdf",
+          "status": "built_review_candidate"
+        }
+      ],
+      "download_paths": {
+        "fillable_pdf": "assets/downloads/NINZ_Business_Calendar_Digital_v1.0.pdf",
+        "printable_pdf": "assets/downloads/NINZ_Business_Calendar_Print_v1.0.pdf"
+      },
+      "version": "1.0",
+      "last_reviewed": "2026-10-04",
+      "disclaimer": "General business education only. Adapt this tool to your business and verify important information before acting.",
+      "related_guide_ids": [
+        "learning-center"
+      ],
+      "related_article_status": "awaiting_verified_article",
+      "source_content_path": "content/free-resources-expansion.json",
+      "sections": [
+        {
+          "heading": "Monthly direction",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Use this calendar for execution planning. Refer to the Compliance Calendar for verified obligations."
+            }
+          ]
+        },
+        {
+          "heading": "Undated month at a glance",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Start with the correct weekday for the month. Put a date and short event label in each applicable cell."
+            }
+          ]
+        },
+        {
+          "heading": "Weekly priorities and schedule",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Choose work that fits the week. Copy this page for each week you need."
+            }
+          ]
+        },
+        {
+          "heading": "Execution details and month-end carry-forward",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Use the grid for timing and this page for the information someone needs to act."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "resource_id": "RES-017",
+      "title": "Small Business Bookkeeping Basics Organizer",
+      "slug": "small-business-bookkeeping-basics-organizer",
+      "description": "Organize bookkeeping setup, payment channels, record storage, recurring routines, and questions for a qualified professional.",
+      "related_faq_ids": [
+        "BUS-012",
+        "CREDIT-012",
+        "OPS-001",
+        "OPS-002",
+        "OPS-003",
+        "OPS-004",
+        "OPS-005",
+        "OPS-006",
+        "OPS-007"
+      ],
+      "related_resource_ids": [
+        "RES-002",
+        "RES-003",
+        "RES-004"
+      ],
+      "category": "Business Operations",
+      "resource_type": "Organizer",
+      "status": "review_candidate",
+      "publication_status": "unpublished",
+      "access_model": "instant_access",
+      "public_url": "resources/small-business-bookkeeping-basics-organizer/",
+      "primary_format": "web",
+      "formats_available": [
+        {
+          "format": "web",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "fillable_pdf",
+          "status": "built_review_candidate"
+        },
+        {
+          "format": "printable_pdf",
+          "status": "built_review_candidate"
+        }
+      ],
+      "download_paths": {
+        "fillable_pdf": "assets/downloads/NINZ_Small_Business_Bookkeeping_Basics_Organizer_Digital_v1.0.pdf",
+        "printable_pdf": "assets/downloads/NINZ_Small_Business_Bookkeeping_Basics_Organizer_Print_v1.0.pdf"
+      },
+      "version": "1.0",
+      "last_reviewed": "2026-10-04",
+      "disclaimer": "Educational organization only, not accounting, tax, legal, or individualized financial advice. Categories are examples, not deduction guidance. Ask a qualified bookkeeper, accountant, or tax professional about your records, accounting method, tax treatment, and retention requirements.",
+      "related_guide_ids": [
+        "learning-center",
+        "guide-small-business-bookkeeping-basics"
+      ],
+      "related_article_status": "article_prepared_working_branch",
+      "source_content_path": "content/free-resources-expansion.json",
+      "sections": [
+        {
+          "heading": "Bookkeeping setup",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Create a repeatable process for collecting records. Use account nicknames only."
+            }
+          ]
+        },
+        {
+          "heading": "Accounts and payment channels",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "List all places money is received, held, or paid. Names and record locations are enough."
+            }
+          ]
+        },
+        {
+          "heading": "Income and expense categories",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Choose consistent labels that fit your activity. Confirm classification and tax treatment with a professional."
+            }
+          ]
+        },
+        {
+          "heading": "Receipt storage and recurring routines",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Keep records findable and assign a realistic routine. A receipt alone may not explain the business purpose."
+            }
+          ]
+        },
+        {
+          "heading": "Month-end review",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "A bank balance alone is not a profit measure. Use your actual records and the help appropriate for your business."
+            }
+          ]
+        },
+        {
+          "heading": "Questions for your professional",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Use this page to prepare a focused conversation. Keep notes about the answer and the next step."
+            }
+          ]
         }
       ]
     }

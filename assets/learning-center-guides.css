@@ -1,0 +1,8 @@
+.guide-table-wrap{max-width:100%;overflow-x:auto;border:1px solid var(--line);border-radius:12px;padding:1rem;background:var(--white)}
+.guide-table-wrap:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
+.guide-table{width:100%;border-collapse:collapse;text-align:left}
+.guide-table caption{text-align:left;font-weight:700;margin-bottom:.75rem}
+.guide-table th,.guide-table td{padding:.7rem;border-bottom:1px solid var(--line);vertical-align:top}
+.guide-table th{font-weight:700}
+.guide-table tbody tr:last-child th,.guide-table tbody tr:last-child td{border-bottom:0}
+.learning-center-process .process-grid strong{color:inherit}
