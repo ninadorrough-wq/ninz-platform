@@ -1349,10 +1349,12 @@
         'DOR-002': ['Mississippi Department of Revenue', 'Taxpayer Access Point', 'https://tap.dor.ms.gov/', 'Interactive tax-registration destination.', 'official_search_index', 'manual_review_required'],
         'MDES-001': ['Mississippi Department of Employment Security', 'Register with Us', 'https://mdes.ms.gov/employers/register-with-us/'],
         'MDES-002': ['Mississippi Department of Employment Security', 'Access MS Tax', 'https://accessmstax.mdes.ms.gov/', 'Interactive UI portal.', 'official_search_index', 'manual_review_required'],
-        'MWCC-001': ['Mississippi Workers Compensation Commission', 'Workers Compensation Facts', 'https://www.mwcc.ms.gov/pdf/WCFacts2013.pdf', 'Dated 2013 agency publication; current statutory confirmation needed.', 'unresolved', 'manual_review_required']
+        'MWCC-001': ['Mississippi Workers Compensation Commission', 'Workers Compensation Facts', 'https://www.mwcc.ms.gov/pdf/WCFacts2013.pdf', 'Dated 2013 agency publication; current exclusion details need confirmation.', 'unresolved', 'manual_review_required'],
+        'COURT-001': ['Mississippi Court of Appeals', '2025 opinion applying section 71-3-5', 'https://courts.ms.gov/images/Opinions/CO188462.pdf', 'December 2025 opinion confirms the five-employee statutory trigger; does not settle all exceptions.', 'direct', 'reachable'],
+        'SOS-006': ['Mississippi Secretary of State', 'Business FAQs', 'https://www.sos.ms.gov/business-services/business-faqs', 'SOS explains current online filing menus and annual-report submission.', 'direct', 'reachable']
       }, {
         filing_authority: ['SOS-001', 'The Secretary of State handles Mississippi entity filings; select the correct form for domestic or foreign status.'],
-        official_business_portal: ['SOS-002', 'The business filing portal is the online SOS route; confirm the form and account steps there.'],
+        official_business_portal: ['SOS-006', 'Create or use a Business Services account; after login choose formation, foreign registration, annual reports or amendments under Business Filings.'],
         name_search: ['SOS-002', 'Confirm proposed name availability within the SOS system before filing.', 'unresolved/research-required'],
         state_registration: ['SOS-003', 'The SOS services-and-fees schedule lists a $50 Certificate of Formation for a Mississippi LLC and a $250 Application for Registration of a Foreign LLC. Select the correct entity filing in the SOS portal.'],
         tax_authority: ['DOR-001', 'The Department of Revenue administers applicable sales, use and other business tax accounts.'],
@@ -1360,11 +1362,11 @@
         licenses_permits: ['SOS-001', 'Check industry-specific state licensing and local permits; statewide general-license applicability remains unverified.', 'unresolved/research-required'],
         employer_registration: ['MDES-001', 'MDES separates employment-service registration from the business registration used for UI tax reporting and payment.'],
         unemployment_insurance: ['MDES-002', 'Use the MDES new-business tax registration route for unemployment tax when applicable; confirm liability categories.', 'unresolved/research-required'],
-        workers_compensation: ['MWCC-001', 'The dated Commission summary discusses a five-worker threshold and exceptions, but current law and covered-employee counting need confirmation.', 'unresolved/research-required'],
+        workers_compensation: ['COURT-001', 'Section 71-3-5 applies to an employer with five or more regularly employed workers, as confirmed in a December 2025 Court of Appeals opinion. Determine employee counting and statutory exceptions for the actual operation before relying on a coverage conclusion.', 'VERIFIED', ['MWCC-001']],
         ongoing_reporting: ['SOS-004', 'For-profit corporation and LLC annual reports are due April 15, nonprofit reports May 15; reports are filed online. The SOS fee schedule lists no fee for a Mississippi LLC report and $250 for a foreign LLC report.', 'VERIFIED', ['SOS-003']],
         registered_agent: ['SOS-005', 'A noncommercial registered agent must have a physical Mississippi address and consent to serve; a commercial registered agent follows a separate registration process. Confirm the selected agent in the filing portal.'],
         trade_name: ['SOS-003', 'The SOS fee schedule lists Fictitious Business Name Registration at $25. Confirm whether the proposed name and entity require or elect this filing before relying on it.', 'unresolved/research-required']
-      }, ['Confirm workers compensation threshold and exclusions using current Commission or statutory guidance; the available facts PDF is dated 2013.', 'Confirm current fictitious-name applicability; the $25 fee is verified.', 'Verify activity-specific licensing for the proposed business.', 'Confirm any account-only SOS, TAP or MDES form essential to the selected filing.', 'Complete a genuine mobile-width visual and keyboard review.']),
+      }, ['Confirm workers-compensation exclusions and employee counting for the proposed operation using current law or Commission guidance.', 'Confirm current fictitious-name applicability; the $25 fee is verified.', 'Verify activity-specific licensing for the proposed business.', 'Confirm any account-only TAP or MDES form essential to the selected filing.', 'Complete a genuine mobile-width visual and keyboard review.']),
       {
         "state": "Missouri",
         "state_code": "MO",
@@ -1733,9 +1735,12 @@
       },
       { state: "Montana", state_code: "MT", slug: "montana", publication_status: "coming_soon", public_url: "" },
       stagedState('Nebraska', 'NE', 'nebraska', {
-        'SOS-001': ['Nebraska Secretary of State', 'Business Startups', 'https://www.sos.ne.gov/business/corp_serv/businessstartups.html', 'Official indexed page; direct fetch timed out.', 'official_search_index', 'access_blocked'],
-        'SOS-002': ['Nebraska Secretary of State', 'Corporate and Business Forms', 'https://www.sos.ne.gov/business/corp_serv/corp_form.html', 'Fee schedule needs direct current recheck.', 'official_search_index', 'manual_review_required'],
-        'SOS-003': ['Nebraska Secretary of State', 'Annual and Biennial Reporting', 'https://www.sos.ne.gov/business/corp_serv/annual-biennial-reporting.html', 'Official indexed page; direct content confirmation pending.', 'official_search_index', 'access_blocked'],
+        'SOS-001': ['Nebraska Secretary of State', 'New Business Information', 'https://sos.nebraska.gov/business-services/new-business-information'],
+        'SOS-002': ['Nebraska Secretary of State', 'Forms and Fee Information', 'https://sos.nebraska.gov/business-services/forms-and-fee-information'],
+        'SOS-003': ['Nebraska Secretary of State', 'Annual and Biennial Reporting', 'https://sos.nebraska.gov/business-services/annual-biennial-reporting'],
+        'SOS-004': ['Nebraska Secretary of State', 'Corporate Document eDelivery', 'https://www.nebraska.gov/apps-sos-edocs/'],
+        'SOS-005': ['Nebraska Secretary of State', 'Corporate and Business Search', 'https://www.nebraska.gov/sos/corp/corpsearch.cgi', 'Public search has reCAPTCHA; formal name availability is requested in writing.', 'direct', 'manual_review_required'],
+        'SOS-006': ['Nebraska Secretary of State', 'Name Procedures', 'https://sos.nebraska.gov/business-services/name-procedures'],
         'DOR-001': ['Nebraska Department of Revenue', 'Register Your New Business Online', 'https://revenue.nebraska.gov/businesses/register-your-new-business-online'],
         'DOR-002': ['Nebraska Department of Revenue', 'Starting a Business in Nebraska', 'https://revenue.nebraska.gov/businesses/starting-business-nebraska'],
         'DOL-001': ['Nebraska Department of Labor', 'Employer Resources', 'https://dol.nebraska.gov/UIBenefits/EmployerResources/NEworksEmployerResources', 'Agency specifies UI tax account application in NEworks.', 'direct', 'reachable'],
@@ -1749,9 +1754,9 @@
         'WCC-001': ['Nebraska Workers Compensation Court', 'Employer FAQ', 'https://www.newcc.gov/employers/employer-frequently-asked-questions']
       }, {
         filing_authority: ['SOS-001', 'The SOS startup guidance distinguishes entity filings; confirm domestic versus foreign structure.'],
-        official_business_portal: ['SOS-001', 'Start with the SOS business-startup instructions and the applicable entity form.'],
-        name_search: ['SOS-001', 'Check name availability with SOS before submitting the entity filing.', 'unresolved/research-required'],
-        state_registration: ['LAW-001', 'A Nebraska domestic LLC files a certificate of organization; a foreign LLC applies for a certificate of authority. The statute sets $100 electronically or $110 in writing for either filing, plus $10 for a certificate. Confirm the exact form in the SOS filing system.'],
+        official_business_portal: ['SOS-004', 'Use the SOS document eDelivery service to select forming a new entity, qualifying a foreign entity, registering a trade name or filing for an existing entity; upload the selected document. The announced replacement filing system is scheduled for December 2026.', 'VERIFIED', ['SOS-002']],
+        name_search: ['SOS-005', 'Use the public search for registered records, but request a formal name-availability check in writing from the SOS at sos.corp@nebraska.gov, by fax or by mail. The public search alone does not determine availability.', 'VERIFIED', ['SOS-006']],
+        state_registration: ['SOS-002', 'A Nebraska domestic LLC files a Certificate of Organization; a foreign LLC applies for a Certificate of Authority. The SOS lists $100 online or $110 in office for either filing and a $10 certificate charge for the foreign authority; statute 21-192 also specifies $10 for a certificate. Select the listed form and submit it through document eDelivery.', 'VERIFIED', ['LAW-001', 'SOS-004']],
         tax_authority: ['DOR-002', 'The Department of Revenue lists the state tax accounts that may apply to a new business.'],
         tax_registration: ['DOR-001', 'Use the Department of Revenue online new-business registration for applicable tax accounts.'],
         licenses_permits: ['SOS-001', 'Identify regulated activities and local permits separately; the statewide general-license conclusion is unverified.', 'unresolved/research-required'],
@@ -1761,7 +1766,7 @@
         ongoing_reporting: ['LAW-002', 'Domestic and authorized foreign LLCs file a biennial report between January 1 and April 1 in odd-numbered years, beginning in the odd year after formation or authority. The general LLC filing fee is $25 electronically or $30 in writing under section 21-192.', 'VERIFIED', ['LAW-001']],
         registered_agent: ['LAW-004', 'A Nebraska LLC continuously maintains an in-state office and an agent for service of process; a foreign LLC with authority maintains an in-state agent. The agent must be a Nebraska resident individual or a person authorized to transact business in Nebraska.'],
         trade_name: ['LAW-003', 'A person adopting a Nebraska trade name may register it with the SOS; the statutory application fee is $100 electronically or $110 in writing. Review the form for the proposed name and applicant.']
-      }, ['Confirm exact SOS name-search and selected LLC/trade-name filing routes; the SOS pages still fail direct retrieval.', 'Confirm any registration timing or special UI category that the agency application does not explain.', 'Verify activity-specific licenses for the proposed business.', 'Complete a genuine mobile-width visual and keyboard review.']),
+      }, ['Confirm any registration timing or special UI category that the agency application does not explain.', 'Verify activity-specific licenses for the proposed business.', 'Complete a genuine mobile-width visual and keyboard review.']),
       { state: "Nevada", state_code: "NV", slug: "nevada", publication_status: "coming_soon", public_url: "" },
       { state: "New Hampshire", state_code: "NH", slug: "new-hampshire", publication_status: "coming_soon", public_url: "" },
       { state: "New Jersey", state_code: "NJ", slug: "new-jersey", publication_status: "coming_soon", public_url: "" },
@@ -1775,12 +1780,15 @@
         'DWS-002': ['New Mexico Department of Workforce Solutions', 'Employer UI Tax Registration', 'https://ui.dws.state.nm.us/Employer/Core/Navigate.aspx?Go=Revenue.Registration.EmployerRegistration', 'Agency registration destination; an account is required for submission.', 'official_search_index', 'manual_review_required'],
         'WCA-002': ['New Mexico Workers Compensation Administration', 'Frequently Asked Questions', 'https://www.workerscomp.nm.gov/faqs/'],
         'WCA-001': ['New Mexico Workers Compensation Administration', 'Employer Compliance', 'https://www.workerscomp.nm.gov/bureaus/employer-compliance/'],
-        'SOS-004': ['New Mexico Secretary of State', 'Business Search', 'https://enterprise.sos.nm.gov/business-search', 'Interactive destination requires manual confirmation.', 'official_search_index', 'manual_review_required']
+        'SOS-004': ['New Mexico Secretary of State', 'Business Search', 'https://enterprise.sos.nm.gov/business-search', 'Interactive search; SOS filing guide describes the name/Business ID lookup.', 'official_search_index', 'manual_review_required'],
+        'SOS-005': ['New Mexico Secretary of State', 'Business Online Filing Help (December 2024)', 'https://www.sos.nm.gov/business-services/user-guides/', 'SOS user-guide page links the official filing manual; form-specific fees appear in Enterprise descriptions.', 'direct', 'reachable'],
+        'RULE-001': ['New Mexico State Records Center and Archives', '12.3.4.11–12 NMAC, LLC filings and agents', 'https://www.srca.nm.gov/parts/title12/12.003.0004.html', 'Official administrative rule identifies domestic articles, foreign registration and registered agent/office; legacy references to the commission do not override current SOS online process.', 'direct', 'reachable'],
+        'SOS-006': ['New Mexico Secretary of State', 'Business resources and fictitious-name form', 'https://www.sos.nm.gov/business-services/resources/', 'Linked fictitious-name PDF is a corporation resolution for an unavailable corporate name; it is not a general LLC DBA application.', 'direct', 'reachable']
       }, {
         filing_authority: ['SOS-001', 'The SOS now requires online business filings; paper business applications are no longer accepted.'],
-        official_business_portal: ['SOS-002', 'Create or use an Enterprise account and select Forms for business filings.'],
-        name_search: ['SOS-004', 'Confirm proposed entity-name availability in the SOS search before filing.', 'unresolved/research-required'],
-        state_registration: ['SOS-003', 'Use the current online entity-specific business form; the exact domestic and foreign LLC fees remain to be substantiated.', 'unresolved/research-required'],
+        official_business_portal: ['SOS-005', 'In SOS Enterprise, sign in, choose Forms, then Business and the entity type, and select File Online. Upload the required registered-agent acceptance PDF; the form description displays its filing fee and the My Business Work Queue tracks review.'],
+        name_search: ['SOS-005', 'Use the Enterprise Business Search to inspect the proposed entity name or Business ID; the agency evaluates the actual application after submission.', 'VERIFIED', ['SOS-004']],
+        state_registration: ['RULE-001', 'A domestic LLC files Articles of Organization and a foreign LLC files for registration before transacting business. The Enterprise form index lists the domestic and foreign LLC forms; confirm each current fee in its form description before filing.', 'unresolved/research-required', ['SOS-003', 'SOS-005']],
         tax_authority: ['TRD-001', 'Businesses meeting New Mexico registration criteria must obtain a Business Tax Identification Number; check tax types and applicability.'],
         tax_registration: ['TRD-002', 'Use the Taxation and Revenue online services for applicable business tax registration; the Business Tax ID application is free.'],
         licenses_permits: ['SOS-001', 'Check professional, activity and local permits; statewide general-license applicability has not been conclusively verified.', 'unresolved/research-required'],
@@ -1788,9 +1796,9 @@
         unemployment_insurance: ['DWS-002', 'New employers subject to UI tax register through the DWS Unemployment Insurance Tax Self-Service System. The official employer registration page creates an Employer Account Number; determine liability and any special category using agency instructions.'],
         workers_compensation: ['WCA-002', 'Coverage generally applies at three or more workers and to licensed construction activities regardless of headcount. The WCA counts part-time, seasonal and paid family workers; executive owners may elect exclusion from their own coverage but still count toward the three-worker threshold. Confirm the entity and activity-specific exceptions.'],
         ongoing_reporting: ['SOS-003', 'Check entity-specific ongoing reports and deadlines in the current online forms; do not assume a universal LLC annual report.', 'unresolved/research-required'],
-        registered_agent: ['SOS-003', 'Confirm agent and office requirements in the current online entity filing.', 'unresolved/research-required'],
-        trade_name: ['SOS-003', 'Confirm whether and where an assumed or trade name must be filed for this entity.', 'unresolved/research-required']
-      }, ['Substantiate current SOS entity-specific LLC fees, reporting and trade-name obligations from primary instructions.', 'Confirm the precise Enterprise search and filing form for the selected entity.', 'Confirm any remaining workers-compensation exception for the proposed activity.', 'Verify activity-specific licenses and any account-only tax step essential to the proposed business.', 'Complete a genuine mobile-width visual and keyboard review.']),
+        registered_agent: ['RULE-001', 'Domestic and foreign LLCs continuously maintain a New Mexico registered agent and office; upload the agent Statement of Acceptance PDF with the Enterprise application.', 'VERIFIED', ['SOS-005']],
+        trade_name: ['SOS-006', 'The SOS resources page links a fictitious-name resolution for a corporation whose true name was rejected; that form does not establish an LLC trade-name filing. Confirm the rule and authority for the proposed LLC name.', 'unresolved/research-required']
+      }, ['Confirm the domestic and foreign LLC fees shown in current Enterprise form descriptions, and any recurring LLC report.', 'Confirm the current trade-name rule and filing authority for the proposed name.', 'Confirm any remaining workers-compensation exception for the proposed activity.', 'Verify activity-specific licenses and any account-only tax step essential to the proposed business.', 'Complete a genuine mobile-width visual and keyboard review.']),
       { state: "New York", state_code: "NY", slug: "new-york", publication_status: "coming_soon", public_url: "" },
       { state: "North Carolina", state_code: "NC", slug: "north-carolina", publication_status: "coming_soon", public_url: "" },
       { state: "North Dakota", state_code: "ND", slug: "north-dakota", publication_status: "coming_soon", public_url: "" },

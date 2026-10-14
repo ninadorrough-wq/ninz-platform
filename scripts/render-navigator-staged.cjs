@@ -9,11 +9,11 @@ const portalReviewNotes = {
   KS: 'KDOL employer-account and workers-compensation pages block automated review. Confirm their current instructions and destinations directly with KDOL.',
   MO: 'The SOS reporting entry point requires account interaction. Confirm the report type and any biennial election for the actual entity in the filing flow.',
   CO: 'MyBizColorado and CDLE employer paths require direct review. Confirm the tax, UI, FAMLI and new-hire destinations for the actual employer category.',
-  NM: 'The SOS Enterprise filing and name-search screens are interactive. Confirm the exact entity forms, fees and account paths there; the public DWS employer-registration destination is identified.',
+  NM: 'The SOS filing guide identifies the Enterprise Forms > Business > entity type path and registered-agent acceptance upload. Confirm current LLC fees in the form descriptions and any report or trade-name filing applicable to the selected entity; the linked fictitious-name resolution is corporation-specific.',
   LA: 'GeauxBiz and LaTAP require interactive account review; the SOS name search uses a challenge. Confirm the applicable forms and filing path without relying on URL availability alone.',
-  NE: 'SOS pages timed out in automated review. Current statutes establish the LLC and trade-name base fees, while DOL identifies NEworks for UI tax; confirm the exact SOS forms and submission screens.',
+  NE: 'The SOS lists the LLC and trade-name forms and document eDelivery destination. A public entity search does not determine name availability; request an SOS written check. NEworks is the DOL UI-tax route.',
   IA: 'Fast Track Filing, GovConnectIowa and myIowaUI require account interaction. Confirm the entity-specific filing and tax or UI paths in those systems.',
-  MS: 'The SOS business filing, TAP and MDES account routes require interactive review. The SOS fee schedule establishes the listed fees; confirm the applicable form and unresolved name or coverage rules.'
+  MS: 'The SOS explains its account filing menu and publishes the fee schedule. The five-worker statutory trigger is confirmed by a 2025 court opinion; determine statutory exclusions and current fictitious-name applicability for the proposed operation.'
 };
 const formattedDate = value => new Date(`${value}T12:00:00Z`).toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' });
 const escape = value => String(value).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
