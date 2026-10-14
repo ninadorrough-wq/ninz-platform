@@ -72,7 +72,7 @@ test('verified requirements have substantive official evidence, with link access
     const sources = new Map(s.official_sources.map(x => [x.source_id, x]));
     for (const source of sources.values()) {
       const host = new URL(source.url).hostname;
-      assert.ok(host.endsWith('.gov') || host.endsWith('.state.tx.us') || host.endsWith('.state.co.us') || host === 'www.dws.state.nm.us' || host.endsWith('.laworks.net') || host === 'content.govdelivery.com', host);
+      assert.ok(host.endsWith('.gov') || host.endsWith('.state.tx.us') || host.endsWith('.state.co.us') || ['www.dws.state.nm.us', 'ui.dws.state.nm.us'].includes(host) || host.endsWith('.laworks.net') || host === 'content.govdelivery.com', host);
       assert.ok(!/nxt-|\.test\.|\.dev\./.test(host), 'development mirrors are not authority');
       assert.ok(['reachable', 'access_blocked', 'manual_review_required'].includes(source.link_status));
     }
@@ -140,7 +140,7 @@ test('review guides use evidence-linked state content, shared EIN and noindex me
     assert.match(html, /<html lang="en">/);
     assert.match(html, /Skip to content/);
     assert.equal((html.match(/class="guide-step"/g) || []).length, 12);
-    assert.match(html, /Research required/);
+    assert.match(html, /Activation blockers/);
     assert.ok(!html.includes(`https://ninz.me/business-registration/${s.slug}/`));
     assert.ok(!html.includes('rel="canonical"'));
     for (const field of fields) {
