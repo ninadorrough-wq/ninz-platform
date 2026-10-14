@@ -2,15 +2,15 @@
   "use strict";
 
   // Review-only records share one evidence/section shape. This never sets a public URL.
-  function stagedState(state, code, slug, sources, sections, unresolved) {
-    const official_sources = Object.entries(sources).map(([key, [authority, title, url, note = '', method = 'direct', link = 'reachable']]) => ({
-      source_id: `${code}-${key}`, authority, title, url, last_checked: '2026-10-13',
+  function stagedState(state, code, slug, sources, sections, unresolved, reviewDate = '2026-10-13') {
+    const official_sources = Object.entries(sources).map(([key, [authority, title, url, note = '', method = 'direct', link = 'reachable', checked = '2026-10-13']]) => ({
+      source_id: `${code}-${key}`, authority, title, url, last_checked: checked,
       evidence_method: method, evidence_note: note, link_status: link
     }));
     const record = {
       state, state_code: code, slug, publication_status: 'coming_soon', public_url: '',
       staging_status: 'review_draft_prepared', ein_module: 'ein', official_sources,
-      last_verified: '2026-10-13', next_scheduled_review: '2027-01-13',
+      last_verified: reviewDate, next_scheduled_review: '2027-01-13',
       verification_status: 'research_required',
       verification_scope: 'Only individually sourced claims are reviewed; unresolved items prevent activation.',
       unresolved_items: [...unresolved, 'Complete desktop/mobile browser, keyboard and visual accessibility review before activation.'],
@@ -1773,7 +1773,7 @@
       stagedState('New Mexico', 'NM', 'new-mexico', {
         'SOS-001': ['New Mexico Secretary of State', 'Business Services', 'https://www.sos.nm.gov/business-services/'],
         'SOS-002': ['New Mexico Secretary of State', 'Enterprise Business Portal', 'https://enterprise.sos.nm.gov/', 'Interactive online-only forms.', 'official_search_index', 'manual_review_required'],
-        'SOS-003': ['New Mexico Secretary of State', 'Business Forms', 'https://enterprise.sos.nm.gov/forms/business/', 'Interactive forms; exact fees need confirmation.', 'official_search_index', 'manual_review_required'],
+        'SOS-003': ['New Mexico Secretary of State', 'Enterprise Business Forms', 'https://enterprise.sos.nm.gov/forms/business/', 'Current public form descriptions display a $50 nonrefundable fee for Domestic LLC Articles of Organization and $100 for Foreign LLC Certificate of Registration; filing itself requires login.', 'direct', 'reachable', '2026-10-14'],
         'TRD-001': ['New Mexico Taxation and Revenue Department', 'Who Must Register a Business?', 'https://www.tax.newmexico.gov/businesses/who-must-register-a-business/'],
         'TRD-002': ['New Mexico Taxation and Revenue Department', 'Online Services', 'https://www.tax.newmexico.gov/online-services/'],
         'DWS-001': ['New Mexico Department of Workforce Solutions', 'UI Tax Information', 'https://www.dws.state.nm.us/UI-Tax-Information', 'Agency blocks automated content review; employer account route needs manual confirmation.', 'official_search_index', 'access_blocked'],
@@ -1788,7 +1788,7 @@
         filing_authority: ['SOS-001', 'The SOS now requires online business filings; paper business applications are no longer accepted.'],
         official_business_portal: ['SOS-005', 'In SOS Enterprise, sign in, choose Forms, then Business and the entity type, and select File Online. Upload the required registered-agent acceptance PDF; the form description displays its filing fee and the My Business Work Queue tracks review.'],
         name_search: ['SOS-005', 'Use the Enterprise Business Search to inspect the proposed entity name or Business ID; the agency evaluates the actual application after submission.', 'VERIFIED', ['SOS-004']],
-        state_registration: ['RULE-001', 'A domestic LLC files Articles of Organization and a foreign LLC files for registration before transacting business. The Enterprise form index lists the domestic and foreign LLC forms; confirm each current fee in its form description before filing.', 'unresolved/research-required', ['SOS-003', 'SOS-005']],
+        state_registration: ['SOS-003', 'A domestic LLC files Articles of Organization ($50 nonrefundable application fee); a foreign LLC files a Certificate of Registration ($100 nonrefundable application fee) before transacting business. These amounts appear in the current public Enterprise form descriptions; review the selected form before payment.', 'VERIFIED', ['RULE-001', 'SOS-005']],
         tax_authority: ['TRD-001', 'Businesses meeting New Mexico registration criteria must obtain a Business Tax Identification Number; check tax types and applicability.'],
         tax_registration: ['TRD-002', 'Use the Taxation and Revenue online services for applicable business tax registration; the Business Tax ID application is free.'],
         licenses_permits: ['SOS-001', 'Check professional, activity and local permits; statewide general-license applicability has not been conclusively verified.', 'unresolved/research-required'],
@@ -1798,7 +1798,7 @@
         ongoing_reporting: ['SOS-003', 'Check entity-specific ongoing reports and deadlines in the current online forms; do not assume a universal LLC annual report.', 'unresolved/research-required'],
         registered_agent: ['RULE-001', 'Domestic and foreign LLCs continuously maintain a New Mexico registered agent and office; upload the agent Statement of Acceptance PDF with the Enterprise application.', 'VERIFIED', ['SOS-005']],
         trade_name: ['SOS-006', 'The SOS resources page links a fictitious-name resolution for a corporation whose true name was rejected; that form does not establish an LLC trade-name filing. Confirm the rule and authority for the proposed LLC name.', 'unresolved/research-required']
-      }, ['Confirm the domestic and foreign LLC fees shown in current Enterprise form descriptions, and any recurring LLC report.', 'Confirm the current trade-name rule and filing authority for the proposed name.', 'Confirm any remaining workers-compensation exception for the proposed activity.', 'Verify activity-specific licenses and any account-only tax step essential to the proposed business.', 'Complete a genuine mobile-width visual and keyboard review.']),
+      }, ['Confirm whether a domestic or foreign LLC has any recurring SOS report and its deadline.', 'Confirm the current trade-name rule and filing authority for the proposed LLC name.', 'Confirm any remaining workers-compensation exception for the proposed activity.', 'Verify activity-specific licenses and any account-only tax step essential to the proposed business.', 'Complete a genuine mobile-width visual and keyboard review.'], '2026-10-14'),
       { state: "New York", state_code: "NY", slug: "new-york", publication_status: "coming_soon", public_url: "" },
       { state: "North Carolina", state_code: "NC", slug: "north-carolina", publication_status: "coming_soon", public_url: "" },
       { state: "North Dakota", state_code: "ND", slug: "north-dakota", publication_status: "coming_soon", public_url: "" },

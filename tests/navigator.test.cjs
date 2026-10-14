@@ -30,7 +30,7 @@ for (const code of cohort) {
     const s = data.states.find(s => s.state_code === code);
     assert.equal(s.ein_module, 'ein');
     assert.ok(s.local_requirements_note);
-    assert.equal(s.last_verified, original.includes(code) ? '2026-10-04' : '2026-10-13');
+    assert.equal(s.last_verified, code === 'NM' ? '2026-10-14' : original.includes(code) ? '2026-10-04' : '2026-10-13');
     assert.equal(s.next_scheduled_review, original.includes(code) ? '2027-01-02' : '2027-01-13');
     const sources = new Map((s.official_sources || []).map(x => [x.source_id, x]));
     assert.ok(sources.size >= 8, 'material requirements need a source register');
@@ -47,7 +47,7 @@ for (const code of cohort) {
       }
     }
     for (const source of sources.values()) {
-      assert.equal(source.last_checked, source.source_id === 'TX-TWC-001' || expansion.includes(code) || /^(AR-SOS-011|CO-DOR-00[34]|CO-CHILD-001|MO-SOS-00[56])$/.test(source.source_id) ? '2026-10-13' : '2026-10-04');
+      assert.equal(source.last_checked, source.source_id === 'NM-SOS-003' ? '2026-10-14' : source.source_id === 'TX-TWC-001' || expansion.includes(code) || /^(AR-SOS-011|CO-DOR-00[34]|CO-CHILD-001|MO-SOS-00[56])$/.test(source.source_id) ? '2026-10-13' : '2026-10-04');
       assert.ok(['direct', 'official_search_index', 'unresolved'].includes(source.evidence_method));
     }
     if (s.licenses_permits.statewide_general_license === null) {
