@@ -5,15 +5,15 @@ const vm = require('node:vm');
 const root = path.resolve(__dirname, '..');
 const cohort = ['TX', 'KS', 'AR', 'MO', 'CO', 'NM', 'LA', 'NE', 'IA', 'MS'];
 const portalReviewNotes = {
-  TX: 'TWC presents an access challenge in automated review. A reviewer must inspect its employer-registration instructions in a normal browser before this guide can be published.',
+  TX: 'TWC presents an access challenge in automated review. Its public registration rule and destination are sourced; confirm an account-only step if the selected employer category requires it.',
   KS: 'KDOL employer-account and workers-compensation pages block automated review. Confirm their current instructions and destinations directly with KDOL.',
   MO: 'The SOS reporting entry point requires account interaction. Confirm the report type and any biennial election for the actual entity in the filing flow.',
   CO: 'MyBizColorado and CDLE employer paths require direct review. Confirm the tax, UI, FAMLI and new-hire destinations for the actual employer category.',
-  NM: 'The SOS Enterprise filing and name-search screens are interactive. Confirm the exact entity forms and account paths there and verify the DWS employer route.',
+  NM: 'The SOS Enterprise filing and name-search screens are interactive. Confirm the exact entity forms, fees and account paths there; the public DWS employer-registration destination is identified.',
   LA: 'GeauxBiz and LaTAP require interactive account review; the SOS name search uses a challenge. Confirm the applicable forms and filing path without relying on URL availability alone.',
-  NE: 'SOS pages timed out in automated review. Confirm the current forms and fees there, and reconcile the DOL employer account destination between UI Connect and NEworks.',
+  NE: 'SOS pages timed out in automated review. Current statutes establish the LLC and trade-name base fees, while DOL identifies NEworks for UI tax; confirm the exact SOS forms and submission screens.',
   IA: 'Fast Track Filing, GovConnectIowa and myIowaUI require account interaction. Confirm the entity-specific filing and tax or UI paths in those systems.',
-  MS: 'The SOS business filing, TAP and MDES account routes require interactive review. Confirm current fees and the applicable form within the official filing flow.'
+  MS: 'The SOS business filing, TAP and MDES account routes require interactive review. The SOS fee schedule establishes the listed fees; confirm the applicable form and unresolved name or coverage rules.'
 };
 const formattedDate = value => new Date(`${value}T12:00:00Z`).toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' });
 const escape = value => String(value).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);

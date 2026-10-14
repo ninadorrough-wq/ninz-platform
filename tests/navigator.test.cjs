@@ -162,6 +162,15 @@ test('review guides use evidence-linked state content, shared EIN and noindex me
   assert.match(mo, /LLCs do not file an SOS annual report/);
 });
 
+test('committed review artifacts match the current state evidence', () => {
+  const { renderGuide } = require('../scripts/render-navigator-staged.cjs');
+  for (const code of cohort) {
+    const state = data.states.find(s => s.state_code === code);
+    const staged = fs.readFileSync(path.join(root, 'staging/business-registration', state.slug, 'index.html'), 'utf8');
+    assert.equal(staged, renderGuide(state, data.federal_modules[state.ein_module]), `${code} review draft is stale`);
+  }
+});
+
 test('the publish build excludes staged routes and strips unpublished details', t => {
   const { buildPublic } = require('../scripts/build-public.cjs');
   const os = require('node:os');
