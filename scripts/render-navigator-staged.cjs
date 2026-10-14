@@ -9,7 +9,7 @@ const portalReviewNotes = {
   KS: 'KDOL employer-account and workers-compensation pages block automated review. Confirm their current instructions and destinations directly with KDOL.',
   MO: 'The SOS reporting entry point requires account interaction. Confirm the report type and any biennial election for the actual entity in the filing flow.',
   CO: 'MyBizColorado and CDLE employer paths require direct review. Confirm the tax, UI, FAMLI and new-hire destinations for the actual employer category.',
-  NM: 'The SOS filing guide identifies the Enterprise Forms > Business > entity type path and registered-agent acceptance upload. Confirm current LLC fees in the form descriptions and any report or trade-name filing applicable to the selected entity; the linked fictitious-name resolution is corporation-specific.',
+  NM: 'The SOS filing guide identifies the Enterprise Forms > Business > entity type path and registered-agent acceptance upload. The public form descriptions show $50 domestic and $100 foreign LLC filing fees; confirm any recurring report or LLC trade-name filing applicable to the selected entity. The linked fictitious-name resolution is corporation-specific.',
   LA: 'GeauxBiz and LaTAP require interactive account review; the SOS name search uses a challenge. Confirm the applicable forms and filing path without relying on URL availability alone.',
   NE: 'The SOS lists the LLC and trade-name forms and document eDelivery destination. A public entity search does not determine name availability; request an SOS written check. NEworks is the DOL UI-tax route.',
   IA: 'Fast Track Filing, GovConnectIowa and myIowaUI require account interaction. Confirm the entity-specific filing and tax or UI paths in those systems.',
