@@ -13,7 +13,7 @@ const portalReviewNotes = {
   LA: 'GeauxBiz and LaTAP require interactive account review; the SOS name search uses a challenge. Confirm the applicable forms and filing path without relying on URL availability alone.',
   NE: 'The SOS lists the LLC and trade-name forms and document eDelivery destination. A public entity search does not determine name availability; request an SOS written check. NEworks is the DOL UI-tax route.',
   IA: 'Fast Track Filing, GovConnectIowa and myIowaUI require account interaction. Confirm the entity-specific filing and tax or UI paths in those systems.',
-  MS: 'The SOS explains its account filing menu and publishes the fee schedule. The five-worker statutory trigger is confirmed by a 2025 court opinion; determine statutory exclusions and current fictitious-name applicability for the proposed operation.'
+  MS: 'The SOS explains its account filing menu and publishes the fee schedule. Current section 71-3-5 text confirms the general coverage rule and statutory categories; determine their applicability to the proposed operation and confirm current fictitious-name treatment separately.'
 };
 const formattedDate = value => new Date(`${value}T12:00:00Z`).toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' });
 const escape = value => String(value).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
