@@ -1,0 +1,87 @@
+{
+  "checked_date": "2026-10-13",
+  "scope": "HTML semantics, accessible names, internal assets/links, IDs/ARIA, metadata and structured data",
+  "browser_visual_keyboard_contrast_review": "NOT COMPLETED \u2014 Chromium executable unavailable; download failed",
+  "results": [
+    {
+      "state": "texas",
+      "file": "staging/business-registration/texas/index.html",
+      "elements": 341,
+      "links": 94,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "kansas",
+      "file": "staging/business-registration/kansas/index.html",
+      "elements": 346,
+      "links": 93,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "arkansas",
+      "file": "staging/business-registration/arkansas/index.html",
+      "elements": 354,
+      "links": 100,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "missouri",
+      "file": "staging/business-registration/missouri/index.html",
+      "elements": 336,
+      "links": 91,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "colorado",
+      "file": "staging/business-registration/colorado/index.html",
+      "elements": 352,
+      "links": 93,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "new-mexico",
+      "file": "staging/business-registration/new-mexico/index.html",
+      "elements": 312,
+      "links": 80,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "louisiana",
+      "file": "staging/business-registration/louisiana/index.html",
+      "elements": 313,
+      "links": 82,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "nebraska",
+      "file": "staging/business-registration/nebraska/index.html",
+      "elements": 314,
+      "links": 81,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "iowa",
+      "file": "staging/business-registration/iowa/index.html",
+      "elements": 310,
+      "links": 81,
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "state": "mississippi",
+      "file": "staging/business-registration/mississippi/index.html",
+      "elements": 317,
+      "links": 82,
+      "status": "PASS",
+      "errors": []
+    }
+  ]
+}

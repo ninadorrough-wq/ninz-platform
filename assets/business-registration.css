@@ -166,7 +166,7 @@
 
 .state-card.is-published .state-status {
   background: var(--gold);
-  color: var(--charcoal);
+  color: #1E1E1E;
 }
 
 .navigator-notice {
@@ -186,6 +186,8 @@
   color: var(--soft-gray);
   font-size: .92rem;
 }
+
+.navigator-hero .verification-line { color: #eee; }
 
 .guide-intro-grid {
   display: grid;
