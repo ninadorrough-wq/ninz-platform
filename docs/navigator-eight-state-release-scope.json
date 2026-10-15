@@ -1,0 +1,16 @@
+{
+  "source_pr": 3,
+  "source_head": "5cfa630da761a309421da2b5c1ce879fa3d7291d",
+  "phase_1": [
+    "texas",
+    "kansas",
+    "arkansas",
+    "missouri",
+    "colorado",
+    "louisiana",
+    "nebraska",
+    "iowa"
+  ],
+  "phase_2": ["new-mexico", "mississippi"],
+  "activation_authorized": false
+}
