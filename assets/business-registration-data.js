@@ -812,7 +812,7 @@
               "status": "VERIFIED"
             },
             {
-              "text": "The official January 2026 FAMLI bulletin directs employers with Colorado employees, including employers with approved private plans, to update annual employee headcount in My FAMLI+ Employer and post/distribute the required program notice. FAMLI is a separate employer program; verify registration applicability and private-plan/local-government rules with FAMLI before activation.",
+              "text": "The official January 2026 FAMLI bulletin directs employers with Colorado employees, including employers with approved private plans, to update annual employee headcount in My FAMLI+ Employer and post/distribute the required program notice. FAMLI is a separate employer program; verify registration applicability and private-plan/local-government rules for the actual employer category.",
               "source_ids": [
                 "CO-FAMLI-001"
               ],
@@ -2312,4 +2312,13 @@
       { state: "Wyoming", state_code: "WY", slug: "wyoming", publication_status: "coming_soon", public_url: "" }
     ]
   };
+  // Phase 1 release candidate only. Production changes only after a separate merge/deployment approval.
+  const phaseOne = new Set(['TX', 'KS', 'AR', 'MO', 'CO', 'LA', 'NE', 'IA']);
+  for (const state of window.NINZ_BUSINESS_REGISTRATION.states) {
+    if (!phaseOne.has(state.state_code)) continue;
+    state.publication_status = 'published';
+    state.public_url = `/business-registration/${state.slug}/`;
+    state.verification_status = 'general_guidance_verified';
+    state.verification_scope = 'General educational claims reviewed; business-specific conditions remain.';
+  }
 }());

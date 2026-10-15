@@ -48,7 +48,7 @@
     });
 
     if (!normalize(query)) {
-      setStatus("50 states shown. Oklahoma is currently available.");
+      setStatus("50 states shown. Nine guides are currently available.");
     } else if (matches.length === 0) {
       setStatus("No states match your search. Try a full state name or two-letter state code.");
     } else {

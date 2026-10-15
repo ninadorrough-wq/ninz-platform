@@ -28,8 +28,11 @@ function buildPublic(sourceRoot, outputRoot) {
   fs.mkdirSync(navigator);
   fs.copyFileSync(path.join(sourceRoot, 'business-registration/index.html'), path.join(navigator, 'index.html'));
   for (const state of publicStates) fs.cpSync(path.join(sourceRoot, 'business-registration', state.slug), path.join(navigator, state.slug), { recursive: true });
-  // Keep the same browser contract while removing review-only state details.
-  data.states = data.states.map(s => s.publication_status === 'published' ? s : ({ state: s.state, state_code: s.state_code, slug: s.slug, publication_status: 'coming_soon', public_url: '' }));
+  // Keep the Navigator browser contract while excluding internal review records.
+  data.states = data.states.map(s => s.state_code === 'OK' ? s : ({
+    state: s.state, state_code: s.state_code, slug: s.slug,
+    publication_status: s.publication_status, public_url: s.public_url
+  }));
   fs.writeFileSync(path.join(outputRoot, 'assets/business-registration-data.js'), `(function () { "use strict"; window.NINZ_BUSINESS_REGISTRATION = ${JSON.stringify(data, null, 2)}; }());\n`);
   return outputRoot;
 }
