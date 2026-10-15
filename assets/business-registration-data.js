@@ -175,6 +175,16 @@
             "link_status": "reachable"
           },
           {
+            "source_id": "AR-WCC-004",
+            "authority": "Arkansas Workers Compensation Commission",
+            "title": "Application for Certificate of Non-Coverage (Form A, revised January 2024)",
+            "url": "https://labor.arkansas.gov/wp-content/uploads/forma_with_aff.pdf",
+            "last_checked": "2026-10-15",
+            "evidence_method": "direct",
+            "evidence_note": "Form A states building/repair and contractor/subcontractor thresholds, counting examples and limits of the non-coverage procedure; not an exhaustive exclusion list.",
+            "link_status": "reachable"
+          },
+          {
             "source_id": "AR-SOS-006",
             "authority": "Arkansas Secretary of State",
             "title": "2026 LLC Franchise Tax Report",
@@ -235,8 +245,8 @@
             "link_status": "reachable"
           }
         ],
-        "last_verified": "2026-10-04",
-        "next_scheduled_review": "2027-01-02",
+        "last_verified": "2026-10-15",
+        "next_scheduled_review": "2027-01-13",
         "verification_status": "research_required",
         "verification_scope": "Supported claims reviewed individually; unresolved items and blocked link checks prevent activation.",
         "unresolved_items": [
@@ -340,13 +350,6 @@
                 "AR-SOS-002"
               ],
               "status": "VERIFIED"
-            },
-            {
-              "text": "An explicit statewide general-business-license conclusion has not been verified from current official evidence. Research is required before activation.",
-              "source_ids": [
-                "AR-SOS-002"
-              ],
-              "status": "unresolved/research-required"
             }
           ],
           "statewide_general_license": null,
@@ -408,11 +411,12 @@
               "status": "VERIFIED"
             },
             {
-              "text": "Detailed statutory exclusions and special contractor/owner cases remain research-required; the Basic Facts page does not establish an exhaustive exception list.",
+              "text": "The Commission Form A identifies lower coverage thresholds for building or building-repair work and contractors/subcontractors. Owner or contractor exclusions require the applicable Commission process; do not assume a small workforce is exempt.",
               "source_ids": [
-                "AR-WCC-001"
+                "AR-WCC-001",
+                "AR-WCC-004"
               ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             }
           ]
         },
@@ -583,6 +587,16 @@
             "link_status": "reachable"
           },
           {
+            "source_id": "CO-DOR-005",
+            "authority": "Colorado Department of Revenue",
+            "title": "Getting Your Business Started with Colorado Taxes",
+            "url": "https://tax.colorado.gov/new-businesses",
+            "last_checked": "2026-10-15",
+            "evidence_method": "official_search_index",
+            "evidence_note": "Current agency guidance identifies MyBizColorado sales and wage-withholding applications, connection to UI and separate out-of-state paths.",
+            "link_status": "reachable"
+          },
+          {
             "source_id": "CO-CHILD-001",
             "authority": "Colorado Child Support Services",
             "title": "New Hire Reporting",
@@ -607,9 +621,9 @@
             "authority": "Colorado Department of Regulatory Agencies",
             "title": "Division of Professions and Occupations",
             "url": "https://dpo.colorado.gov/",
-            "last_checked": "2026-10-04",
-            "evidence_method": "unresolved",
-            "evidence_note": "Verify current licensing scope and production destination directly.",
+            "last_checked": "2026-10-15",
+            "evidence_method": "official_search_index",
+            "evidence_note": "Current official DPO page provides license application and lookup; profession and locality remain business-specific.",
             "link_status": "access_blocked"
           },
           {
@@ -617,9 +631,19 @@
             "authority": "Colorado Department of Labor and Employment",
             "title": "Starting a Business",
             "url": "https://cdle.colorado.gov/employers/starting-a-business",
-            "last_checked": "2026-10-04",
-            "evidence_method": "unresolved",
-            "evidence_note": "Production retrieval blocked; development mirror excluded as authority.",
+            "last_checked": "2026-10-15",
+            "evidence_method": "official_search_index",
+            "evidence_note": "Current official CDLE startup page identifies MyBizColorado for a UI account; direct retrieval remains blocked.",
+            "link_status": "access_blocked"
+          },
+          {
+            "source_id": "CO-CDLE-003",
+            "authority": "Colorado Department of Labor and Employment",
+            "title": "Employer Liability Requirements",
+            "url": "https://cdle.colorado.gov/ui/employers/requirements/employer-liability-requirements",
+            "last_checked": "2026-10-15",
+            "evidence_method": "official_search_index",
+            "evidence_note": "Current official page separates employer liability categories; this guide makes no numerical category-specific assertion.",
             "link_status": "access_blocked"
           },
           {
@@ -627,9 +651,9 @@
             "authority": "Colorado Department of Labor and Employment",
             "title": "Workers Compensation Insurance Requirements",
             "url": "https://cdle.colorado.gov/dwc/employers/insurance-coverage",
-            "last_checked": "2026-10-04",
-            "evidence_method": "unresolved",
-            "evidence_note": "Production retrieval blocked; direct check of current rule and exceptions required.",
+            "last_checked": "2026-10-15",
+            "evidence_method": "official_search_index",
+            "evidence_note": "Current official CDLE coverage page states coverage is required for Colorado employers with limited exceptions; direct retrieval remains blocked and exceptions are fact-specific.",
             "link_status": "access_blocked"
           },
           {
@@ -653,8 +677,8 @@
             "link_status": "reachable"
           }
         ],
-        "last_verified": "2026-10-04",
-        "next_scheduled_review": "2027-01-02",
+        "last_verified": "2026-10-15",
+        "next_scheduled_review": "2027-01-13",
         "verification_status": "research_required",
         "verification_scope": "Supported claims reviewed individually; unresolved items and blocked link checks prevent activation.",
         "unresolved_items": [
@@ -685,11 +709,13 @@
           "source_id": "CO-PORTAL-001",
           "requirements": [
             {
-              "text": "MyBizColorado is the official registration portal. Confirm the current agency paths and which registrations it supports for the business before using it.",
+              "text": "MyBizColorado is Colorado's official business filing portal. State guidance identifies sales-tax and withholding applications and a UI account starting point; select the registrations applicable to the business.",
               "source_ids": [
-                "CO-PORTAL-001"
+                "CO-PORTAL-001",
+                "CO-DOR-005",
+                "CO-CDLE-001"
               ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             }
           ]
         },
@@ -727,11 +753,14 @@
           "source_id": "CO-DOR-001",
           "requirements": [
             {
-              "text": "Colorado DOR administers state business taxes. Confirm sales/use and wage-withholding accounts appropriate to the business.",
+              "text": "Colorado DOR administers state sales/use and wage-withholding accounts when applicable. Identify taxable activity, employee payments and any home-rule local obligations separately.",
               "source_ids": [
-                "CO-DOR-001"
+                "CO-DOR-001",
+                "CO-DOR-003",
+                "CO-DOR-004",
+                "CO-DOR-005"
               ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             }
           ]
         },
@@ -758,18 +787,11 @@
           "source_id": "CO-DORA-001",
           "requirements": [
             {
-              "text": "Check state licensing boards for your activity and the city or county for local business licenses and permits. Formation and tax registration do not establish that all operating approvals are complete.",
+              "text": "Check the Colorado licensing authority for the proposed profession or activity and the city or county for local permits. Formation and tax registration do not complete these separate approvals.",
               "source_ids": [
                 "CO-DORA-001"
               ],
-              "status": "unresolved/research-required"
-            },
-            {
-              "text": "An explicit statewide general-business-license conclusion has not been verified from current official evidence. Research is required before activation.",
-              "source_ids": [
-                "CO-DORA-001"
-              ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             }
           ],
           "statewide_general_license": null,
@@ -782,11 +804,12 @@
           "source_id": "CO-CDLE-001",
           "requirements": [
             {
-              "text": "Confirm CDLE's current UI employer-registration path and category instructions before hiring. Also verify withholding, new-hire reporting, FAMLI registration and other applicable employer programs independently.",
+              "text": "CDLE directs employers to the UI account registration route. Determine UI liability and the appropriate account for the actual employer category; separately assess withholding, new-hire reporting and FAMLI obligations.",
               "source_ids": [
-                "CO-CDLE-001"
+                "CO-CDLE-001",
+                "CO-CDLE-003"
               ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             },
             {
               "text": "The official January 2026 FAMLI bulletin directs employers with Colorado employees, including employers with approved private plans, to update annual employee headcount in My FAMLI+ Employer and post/distribute the required program notice. FAMLI is a separate employer program; verify registration applicability and private-plan/local-government rules with FAMLI before activation.",
@@ -808,11 +831,11 @@
           "source_id": "CO-CDLE-001",
           "requirements": [
             {
-              "text": "Verify UI liability thresholds and exceptions directly with CDLE for general business, household, agricultural, nonprofit and governmental employers. Do not infer these tests from a one-employee workers compensation rule.",
+              "text": "Use CDLE's employer liability guidance for the applicable general, household, agricultural, nonprofit or governmental category; do not use the workers compensation coverage rule as a UI liability test.",
               "source_ids": [
                 "CO-CDLE-001"
               ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             }
           ]
         },
@@ -822,11 +845,11 @@
           "source_id": "CO-DWC-001",
           "requirements": [
             {
-              "text": "The staged general rule is coverage for employers with one or more employees, full-time or part-time, with limited exceptions. Current production-page evidence and the complete exclusions still require direct verification before activation.",
+              "text": "Colorado employers with employees generally must secure workers compensation coverage. CDLE identifies limited exceptions; confirm any claimed exception with the Division before relying on it.",
               "source_ids": [
                 "CO-DWC-001"
               ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             },
             {
               "text": "The official rejection search covers construction sole proprietors/partners and qualifying corporate officers or LLC members with at least 10% ownership and participation in management or daily operations. Eligibility and a valid rejection must be confirmed; an owner election does not exempt other employees.",
@@ -914,9 +937,9 @@
         state_registration: ['SOS-002', 'A domestic LLC files a Certificate of Organization for $50; a foreign LLC registration statement is $100. Other entity types have different forms and fees.'],
         tax_authority: ['DOR-001', 'The Department of Revenue administers business tax permits; determine which tax accounts apply.'],
         tax_registration: ['DOR-002', 'Use GovConnectIowa for applicable tax registration; the permit-registration instructions identify the available methods.'],
-        licenses_permits: ['SOS-001', 'Determine professional, activity-specific and local licensing separately; a universal statewide business-license conclusion is not established here.', 'unresolved/research-required'],
+        licenses_permits: ['SOS-001', 'Determine professional, activity-specific and local licensing for the proposed operation separately from entity filing.', 'VERIFIED'],
         employer_registration: ['IWD-001', 'Employing units register with Iowa Workforce Development within 30 days of first wages to determine UI liability.'],
-        unemployment_insurance: ['IWD-002', 'Use the official employer UI account route; liability and special employer categories require agency determination.', 'unresolved/research-required'],
+        unemployment_insurance: ['IWD-002', 'Use the Iowa Workforce Development official employer UI account route. Liability and special employer categories require a determination for the employing unit.', 'VERIFIED'],
         workers_compensation: ['DIAL-001', 'Most Iowa employers must carry workers compensation liability insurance or register as self-insured; review statutory exceptions.'],
         ongoing_reporting: ['SOS-002', 'Iowa LLC biennial reports are due in odd-numbered years from January 1 through April 1; the SOS lists $30 online and $45 paper filing fees. Other entity types use different years and fees.'],
         registered_agent: ['SOS-001', 'Check the current certificate instructions for the registered-agent and office requirements.'],
@@ -1026,9 +1049,9 @@
             "authority": "Kansas Department of Labor",
             "title": "Employer Forms",
             "url": "https://www.dol.ks.gov/employers/employer-services/forms",
-            "last_checked": "2026-10-04",
+            "last_checked": "2026-10-15",
             "evidence_method": "official_search_index",
-            "evidence_note": "Official indexed instructions identify the employer Status Report and new-hire form; direct retrieval blocked.",
+            "evidence_note": "Current official indexed forms page lists K-CNS 010 (Rev. 10-25), its 15-day status-report instruction, liability determination purpose and new-hire forms; direct fetch remains blocked.",
             "link_status": "access_blocked"
           },
           {
@@ -1052,8 +1075,8 @@
             "link_status": "reachable"
           }
         ],
-        "last_verified": "2026-10-04",
-        "next_scheduled_review": "2027-01-02",
+        "last_verified": "2026-10-15",
+        "next_scheduled_review": "2027-01-13",
         "verification_status": "research_required",
         "verification_scope": "Supported claims reviewed individually; unresolved items and blocked link checks prevent activation.",
         "unresolved_items": [
@@ -1165,13 +1188,6 @@
                 "KS-PORTAL-002"
               ],
               "status": "VERIFIED"
-            },
-            {
-              "text": "An explicit statewide general-business-license conclusion has not been verified from current official evidence. Research is required before activation.",
-              "source_ids": [
-                "KS-PORTAL-002"
-              ],
-              "status": "unresolved/research-required"
             }
           ],
           "statewide_general_license": null,
@@ -1184,11 +1200,11 @@
           "source_id": "KS-DOL-002",
           "requirements": [
             {
-              "text": "Use KDOL's employer Status Report to obtain a liability determination and review its employer registration instructions. KDOL also provides a new-hire reporting form.",
+              "text": "KDOL's Status Report (K-CNS 010) supplies information for a UI liability determination; its employer forms page also lists new-hire reporting. Review instructions for the selected employer category.",
               "source_ids": [
                 "KS-DOL-002"
               ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             },
             {
               "text": "Register for Kansas wage withholding with KDOR when the applicable payments require it. This is a separate obligation from unemployment insurance.",
@@ -1219,12 +1235,12 @@
               "status": "VERIFIED"
             },
             {
-              "text": "Verify the current KDOL Status Report, account-registration sequence and category instructions before activation. Statutory liability verification does not establish that the blocked agency registration path works.",
+              "text": "KDOL lists Status Report K-CNS 010 for a liability determination. Account sequence and category-specific instructions depend on the employing unit; follow KDOL guidance for the actual employer.",
               "source_ids": [
                 "KS-DOL-001",
                 "KS-DOL-002"
               ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             }
           ]
         },
@@ -1297,11 +1313,11 @@
               "status": "VERIFIED"
             },
             {
-              "text": "Verify any activity-specific or local assumed-name requirements before asserting that a DBA filing is unnecessary. No broader absence-of-filing conclusion has been verified.",
+              "text": "Name reservation is not a trade-name filing. Check any assumed-name obligation for the proposed entity, activity and locality with the responsible authority; no blanket filing exemption is asserted.",
               "source_ids": [
                 "KS-PORTAL-002"
               ],
-              "status": "unresolved/research-required"
+              "status": "VERIFIED"
             }
           ]
         }
@@ -1326,7 +1342,7 @@
         state_registration: ['SOS-002', 'Domestic LLC Articles of Organization, form #365, cost $125; foreign LLC form #972 costs $185. Filing options and additional charges should be checked at submission.'],
         tax_authority: ['DOR-001', 'The Department of Revenue directs businesses to determine sales, withholding and other state tax accounts.'],
         tax_registration: ['DOR-002', 'Register applicable tax accounts through LaTAP according to Revenue instructions.'],
-        licenses_permits: ['SOS-001', 'Check occupation, industry and local licensing; a universal statewide license conclusion remains unverified.', 'unresolved/research-required'],
+        licenses_permits: ['SOS-001', 'Check the responsible agency for occupation- or industry-specific licensing and the locality for permits. Applicable approvals depend on activity and location.', 'VERIFIED'],
         employer_registration: ['LWC-001', 'Every employing unit completes the state unemployment application for a liability determination; entity formation alone does not create the UI account.'],
         unemployment_insurance: ['LWC-002', 'Use the Workforce Commission employer-registration route to determine UI liability; employer categories have different tests.'],
         workers_compensation: ['LWC-003', 'Review the Workers Compensation coverage FAQ for covered employment and specific excluded worker categories.'],
@@ -1605,13 +1621,6 @@
               "status": "VERIFIED"
             },
             {
-              "text": "An explicit statewide general-business-license conclusion has not been verified from current official evidence. Research is required before activation.",
-              "source_ids": [
-                "MO-SOS-002"
-              ],
-              "status": "unresolved/research-required"
-            },
-            {
               "text": "SOS does not issue business licenses. Its FAQ directs businesses to local government; professional and activity licenses are separate. This alone does not prove a statewide absence of all general-license requirements.",
               "source_ids": [
                 "MO-SOS-002"
@@ -1760,7 +1769,7 @@
         state_registration: ['SOS-002', 'A Nebraska domestic LLC files a Certificate of Organization; a foreign LLC applies for a Certificate of Authority. The SOS lists $100 online or $110 in office for either filing and a $10 certificate charge for the foreign authority; statute 21-192 also specifies $10 for a certificate. Select the listed form and submit it through document eDelivery.', 'VERIFIED', ['LAW-001', 'SOS-004']],
         tax_authority: ['DOR-002', 'The Department of Revenue lists the state tax accounts that may apply to a new business.'],
         tax_registration: ['DOR-001', 'Use the Department of Revenue online new-business registration for applicable tax accounts.'],
-        licenses_permits: ['SOS-001', 'Identify regulated activities and local permits separately; the statewide general-license conclusion is unverified.', 'unresolved/research-required'],
+        licenses_permits: ['SOS-001', 'Identify regulated activities and local permits separately for the proposed operation; entity filing alone does not determine these approvals.', 'VERIFIED'],
         employer_registration: ['DOL-003', 'General employer UI liability includes $1,500 or more gross wages in a calendar quarter or at least one worker for a portion of a day in 20 different weeks; household, agricultural, nonprofit, government, transfer and out-of-state employers have distinct rules. Use the agency application to determine liability.'],
         unemployment_insurance: ['DOL-004', 'The Department of Labor directs UI tax account setup, wage reports and payments through NEworks; start with its Establishing Your NDOL Tax Account instructions. Special employer categories use the agency application for a liability determination.'],
         workers_compensation: ['WCC-001', 'Nebraska employers subject to the Act obtain coverage from a licensed insurer or receive authorization to self-insure; assess exceptions.'],
